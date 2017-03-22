@@ -76,9 +76,6 @@ $(document).ready(function () {
     })
 
 });
-
-
-
 // fancybox
 $(".fancybox").fancybox({
     padding: 0,
@@ -108,7 +105,7 @@ $('#contact-submit').click(function () {
     $('#msg').addClass('hidden');
     $.ajax({
         type: "POST",
-        url: 'sendmail.php',
+        url: 'php/sendmail.php',
         dataType: 'json',
         cache: false,
         data: {
@@ -131,7 +128,6 @@ $('#contact-submit').click(function () {
                 json.campo.forEach(function(string) {
                     $(string).addClass('error');
                 });
-                
             }
         }
     }, 'json');

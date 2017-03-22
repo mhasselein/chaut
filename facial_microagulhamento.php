@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Botox Clínica Haut</title>
+        <title>Microagulhamento</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="author" content="">
@@ -85,7 +85,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="" src="images/portfolio/post-1.jpg">
+                                <img class="img-responsive" alt="" src="images/portfolio/microagulhamento.jpg">
                             </div>
                         </div>
                         <div class="col-md-6">

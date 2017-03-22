@@ -140,11 +140,11 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/carboxiterapi_capilar.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/carboxiterapia_capilar.jpg" class="img-responsive" alt="" >
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/carboxiterapia_capilar.jpg">Slide</a>        
-                                        <a  href="capilar_carboxiterapi.php">Detalhes</a>
+                                        <a  href="capilar_carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
@@ -162,10 +162,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/led_cavicie.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/led_capilar.jpg" class="img-responsive" alt="" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/led_cavicie.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/led_capilar.jpg">Slide</a>        
                                         <a  href="capilar_led.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -185,59 +185,44 @@
                 </div>
             </div>
         </section>
-<!--         ================================================== 
-            Clients Section Start
-        ================================================== 
-        <section id="clients">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">Our Happy Clinets</h2>
-                        <p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.</p>
-                        <div id="clients-logo" class="owl-carousel">
-                            <div>
-                                <img src="images/clients/logo-1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-2.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-3.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-4.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-5.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-2.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-3.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-4.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-5.jpg" alt="">
+        <!--         ================================================== 
+                    Clients Section Start
+                ================================================== 
+                <section id="clients">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">Clientes</h2>
+                                <p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">Depoimento de Alguns de nossos Clientes</p>
+                                <div id="clients-logo" class="owl-carousel">
+                                    <div>
+                                        <img src="images/clients/cliente-1.jpg" alt="">
+                                    </div>
+                                    <div>
+                                        <img src="images/clients/cliente-2.jpg" alt="">
+                                    </div>
+                                    <div>
+                                        <img src="images/clients/cliente-3.jpg" alt="">
+                                    </div>
+                                    <div>
+                                        <img src="images/clients/cliente-4.jpg" alt="">
+                                    </div>
+                                    <div>
+                                        <img src="images/clients/cliente-5.jpg" alt="">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>-->
+                </section>-->
         <!-- ================================================== 
            Contato Footer
         ================================================== -->
-        <?php include_once 'contato_footer.php';?>
+        <?php include_once 'contato_footer.php'; ?>
         <!-- ================================================== 
             Footer Section Start
         ================================================== -->
-        <?php include_once 'footer.php';?>
+        <?php include_once 'footer.php'; ?>
 
     </body>
 </html>

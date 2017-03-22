@@ -168,11 +168,10 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
+                                    <img src="images/portfolio/microagulhamento.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
                                         <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                             <!--<a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>-->
                                             <a  href="facial_microagulhamento.php">Mais Detalhes</a>
                                         </div>
                                     </div>
