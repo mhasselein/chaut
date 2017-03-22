@@ -104,6 +104,8 @@ $('#contact-submit').click(function () {
     var assunto = $('#assunto').val();
     var mensagem = $('#mensagem').val();
     var fone = $('#fone').val();
+    $('#nome,#email,#fone,#assunto,#mensagem').removeClass('error');
+    $('#msg').addClass('hidden');
     $.ajax({
         type: "POST",
         url: 'sendmail.php',
@@ -117,17 +119,19 @@ $('#contact-submit').click(function () {
             fone: fone
         },
         success: function (json) {
-            alert()
             if(json.info == 1){
                 $('#msg').removeClass('hidden');
                 $('#msg').addClass('alert-success');
-                $('#msg').html('Seu email foi enviado com Sucesso');
+                $('#msg').html(json.msg);
             }else {
                 $('#msg').removeClass('hidden');
                 $('#msg').addClass('alert-danger');
                 $('#msg').html(json.msg);
+                json.campo.forEach(function(string) {
+                    $(string).addClass('error');
+                });
+                
             }
-
         }
     }, 'json');
 

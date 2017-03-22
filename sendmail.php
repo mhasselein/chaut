@@ -41,37 +41,50 @@ $fone = $_POST['fone'];
         }
         
          $msg = "Lamentamos, mas houve erros encontrados com o formulário enviado.<br/> ";
-         $msg .= "Corrija os erros abaixo.<br/>";
+         $msg .= "Corrija os erros abaixo:<br/>";
          $msg .= $error . "<br/>";
+         $campo = substr($campo, 0, -1);
+         $campo = explode(',', $campo);
          response('error', array('msg' => $msg, 'campo' => $campo));
     }
 
 
-    $error_message = "";
+    $error_message = "Lamentamos, mas houve erros encontrados com o formulário enviado.<br/> Corrija os erros abaixo:<br/>";
+    
+    $campo = "";
+    $string_exp = "/^[A-Za-z .'-]+$/";
+    
+    if (!preg_match($string_exp, $nome) || strlen($nome) < 2) {
+        $error_message .= 'O nome introduzido não parece ser válido.<br />';
+        $campo .= '#nome,';
+    }
+    
     $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
-
     if (!preg_match($email_exp, $email)) {
         $error_message .= 'O endereço de e-mail que você digitou não parece ser válido.<br />';
+        $campo .= '#email,';
+    }
+    if (strlen($fone) < 5) {
+        $error_message .= 'O telefone que você digitou não parece ser válido.<br />';
+        $campo .= '#fone,';
     }
 
-    $string_exp = "/^[A-Za-z .'-]+$/";
-
-    if (!preg_match($string_exp, $nome)) {
-        $error_message .= 'O nome introduzido não parece ser válido.<br />';
-    }
-
-    if (!preg_match($string_exp, $assunto)) {
+    if (!preg_match($string_exp, $assunto) && strlen($assunto)> 2) {
         $error_message .= 'O Assunto que você digitou não parece ser válido.<br />';
+        $campo .= '#assunto,';
     }
-
+    
     if (strlen($mensagem) < 2) {
-        $error_message .= 'A Mensagem que você digitou não parecem ser válidos.<br />';
+        $error_message .= 'A Mensagem que você digitou não parece ser válidos.<br />';
+        $campo .= '#mensagem,';
     }
-
-    if (strlen($error_message) > 0) {
-        died($error_message);
+    $msg_erro = strlen($error_message);
+    if ($msg_erro > 101) {
+        $campo = substr($campo, 0, -1);
+        $campo = explode(',', $campo);
+        response('error', array('msg' => $error_message, 'campo' => $campo));
     }
-
+    
     $email_message = "Detalhes do email.\n\n";
 
     function clean_string($string) {
@@ -90,6 +103,9 @@ $fone = $_POST['fone'];
             'Reply-To: ' . $email . "\r\n" .
             'X-Mailer: PHP/' . phpversion();
     $email_ok = mail($email_to, $email_subject, $email_message, $headers);
+    if($email_ok){
+        response('success', array('msg' => 'Seu email foi enviado com sucesso!'));
+    }
 
 ?>
 

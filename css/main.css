@@ -1132,8 +1132,15 @@ article {
     font-size: 14px;
 }
 .error{
-    border: 1px solid red !important; 
-    background-color:#f7dddd !important;
-    border: 1px solid red !important; 
-    box-shadow: 1px 1px 1px red !important;
+    border: 1px solid #d2322d !important;
+    box-shadow: 0 0 2px #D11919 !important;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border: 1px solid #f02747;
+    padding: 5px;
+    font-size: 12px;
+    box-shadow: 0 0 2px #D11919 !important;
 }
