@@ -1144,3 +1144,11 @@ article {
     font-size: 12px;
     box-shadow: 0 0 2px #D11919 !important;
 }
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border: solid 1px #3c763d;
+    padding: 5px;
+    font-size: 12px;
+    box-shadow: 0 0 2px #3c763d !important;
+}
