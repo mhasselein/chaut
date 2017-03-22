@@ -123,6 +123,7 @@ $('#contact-submit').click(function () {
                 $('#msg').removeClass('hidden');
                 $('#msg').addClass('alert-success');
                 $('#msg').html(json.msg);
+                $('#nome,#email,#fone,#assunto,#mensagem').val('');
             }else {
                 $('#msg').removeClass('hidden');
                 $('#msg').addClass('alert-danger');
