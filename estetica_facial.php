@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Estética facial </title>
+        <title>Estética Facial </title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="author" content="">
@@ -247,10 +247,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/microagulhamento.jpg">Slide</a>        
                                         <a  href="facial_microagulhamento.php">Detalhes</a>
                                     </div>
                                 </div>
