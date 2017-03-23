@@ -104,7 +104,7 @@
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal-microagulhamento.php">
+                                    <a href="capilar-microagulhamento.php">
                                         Microagulhamento Capilar (Dermaroler)        
                                     </a>
                                 </h4>
@@ -127,7 +127,7 @@
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal-mesoterapia.php">
+                                    <a href="capilar-mesoterapia.php">
                                         Mesoterapia       
                                     </a>
                                 </h4>
@@ -144,13 +144,13 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/carboxiterapia_capilar.jpg">Slide</a>        
-                                        <a  href="corporal-carboxiterapia.php">Detalhes</a>
+                                        <a  href="capilar-carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal-carboxiterapia.php">
+                                    <a href="capilar-carboxiterapia.php">
                                         Carboxiterapia        
                                     </a>
                                 </h4>
@@ -166,13 +166,13 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/led_capilar.jpg">Slide</a>        
-                                        <a  href="corporal-led.php">Detalhes</a>
+                                        <a  href="capilar-led.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal-led.php">
+                                    <a href="capilar-led.php">
                                         Led Capilar      
                                     </a>
                                 </h4>

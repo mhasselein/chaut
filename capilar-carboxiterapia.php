@@ -1,22 +1,20 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <!-- Basic Page Needs
-        ================================================== -->
+        <!-- Basic Page Needs================================================== -->
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Carboxiterapia</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
-        <!-- Mobile Specific Metas
-        ================================================== -->
+        <title>Carboxiterapia | Clínica de Estética | Clínica Haut | Queda de Cabelo</title>
+        <meta name="description" content="Carboxiterapia para queda de cabelos é um tratamento extremamente eficaz na prevenção da calvície. Clínica Haut (54)99912-8848.">
+        <meta name="keywords" content="Microagulhamento, Dermaroler, Clínica de Estética, Clínica Haut, Carboxiterapia, Led Capilar,Mesoterapia, Queda de Cabelo, Couro Cabeludo, Pele, Tratamento Estético, Calvície, Crescimento de Cabelo">
+        <meta name="author" content="Mateus hasselein">
+        <meta name="robots" content="index, follow">
+        <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- Template CSS Files
-        ================================================== -->
+        <!-- Template CSS Files================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- Ionicons Fonts Css -->
@@ -34,8 +32,7 @@
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
 
-        <!-- Template Javascript Files
-        ================================================== -->
+        <!-- Template Javascript Files================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
@@ -71,7 +68,7 @@
                             <h2>Carboxiterapia </h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="estetica_capilar.php">Estética Capilar</a></li>
+                                <li><a href="estetica-capilar.php">Estética Capilar</a></li>
                                 <li class="active">Carboxiterapia</li>
                             </ol>
                         </div>
@@ -85,17 +82,17 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="" src="images/portfolio/carboxiterapia_capilar.jpg">
+                            <img class="img-responsive" alt="Carboxiterapia Capilar" src="images/portfolio/carboxiterapia_capilar.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="portfolio-content" style="padding: 0px;">
                             <h3>Carboxiterapia</h3>
                             <p>
-                                Carboxiterapia capilar é a técnica que utiliza aplicação injetável de gás carbônico medicinal diretamente no couro cabeludo, com intuito de aumentar a irrigação sanguínea na raiz dos fios e estimular os folículos capilares.
+                                <strong>Carboxiterapia capilar</strong> é a técnica que utiliza aplicação injetável de gás carbônico medicinal diretamente no <strong>couro cabeludo</strong>, com intuito de aumentar a irrigação sanguínea na raiz dos fios e estimular os folículos capilares.
                             </p>
                             <p> 
-                                É indicada em casos de queda de cabelo, principalmente o eflúvio telógeno, quando os fios na fase final de sua vida caem em grande quantidade. Também é indicado para alguns tipos de calvície, como a alopécia androgenética, aquela causada por herança genética e famosa entre os homens.
+                                É indicada em casos de <strong>queda de cabelo</strong>, principalmente o eflúvio telógeno, quando os fios na fase final de sua vida caem em grande quantidade. Também é indicado para alguns tipos de <strong>calvície</strong>, como a alopécia androgenética, aquela causada por herança genética e famosa entre os homens.
                             </p>
                             <p>
                                 Em media, após dois meses, pode se notar o crescimento de novos fios, mais grossos e fortes. Espera-se um aumento na quantidade de fios, uma maior densidade e volume.
@@ -111,7 +108,7 @@
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
                 <p class="subtitle-des">
-                    Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram o tratamento com <strong>carboxiterapia</strong> para <strong>queda de cabelo</strong>,<br> tambem procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
                 </p>
                 <div class="row">
                     <div class="row">
@@ -121,18 +118,18 @@
                                     <img src="images/portfolio/led_capilar.jpg" class="img-responsive" alt="Led capilar" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="capilar_led.php">Mais Detalhes</a>
+                                            <a href="capilar-led.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="capilar_led.php">
-                                            Led
+                                        <a href="capilar-led.php">
+                                            Led Capilar
                                         </a>
                                     </h4>
                                     <p>
-                                        O LED capilar está indicado para qualquer tipo de queda de cabelo, independente da causa, pois atua fazendo fotobioestimulação. A luz penetra no local aplicado, atinge as células, e estimula seu metabolismo ...
+                                        O <strong>LED capilar</strong> está indicado para qualquer tipo de <strong>queda de cabelo</strong>, independente da causa, pois atua fazendo fotobioestimulação. A luz penetra no local aplicado, atinge as células, e estimula seu...
                                     </p>
                                 </figcaption>
                             </figure>
@@ -143,18 +140,18 @@
                                     <img src="images/portfolio/microagulhamento_capilar.jpg" class="img-responsive" alt="Microagulhamento Capilar" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="capilar_microagulhamento.php">Mais Detalhes</a>
+                                            <a href="capilar-microagulhamento.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="capilar_microagulhamento.php">
+                                        <a href="capilar-microagulhamento.php">
                                             Microagulhamento Capilar
                                         </a>
                                     </h4>
                                     <p>
-                                        O procedimento do microagulhamento é inspirado na milenar técnica chinesa da Acupuntura. Partindo do mesmo princípio, o tratamento cria microlesões no couro cabeludo do paciente para estimular o local ...
+                                        O procedimento do <strong>microagulhamento</strong> é inspirado na milenar técnica chinesa da Acupuntura. Partindo do mesmo princípio, o tratamento cria microlesões no <strong>couro cabeludo</strong> do paciente para estimular...
                                     </p>
                                 </figcaption>
                             </figure>
@@ -166,20 +163,19 @@
                                     <div class="overlay">
                                         <div class="overlay">
                                             <div class="buttons" style="left: 30%">
-                                                <!--<a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>-->
-                                                <a  href="capilar_mesoterapia.php">Mais Detalhes</a>
+                                                <a  href="capilar-mesoterapia.php">Mais Detalhes</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="capilar_mesoterapia.php">
+                                        <a href="capilar-mesoterapia.php">
                                             Mesoterapia
                                         </a>
                                     </h4>
                                     <p>
-                                        Esse tratamento consiste na aplicação de substâncias logo abaixo da pele para diminuir a queda capilar e estimular o crescimento de fios. Primeiramente é feita uma limpeza da área que será...
+                                        <strong>Mesoterapia</strong> é um <strong>tratamento estético</strong> consiste na aplicação de substâncias logo abaixo da <strong>pele</strong> para diminuir a <strong>queda de cabelo</strong> e estimular o crescimento de fios. Primeiramente...
                                     </p>
                                 </figcaption>
                             </figure>

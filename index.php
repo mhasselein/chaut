@@ -120,7 +120,7 @@
                     <div class="section-heading">
                         <h1 class="title wow fadeInDown" data-wow-delay=".3s">Tratamentos Estéticos</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            A <strong>clínica Haut</strong> possui o que existe de melhor em tecnologia e com profissionais qualificados. Esta habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, Olheiras, calvicie, manchas na pele, flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos</strong> e muito mais... 
+                            A <strong>clínica Haut</strong> possui o que existe de melhor em tecnologia e profissionais qualificados. Está habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, olheiras, calvicie, manchas na pele, flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos</strong> e muito mais... 
                         </p>
                     </div>
                     <div class="row">
@@ -163,7 +163,7 @@
                                 </a>
                                 </h4>
                                 <p>
-                                    <a href="corporal-lipocavitacao.php">Lipocavitação</a>, <a href="corporal-carboxiterapia.php">Carboxiterapia</a>, <a href="corporal-drenagem-linfatica_manual.php">Drenagem Linfática Manual</a>, <a href="corporal-endermologia.php">Endermologia</a>, <a href="corporal-mesoterapia.php">Mesoterapia</a>, <a href="corporal-radiofrequencia.php">Radiofrequência</a>
+                                    <a href="corporal-lipocavitacao.php">Lipocavitação</a>, <a href="corporal-carboxiterapia.php">Carboxiterapia</a>, <a href="corporal-drenagem-linfatica_manual.php">Drenagem Linfática Manual</a>, <a href="corporal-endermologia.php">Endermologia</a>, <a href="corporal-mesoterapia.php">Mesoterapia</a>, <a href="corporal-radiofrequencia.php">Radiofrequência</a>, <a href="fotodepilacao.php.php">Fotodepilação.</a><br>&nbsp
                                 </p>
                                 </figcaption>
                             </figure>
@@ -175,19 +175,19 @@
                                     <div class="overlay">
                                         <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a  href="facial_microagulhamento.php">Mais Detalhes</a>
+                                            <a  href="estetica-capilar.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="facial_microagulhamento.php">
+                                <a href="estetica-capilar.php">
                                     Estética Capilar
                                 </a>
                                 </h4>
                                 <p>
-                                    O tratamento é realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na pele...
+                                    <a href="capilar-microagulhamento.php">Microagulhamento Capilar (Dermaroler)</a>, <a href="capilar-mesoterapia.php">Mesoterapia</a>, <a href="capilar-carboxiterapia.php">Carboxiterapia Capilar</a>, <a href="capilar-led.php">Led Capilar</a> &nbsp<br> &nbsp<br> &nbsp
                                 </p>
                                 </figcaption>
                             </figure>
