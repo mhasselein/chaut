@@ -11,7 +11,7 @@
                                 <i class="ion-social-facebook"></i>
                             </a>
                         </li>
-                        <li>
+<!--                        <li>
                             <a href="#" class="Twitter">
                                 <i class="ion-social-twitter"></i>
                             </a>
@@ -25,7 +25,7 @@
                             <a href="#" class="Google Plus">
                                 <i class="ion-social-googleplus"></i>
                             </a>
-                        </li>
+                        </li>-->
 
                     </ul>
                 </div>

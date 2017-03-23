@@ -34,9 +34,9 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tratamentos <span class="caret"></span></a>
                                 <div class="dropdown-menu">
                                     <ul>
-                                        <li><a href="estetica_corporal.php">Estética Corporal</a></li>
-                                        <li><a href="estetica_facial.php">Estética Facial</a></li>
-                                        <li><a href="estetica_capilar.php">Estética Capilar</a></li>
+                                        <li><a href="estetica-corporal.php">Estética Corporal</a></li>
+                                        <li><a href="estetica-facial.php">Estética Facial</a></li>
+                                        <li><a href="estetica-capilar.php">Estética Capilar</a></li>
                                         <li><a href="fotodepilacao.php">Fotodepilação</a></li>
                                         <li><a href="nutricao.php">Nutrição</a></li>
                                         

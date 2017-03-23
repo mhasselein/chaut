@@ -310,6 +310,19 @@ a:hover {
   font-size: 30px;
   color: #fff;
 }
+.works a{
+    color: #5B4936;
+}
+.works a:hover{
+    color: #5B4936;
+    font-weight: bold;
+}
+.works h4 a{
+    color: #D8AF71;
+}
+.works h4 a:hover{
+    color: #5B4936;
+}
 figure {
   background: #fff;
   margin-bottom: 45px;

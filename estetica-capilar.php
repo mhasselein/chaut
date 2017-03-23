@@ -6,15 +6,15 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Estética Capilar </title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <title>Estética Capilar | Clínica de Estética | Clínica Haut</title>
+        <meta name="description" content="Calvície ou queda de cabelos é multifatorial, mas a base dela é genética. Temos o melhor tratamento para você, venha nos visitar e faça uma avaliação gratuita.">
+        <meta name="keywords" content="Estética Capilar, Clínica de Estética, Clínica Haut,  Calvicie, Queda de Cabelos, Microagulhamento Capilar, Dermaroler, Mesoterapia, Pele, Carboxiterapia, Capilar, Couro Cabeludo, Led ">
+        <meta name="author" content="Mateus Hasselein">
+        <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas
         ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <!-- Template CSS Files
         ================================================== -->
         <!-- Twitter Bootstrs CSS -->
@@ -86,30 +86,30 @@
         ================================================== -->
         <section class="works service-page">
             <div class="container">
-                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Some Of Our Features Works</h2>
+                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos para Estética Capilar</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
-                    Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                    Preocupado com a <strong>queda de cabelo</strong>? Venha para nossa <strong>Clínica de Estética</strong>, aqui oferecemos os melhores tratamentos para você! 
                 </p>
                 <div class="row" id="tratamentos_faciais">
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/microagulhamento_capilar.jpg" class="img-responsive" alt="this is a title" >
+                                <img src="images/portfolio/microagulhamento_capilar.jpg" class="img-responsive" alt="Microagulhamento Capilar" >
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/microagulhamento_capilar.jpg">Slide</a>        
-                                        <a href="capilar_microagulhamento.php">Detalhes</a>
+                                        <a href="capilar-microagulhamento.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="capilar_microagulhamento.php">
-                                        Microagulhamento Capilar        
+                                    <a href="corporal-microagulhamento.php">
+                                        Microagulhamento Capilar (Dermaroler)        
                                     </a>
                                 </h4>
                                 <p>
-                                    O procedimento do microagulhamento é inspirado na milenar técnica chinesa da Acupuntura. Partindo do mesmo princípio, o tratamento cria microlesões no couro cabeludo do paciente para estimular o local ...
+                                    <strong>Microagulhamento</strong> ou <strong>dermaroler</strong> é inspirado na milenar técnica chinesa da Acupuntura. Partindo do mesmo princípio, o tratamento cria microlesões no <strong>couro cabeludo</strong> do paciente...
                                 </p>
                             </figcaption>
                         </figure>
@@ -117,22 +117,22 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/mesoterapia_capilar.jpg" class="img-responsive" alt="this is a title" >
+                                <img src="images/portfolio/mesoterapia_capilar.jpg" class="img-responsive" alt="Mesoterapia Capilar" >
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/mesoterapia_capilar.jpg">Slide</a>        
-                                        <a  href="capilar_mesoterapia.php">Detalhes</a>
+                                        <a  href="capilar-mesoterapia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="capilar_mesoterapia.php">
+                                    <a href="corporal-mesoterapia.php">
                                         Mesoterapia       
                                     </a>
                                 </h4>
                                 <p>
-                                    Esse tratamento consiste na aplicação de substâncias logo abaixo da pele para diminuir a queda capilar e estimular o crescimento de fios. Primeiramente é feita uma limpeza da área que será...
+                                    O tratamento através da <strong>mesoterapia</strong> consiste na aplicação de substâncias logo abaixo da <strong>pele</strong> para diminuir a <strong>queda de cabelos</strong> e estimular o crescimento de fios. Primeiramente é feita uma...
                                 </p>
                             </figcaption>
                         </figure>
@@ -140,44 +140,44 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/carboxiterapia_capilar.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/carboxiterapia_capilar.jpg" class="img-responsive" alt="Carboxiterapia Capilar" >
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/carboxiterapia_capilar.jpg">Slide</a>        
-                                        <a  href="capilar_carboxiterapia.php">Detalhes</a>
+                                        <a  href="corporal-carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="capilar_carboxiterapia.php">
+                                    <a href="corporal-carboxiterapia.php">
                                         Carboxiterapia        
                                     </a>
                                 </h4>
                                 <p>
-                                    Carboxiterapia capilar é a técnica que utiliza aplicação injetável de gás carbônico medicinal diretamente no couro cabeludo, com intuito de aumentar a irrigação sanguínea na raiz dos fios e ... </p>
+                                    <strong>Carboxiterapia capilar</strong> é a técnica que utiliza aplicação injetável de gás carbônico medicinal diretamente no <strong>couro cabeludo</strong>, com intuito de aumentar a irrigação sanguínea na raiz dos fios e ... </p>
                             </figcaption>
                         </figure>
                     </div>
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/led_capilar.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/led_capilar.jpg" class="img-responsive" alt="Led Capilar" >
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/led_capilar.jpg">Slide</a>        
-                                        <a  href="capilar_led.php">Detalhes</a>
+                                        <a  href="corporal-led.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="capilar_led.php">
-                                        Led         
+                                    <a href="corporal-led.php">
+                                        Led Capilar      
                                     </a>
                                 </h4>
                                 <p>
-                                    O LED capilar está indicado para qualquer tipo de queda de cabelo, independente da causa, pois atua fazendo fotobioestimulação. A luz penetra no local aplicado, atinge as células, e estimula seu metabolismo ...
+                                    O <strong>LED capilar</strong> está indicado para qualquer tipo de <strong>queda de cabelo</strong>, independente da causa, pois atua fazendo fotobioestimulação. A luz penetra no local aplicado, atinge as células, e estimula seu metabolismo ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -185,7 +185,7 @@
                 </div>
             </div>
         </section>
-        <!--         ================================================== 
+        <!--  ================================================== 
                     Clients Section Start
                 ================================================== 
                 <section id="clients">
@@ -223,6 +223,5 @@
             Footer Section Start
         ================================================== -->
         <?php include_once 'footer.php'; ?>
-
     </body>
 </html>

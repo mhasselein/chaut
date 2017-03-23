@@ -5,10 +5,11 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Estética Corporal</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <title>Estética Corporal | Clínica de Estética | Clínica Haut</title>
+        <meta name="description" content="Clínica Haut oferece o que existe de melhor em estética corporal da atualidade. Lipocavitação, Radiofrequência, Drenagem linfática, Carboxiterapia e muito mais.">
+        <meta name="keywords" content="Estética Corporal, Clínica de Estética, Clínica Haut, Lipocavitação, Gordura, Mesoterapia, Estética, Carboxiterapia, Radiofrequência, tratamento estético, Endermologia, celulite, Drenagem Linfática ">
+        <meta name="author" content="Mateus Hasselein">
+        <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -82,9 +83,9 @@
         ================================================== -->
         <section class="works service-page">
             <div class="container">
-                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Some Of Our Features Works</h2>
+                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos para Estética Corporal</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
-                    Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                    A <strong>Clínica Haut</strong> é uma <strong>clínida de estética</strong> que oferece um ambiente para que você sinta-se à vontade para relaxar e cuidar de sua beleza, <br>deixe-se envolver pela suavidade de nosso ambiente totalmente preparado para o seu conforto.
                 </p>
                 <div class="row">
                     <div class="col-sm-3">
@@ -94,18 +95,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">Slide</a>        
-                                        <a  href="corporal_lipocavitacao.php">Detalhes</a>
+                                        <a  href="corporal-lipocavitacao.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal_lipocavitacao.php">
+                                    <a href="corporal-lipocavitacao.php">
                                         Lipocavitação        
                                     </a>
                                 </h4>
                                 <p >
-                                    A lipocavitação é um procedimento estético realizado através de um aparelho de ultrassom focado que serve para eliminar gordura acumulada na barriga, coxas, flancos, costas e braços...
+                                    A <strong>lipocavitação</strong> é um <strong>procedimento estético</strong> realizado através de um aparelho de ultrassom focado que serve para eliminar <strong>gordura acumulada na barriga, coxas, flancos, costas e braços</strong>...
                                 </p>
                             </figcaption>
                         </figure>
@@ -118,18 +119,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Slide</a>        
-                                        <a  href="corporal_mesoterapia.php">Detalhes</a>
+                                        <a  href="corporal-mesoterapia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal_mesoterapia.php">
+                                    <a href="corporal-mesoterapia.php">
                                         Mesoterapia        
                                     </a>
                                 </h4>
                                 <p>
-                                    A Mesoterapia (aplicação de enzimas e outras medicações), chamada também de Intradermoterapia é uma técnica de origem francesa amplamente utilizada na estética por se tratar de um procedimento...
+                                    A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se tratar de um procedimento...
                                 </p>
                             </figcaption>
                         </figure>
@@ -142,18 +143,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Slide</a>        
-                                        <a  href="corporal_carboxiterapia.php">Detalhes</a>
+                                        <a  href="corporal-carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal_carboxiterapia.php">
+                                    <a href="corporal-carboxiterapia.php">
                                         Carboxiterapia        
                                     </a>
                                 </h4>
                                 <p>
-                                    A carboxiterapia é um tratamento estético realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele, promovendo uma melhor oxigenação, aumento da circulação sanguínea ...
+                                    A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação, aumento da circulação sanguínea ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -166,18 +167,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="corporal_radiofrequencia.php">Detalhes</a>
+                                        <a  href="corporal-radiofrequencia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal_radiofrequencia.php">
+                                    <a href="corporal-radiofrequencia.php">
                                         Radiofrequência        
                                     </a>
                                 </h4>
                                 <p>
-                                    Radiofrequência tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a circulação ...
+                                    <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a circulação ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -189,18 +190,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="corporal_endermologia.php">Detalhes</a>
+                                        <a  href="corporal-endermologia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal_endermologia.php">
+                                    <a href="corporal-endermologia.php">
                                         Endermologia        
                                     </a>
                                 </h4>
                                 <p>
-                                    A Endermologia é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da celulite. O aparelho produz movimentos de ...
+                                    A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho produz movimentos de ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -212,66 +213,21 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="corporal_drenagem_linfatica_manual.php">Detalhes</a>
+                                        <a  href="corporal-drenagem_linfatica_manual.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal_drenagem_linfatica_manual.php">
+                                    <a href="corporal-drenagem_linfatica_manual.php">
                                         Drenagem linfática manual        
                                     </a>
                                 </h4>
                                 <p>
-                                    A drenagem linfática é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método estão a redução da retenção de líquido ...
+                                    A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método estão a redução da retenção de líquido ...
                                 </p>
                             </figcaption>
                         </figure>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--================================================== 
-            Clients Section Start
-        ================================================== -->
-        <section id="clients">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">Our Happy Clinets</h2>
-                        <p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.</p>
-                        <div id="clients-logo" class="owl-carousel">
-                            <div>
-                                <img src="images/clients/logo-1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-2.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-3.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-4.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-5.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-2.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-3.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-4.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-5.jpg" alt="">
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>

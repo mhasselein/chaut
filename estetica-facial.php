@@ -4,10 +4,11 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Estética Facial </title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <title>Estética Facial | Clínica de Estética | Clínica Haut</title>
+        <meta name="description" content="Clínica de estética com os melhores tratamentos estéticos faciais. Limpeza de pele, peeling, dermaroler, botox, preenchimento e outros mais, venha conferir.">
+        <meta name="keywords" content="Clínica Haut, estética facial, clínica estética, limpeza de pele,procedimento estético,pele, cravos,peeling químico, peeling de diamante,peeling físico,microesfoliação da pele,radiofrequência,flacidez,rugas,celulite,linhas de expressão, toxina botulínica,botox,preenchimento,marcas de expressão,cicatrizes,Preenchimento com Ácido Hialurônico,carboxiterapia,microagulhamento, dermaroler">
+        <meta name="author" content="Mateus Hasselein">
+        <meta name="robots" content="index, follow"> 
         <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -78,9 +79,9 @@
         ================================================== -->
         <section class="works service-page">
             <div class="container">
-                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Some Of Our Features Works</h2>
+                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos para Estética Facial</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
-                    Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                    A cada dia que passa a <strong>Clínica Haut</strong> fica mais segura sobre a importância da <strong>estética facial</strong> na vida das pessoas <br>pois a primeira forma de nos comunicarmos é através de nossas <strong>expressões faciais</strong>.
                 </p>
                 <div class="row" id="tratamentos_faciais">
                     <div class="col-sm-3">
@@ -90,18 +91,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">Slide</a>        
-                                        <a href="facial_limpeza_pele.php">Detalhes</a>
+                                        <a href="facial-limpeza-pele.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_limpeza_pele.php">
+                                    <a href="facial-limpeza-pele.php">
                                         Limpeza de Pele        
                                     </a>
                                 </h4>
                                 <p>
-                                    A limpeza de pele é um procedimento estético que tem como objetivo remover cravos e impurezas da pele. É indicada, principalmente, para remoção de cravos abertos (pontos pretos) ou fechados (pontos brancos)...
+                                    A <strong>limpeza de pele</strong> é um <strong>procedimento estético</strong> que tem como objetivo remover <strong>cravos e impurezas da pele</strong>. É indicada, principalmente, para remoção de <strong>cravos</strong> abertos (pontos pretos) ou fechados (pontos brancos)...
                                 </p>
                             </figcaption>
                         </figure>
@@ -113,18 +114,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Slide</a>        
-                                        <a  href="facial_peeling_quimico.php">Detalhes</a>
+                                        <a  href="facial-peeling-quimico.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_peeling_quimico.php">
-                                        Peeling Químico       
+                                    <a href="facial-peeling-quimico.php">
+                                         Peeling Químico      
                                     </a>
                                 </h4>
                                 <p>
-                                    É um tratamento estético onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento de uma camada lisa, mais elástica, luminosa e ...
+                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento de uma camada lisa...
                                 </p>
                             </figcaption>
                         </figure>
@@ -136,18 +137,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Slide</a>        
-                                        <a  href="facial_peeling_diamante.php">Detalhes</a>
+                                        <a  href="facial-peeling-diamante.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_peeling_diamante.php">
+                                    <a href="facial-peeling-diamante.php">
                                         Peeling de Diamante        
                                     </a>
                                 </h4>
                                 <p>
-                                    O peeling de diamante é um peeling físico, ou seja, utiliza um equipamento próprio para esse fim que promove uma microesfoliação da pele. Entre os principais objetivos do procedimento estão a remoção...
+                                    O <strong>peeling de diamante</strong> é um <strong>peeling físico</strong>, ou seja, utiliza um equipamento próprio para esse fim que promove uma <strong>microesfoliação da pele</strong>. Entre os principais objetivos do procedimento estão a remoção...
                                 </p>
                             </figcaption>
                         </figure>
@@ -159,18 +160,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="facial_radiofrequencia.php">Detalhes</a>
+                                        <a  href="facial-radiofrequencia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_radiofrequencia.php">
+                                    <a href="facial-radiofrequencia.php">
                                         Radiofrequência        
                                     </a>
                                 </h4>
                                 <p>
-                                    A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para amenizar rugas, linhas de expressão e até mesmo a celulite, sendo um método seguro com...
+                                    A <strong>radiofrequência</strong> é um <strong>tratamento estético</strong> utilizado no combate à <strong>flacidez</strong> do rosto ou do corpo, sendo muito eficaz para amenizar <strong>rugas</strong>, <strong>linhas de expressão</strong> e até mesmo a <strong>celulite</strong>, sendo um método...
                                 </p>
                             </figcaption>
                         </figure>
@@ -182,18 +183,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="facial_botox.php">Detalhes</a>
+                                        <a  href="facial-botox.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_botox.php">
+                                    <a href="facial-botox.php">
                                         Toxina Botulínica (Botox)        
                                     </a>
                                 </h4>
                                 <p>
-                                    A toxina botulínica popularmente conhecida como botox é utilizada para amenizar rugas dinâmicas, marcas de expressão e para mudar o desenho das sobrancelhas (arqueamento). Entre as linhas tratadas estão...
+                                    A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para amenizar <strong>rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o desenho das sobrancelhas (arqueamento). Entre as linhas tratadas estão...
                                 </p>
                             </figcaption>
                         </figure>
@@ -205,18 +206,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="facial_preenchimento_acido_hialuronico.php">Detalhes</a>
+                                        <a  href="facial-preenchimento-acido-hialuronico.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_preenchimento_acido_hialuronico.php">
+                                    <a href="facial-preenchimento-acido-hialuronico.php">
                                         Preenchimento com Ácido Hialurônico       
                                     </a>
                                 </h4>
                                 <p>
-                                    O preenchimento cutâneo é uma técnica utilizada para a correção de sulcos, rugas e cicatrizes. Consiste na injeção de substâncias sob a área da pele a ser tratada elevando-a ...
+                                    O <strong>preenchimento</strong> cutâneo é uma técnica utilizada para a <strong>correção de sulcos, rugas e cicatrizes</strong>. Consiste na injeção de substâncias sob a área da <strong>pele</strong> a ser tratada elevando-a ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -228,18 +229,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="facial_carboxiterapia.php">Detalhes</a>
+                                        <a  href="facial-carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_carboxiterapia.php">
+                                    <a href="facial-carboxiterapia.php">
                                         Carboxiterapia        
                                     </a>
                                 </h4>
                                 <p>
-                                    A carboxiterapia é um tratamento estético realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele.O gás da carboxiterapia funciona melhorando a circulação celular ...
+                                    A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>.O gás da <strong>carboxiterapia</strong> funciona melhorando a circulação celular ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -251,18 +252,18 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/microagulhamento.jpg">Slide</a>        
-                                        <a  href="facial_microagulhamento.php">Detalhes</a>
+                                        <a  href="facial-microagulhamento.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="facial_microagulhamento.php">
-                                        Microagulhamento        
+                                    <a href="facial-microagulhamento.php">
+                                        Microagulhamento (Dermaroler)       
                                     </a>
                                 </h4>
                                 <p>
-                                    O tratamento é realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na pele. Estas microperfurações são responsáveis pela indução de um processo inflamatório no local...
+                                    O <strong> microagulhamento ou dermaroler</strong> é um tratamento estético realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na <strong>pele</strong>...
                                 </p>
                             </figcaption>
                         </figure>

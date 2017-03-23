@@ -6,10 +6,12 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Home Clínica Haut</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <title>Clínica Haut | Clínica de Estética | Bento Gonçalves RS</title>
+        <meta name="description" content="Clínica Estética localizada em Bento Gonçalves. Tratamentos para celulite, estrias, flacidez, gordura localizada, acne, olheiras, pelos indesejados e muito mais.">
+        <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação">
+        <meta name="author" content="Mateus Hasselein">
+        <meta name="robots" content="index, follow"> 
+        
         <!-- Mobile Specific Metas
         ================================================== -->
         <meta name="format-detection" content="telephone=no">
@@ -88,57 +90,58 @@
             <section id="about" >
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 col-sm-6" >
+                        <div class="col-md-7 col-sm-7" >
                             <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
-                                <h2>
-                                Possuímos um espaço dedicado à você.
-                                </h2>
+                                <h1>
+                                Clínica Haut Biomedicina e Estética
+                                </h1>
                                 <p>
-                                    Encontre aqui as melhores e mais avançadas técnicas para aprimorar sua beleza.
+                                    
+                                    Encontre aqui os mais avançados tratamentos de <em>estética corporal</em>, tratamentos de <em>estética facial</em> e tratamentos de <em>estética capilar</em> utilizando os equipamentos e técnicas de <strong>estética</strong> mais avançados da atualidade..
                                 </p>
                                 <p>
-                                    Temos um cuidado especial com seu bem-estar, pois sabemos que sua beleza é resultado de uma união saudável entre mente e corpo.
+                                    Temos um cuidado especial com seu <em>bem-estar</em>, pois sabemos que sua <em>beleza</em> é resultado de uma união saudável entre mente e <em>corpo</em>.
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6" >
+                        <div class="col-md-5 col-sm-5" >
                             <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                                <img src="images/about/about.jpg" alt="">
+                                <img src="images/about/about.jpg" alt="Clínica Haut">
                             </div>
                         </div>
                     </div>
                 </div>
-            </section> <!-- /#about -->
+            </section>
             <!--==================================================
             Portfolio Section Start
             ================================================== -->
             <section id="works" class="works">
                 <div class="container">
                     <div class="section-heading">
-                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">Alguns Tratamentos</h1>
+                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">Tratamentos Estéticos</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                            A <strong>clínica Haut</strong> possui o que existe de melhor em tecnologia e com profissionais qualificados. Esta habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, Olheiras, calvicie, manchas na pele, flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos</strong> e muito mais... 
                         </p>
                     </div>
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/microagulhamento.jpg" class="img-responsive" alt="Estética Facial" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="facial_botox.php">Mais Detalhes</a>
+                                            <a href="estetica-facial.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="facial_botox.php">
-                                    Toxina Botulínica (Botox)
+                                <a href="estetica-facial.php">
+                                    Estética Facial
                                 </a>
                                 </h4>
                                 <p>
-                                    A toxina botulínica popularmente conhecida como botox é utilizada para amenizar rugas dinâmicas, marcas de expressão ...
+                                    <a href="facial-limpeza-pele.php">Limpesa de Pele</strong></a>, <a href="facial-peeling-quimico.php.php">Peeling Químico</a>, <a href="facial-peeling-diamante.php">Peeling de Diamante</a>, <a href="facial-radiofrequencia.php">Radiofrequência</a>, <a href="facial-botox.php">Botox</a>, <a href="facial-preenchimento-acido-hialuronico.php">Preenchimento com Ácido Hialurônico</a>,<a href="facial-carboxiterapia.php"> Carboxiterapia</a> e <a href="facial-microagulhamento.php">Microagulhamento</a>.
                                 </p>
                                 </figcaption>
                             </figure>
@@ -146,21 +149,21 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="Fotodepilação" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="fotodepilacao.php">Mais Detalhes</a>
+                                            <a href="estetica-corporal.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="fotodepilacao.php">
-                                    Fotodepilação
+                                    <a href="estetica-corporal.php">
+                                    Estética Corporal
                                 </a>
                                 </h4>
                                 <p>
-                                    A fotodepilação é a remoção dos pelos corporais através da energia da Luz Intensa Pulsada (LIP).A LIP destrói as células germinativas do pelo...
+                                    <a href="corporal-lipocavitacao.php">Lipocavitação</a>, <a href="corporal-carboxiterapia.php">Carboxiterapia</a>, <a href="corporal-drenagem-linfatica_manual.php">Drenagem Linfática Manual</a>, <a href="corporal-endermologia.php">Endermologia</a>, <a href="corporal-mesoterapia.php">Mesoterapia</a>, <a href="corporal-radiofrequencia.php">Radiofrequência</a>
                                 </p>
                                 </figcaption>
                             </figure>
@@ -168,7 +171,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/microagulhamento.jpg" class="img-responsive" alt="" >
+                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
                                         <div class="overlay">
                                         <div class="buttons" style="left: 30%">
@@ -180,7 +183,7 @@
                                 <figcaption>
                                 <h4>
                                 <a href="facial_microagulhamento.php">
-                                    Microagulhamento
+                                    Estética Capilar
                                 </a>
                                 </h4>
                                 <p>
@@ -191,7 +194,7 @@
                         </div>
                     </div>
                 </div>
-            </section> <!-- #works -->
+            </section> 
             <!--==================================================
             Portfolio Section Start
             ================================================== -->
