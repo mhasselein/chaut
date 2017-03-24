@@ -86,7 +86,7 @@
         ================================================== -->
         <section class="works service-page">
             <div class="container">
-                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos para Estética Capilar</h2>
+                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos Estéticos Capilares</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
                     Preocupado com a <strong>queda de cabelo</strong>? Venha para nossa <strong>Clínica de Estética</strong>, aqui oferecemos os melhores tratamentos para você! 
                 </p>

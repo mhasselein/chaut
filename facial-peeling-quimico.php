@@ -6,15 +6,16 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Peeling Químico </title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <title>Peeling Químico | Clínica de Estética | Clínica Haut | Estética </title>
+        <meta name="description" content="O peeling químico é indicado para homens e mulheres que desejam um rejuvenescimento facial, trata rugas e aumenta a elasticidade da pele. Contato (54)99912-8848.">
+        <meta name="keywords" content="melasma, carboxiterapia,rejuvenescimento facial,tratamento da acne, acne, Estetica, clinica de estetica, Peeling Químico, Peeling de diamante, radifrequência, Clinica, Limpeza De Pele, Clínica de Estética, Clínica Haut, Estética, pele, procedimento estético">
+        <meta name="author" content="Clínica Haut">
+        <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas
         ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <!-- Template CSS Files
         ================================================== -->
         <!-- Twitter Bootstrs CSS -->
@@ -33,9 +34,8 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-        
-        <!-- Template Javascript Files
-        ================================================== -->
+
+        <!-- Template Javascript Files ================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
@@ -54,13 +54,11 @@
         <script src="js/main.js"></script>
     </head>
     <body>
-        <!--
-        ==================================================
+        <!-- ==================================================
         Header Section Start
         ================================================== -->
-        <?php include_once './header.php';?>
-        <!--
-        ==================================================
+        <?php include_once './header.php'; ?>
+        <!-- ==================================================
         Global Page Section Start
         ================================================== -->
         <section class="global-page-header">
@@ -71,136 +69,127 @@
                             <h2>Peeling químico</h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="estetica_corporal.php">Estética Facial</a></li>
+                                <li><a href="estetica-facial.php">Estética Facial</a></li>
                                 <li class="active">Peeling químico</li>
                             </ol>
                         </div>
                     </div>
                 </div>
             </div>
-            </section><!--/#Page header-->
+        </section><!--/#Page header-->
 
-            <section class="portfolio-single">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="" src="images/portfolio/post-1.jpg">
-                            </div>
+        <section class="portfolio-single">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="portfolio-single-img">
+                            <img class="img-responsive" alt="" src="images/portfolio/facial-peeling_quimico.jpg">
                         </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-content" style="padding: 0px;">
-                                <h3>Peeling químico</h3>
-                                <p>
-                                    É um tratamento estético onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento de uma camada lisa, mais elástica, luminosa e uniforme, por meio da renovação celular.
-                                <p>
-                                    O peeling químico é indicado para homens e mulheres que desejam um rejuvenescimento facial, pois trata rugas e aumenta a elasticidade da pele. Além disso, também é indicado para o tratamento da acne, marcas de acne e manchas faciais como o melasma, por exemplo.
-                                </p>
-                                
-                                 
-                               
-                            </div>
-                         
+                    </div>
+                    <div class="col-md-6">
+                        <div class="portfolio-content" style="padding: 0px;">
+                            <h3>Peeling químico</h3>
+                            <p>
+                                É um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a <strong>pele</strong>, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento de uma camada lisa, mais elástica, luminosa e uniforme, por meio da renovação celular.
+                            <p>
+                                O <strong>peeling químico</strong> é indicado para homens e mulheres que desejam um <strong>rejuvenescimento facial</strong>, pois trata <strong>rugas</strong> e aumenta a elasticidade da pele. Além disso, também é indicado para o <strong>tratamento da acne</strong>, marcas de acne e manchas faciais como o <strong>melasma</strong>, por exemplo.
+                            </p>
                         </div>
-                        
                     </div>
                 </div>
-            </section>
+            </div>
+        </section>
 
-            <section class="works works-fit">
+        <section class="works works-fit">
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
-                    <p class="subtitle-des">
-                        Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
-                    </p>
+                <p class="subtitle-des">
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Peeling de Diamante</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
+                </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/facial-limpeza_pele.jpg" class="img-responsive" alt="Limpeza de Pele" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="botox.php">Mais Detalhes</a>
+                                            <a href="facial-limpeza-pele.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                <a href="#">
-                                    Preenchimento com Ácido Hialurônico
-                                </a>
-                                </h4>
-                                <p>
-                                    O preenchimento cutâneo é uma técnica utilizada para a correção de sulcos, rugas e cicatrizes. Consiste na injeção de substâncias ...
-                                </p>
+                                    <h4>
+                                        <a href="facial-limpeza-pele.php">
+                                            Limpeza de Pele
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        A <strong>limpeza de pele</strong> é um <strong>procedimento estético</strong> que tem como objetivo remover <strong>cravos e impurezas da pele</strong>. É indicada, principalmente, para remoção de <strong>cravos</strong> abertos (pontos pretos) ou ...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/facial-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="fotodepilacao.php">Mais Detalhes</a>
+                                            <a href="facial-carboxiterapia.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                <a href="#">
-                                    Carboxiterapia
-                                </a>
-                                </h4>
-                                <p>
-                                   A carboxiterapia é um tratamento estético realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele...
-                                </p>
+                                    <h4>
+                                        <a href="facial-carboxiterapia.php">
+                                            Carboxiterapia
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>.O gás da <strong>carboxiterapia</strong> funciona melhorando a ...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
+                                    <img src="images/portfolio/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
                                     <div class="overlay">
                                         <div class="overlay">
-                                        <div class="buttons" style="left: 30%">
-                                             <!--<a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>-->
-                                            <a  href="radiofrequencia.php">Mais Detalhes</a>
+                                            <div class="buttons" style="left: 30%">
+                                                <a  href="facial-peeling-diamante.php">Mais Detalhes</a>
+                                            </div>
                                         </div>
-                                    </div>
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                <a href="radiofrequencia.php">
-                                    Radiofrequência
-                                </a>
-                                </h4>
-                                <p>
-                                   A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para amenizar rugas...
-                                </p>
+                                    <h4>
+                                        <a href="facial-peeling-diamante.php">
+                                            Peeling de Diamante
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        O <strong>peeling de diamante</strong> é um <strong>peeling físico</strong>, ou seja, utiliza um equipamento próprio para esse fim que promove uma microesfoliação da <strong>pele</strong>. Entre os principais objetivos do procedimento ...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
                     </div>
-
-                   
-
                 </div>
             </div>
         </section>
-        
-            <!--==================================================
-            Call To Action Section Start
-            ================================================== -->
-            <?php include_once './contato_footer.php';?>
-            <!--==================================================
-            Footer Section Start
-            ================================================== -->
-            <?php include_once './footer.php';?>
-                
-            </body>
-        </html>
-    </html>
+
+        <!--==================================================
+        Call To Action Section Start
+        ================================================== -->
+        <?php include_once './contato_footer.php'; ?>
+        <!--==================================================
+        Footer Section Start
+        ================================================== -->
+        <?php include_once './footer.php'; ?>
+
+    </body>
+</html>
+</html>

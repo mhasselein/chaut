@@ -6,9 +6,9 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
         <title>Mesoterapia | Clínica de Estética | Clínica Haut | Queda de Cabelo</title>
-        <meta name="description" content="A Clínica Haut é uma Clínica de Estética especializada na utilização de mesoterapia para queda de cabelo. Faça uma avaliação gratuita (54)99912-8848.">
+        <meta name="description" content="Mesoterapia para queda de cabelo traz resultados mais rápidos que os métodos tradicionais por meio de comprimidos. Faça uma avaliação gratuita (54)99912-8848.">
         <meta name="keywords" content="Microagulhamento, Dermaroler, Clínica de Estética, Clínica Haut, Carboxiterapia, Led Capilar,Mesoterapia, Queda de Cabelo, Couro Cabeludo, Pele, Tratamento Estético, Calvície, Crescimento de Cabelo">
-        <meta name="author" content="Mateus Hasselein">
+        <meta name="author" content="Clínica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">

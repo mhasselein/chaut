@@ -127,7 +127,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/microagulhamento.jpg" class="img-responsive" alt="Estética Facial" >
+                                    <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Estética Facial" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="estetica-facial.php">Mais Detalhes</a>

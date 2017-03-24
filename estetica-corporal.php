@@ -83,7 +83,7 @@
         ================================================== -->
         <section class="works service-page">
             <div class="container">
-                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos para Estética Corporal</h2>
+                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos Estéticos Corporais</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
                     A <strong>Clínica Haut</strong> é uma <strong>clínida de estética</strong> que oferece um ambiente para que você sinta-se à vontade para relaxar e cuidar de sua beleza, <br>deixe-se envolver pela suavidade de nosso ambiente totalmente preparado para o seu conforto.
                 </p>
@@ -130,7 +130,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se tratar de um procedimento...
+                                    A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se tratar...
                                 </p>
                             </figcaption>
                         </figure>
@@ -154,7 +154,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação, aumento da circulação sanguínea ...
+                                    A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação, aumento da ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -178,7 +178,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a circulação ...
+                                    <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -201,7 +201,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho produz movimentos de ...
+                                    A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -224,7 +224,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método estão a redução da retenção de líquido ...
+                                    A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método...
                                 </p>
                             </figcaption>
                         </figure>

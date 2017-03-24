@@ -7,7 +7,7 @@
         <title>Estética Facial | Clínica de Estética | Clínica Haut</title>
         <meta name="description" content="Clínica de estética com os melhores tratamentos estéticos faciais. Limpeza de pele, peeling, dermaroler, botox, preenchimento e outros mais, venha conferir.">
         <meta name="keywords" content="Clínica Haut, estética facial, clínica estética, limpeza de pele,procedimento estético,pele, cravos,peeling químico, peeling de diamante,peeling físico,microesfoliação da pele,radiofrequência,flacidez,rugas,celulite,linhas de expressão, toxina botulínica,botox,preenchimento,marcas de expressão,cicatrizes,Preenchimento com Ácido Hialurônico,carboxiterapia,microagulhamento, dermaroler">
-        <meta name="author" content="Mateus Hasselein">
+        <meta name="author" content="Clínica Haut">
         <meta name="robots" content="index, follow"> 
         <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">
@@ -79,7 +79,7 @@
         ================================================== -->
         <section class="works service-page">
             <div class="container">
-                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos para Estética Facial</h2>
+                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos Estéticos Faciais</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
                     A cada dia que passa a <strong>Clínica Haut</strong> fica mais segura sobre a importância da <strong>estética facial</strong> na vida das pessoas <br>pois a primeira forma de nos comunicarmos é através de nossas <strong>expressões faciais</strong>.
                 </p>
@@ -87,10 +87,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                <img src="images/portfolio/facial-limpeza_pele.jpg" class="img-responsive" alt="Limpeza de Pele" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-limpeza_pele.jpg">Slide</a>        
                                         <a href="facial-limpeza-pele.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -110,10 +110,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                <img src="images/portfolio/facial-peeling_quimico.jpg" class="img-responsive" alt="Peeling Químico" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-peeling_quimico.jpg">Slide</a>        
                                         <a  href="facial-peeling-quimico.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -125,7 +125,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento de uma camada lisa...
+                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento de uma camada...
                                 </p>
                             </figcaption>
                         </figure>
@@ -133,10 +133,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-peeleng_diamante.jpg">Slide</a>        
                                         <a  href="facial-peeling-diamante.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -156,10 +156,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-radiofrequencia.jpg">Slide</a>        
                                         <a  href="facial-radiofrequencia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -179,10 +179,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/facial-botox" class="img-responsive" alt="Botox" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-botox">Slide</a>        
                                         <a  href="facial-botox.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -202,10 +202,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/facial-preenchimento.jpg" class="img-responsive" alt="Preenchimento com Ácido Hialurônico" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-preenchimento.jpg">Slide</a>        
                                         <a  href="facial-preenchimento-acido-hialuronico.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -225,10 +225,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/facial-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-carboxiterapia.jpg">Slide</a>        
                                         <a  href="facial-carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -248,10 +248,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
+                                <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/microagulhamento.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-microagulhamento.jpg">Slide</a>        
                                         <a  href="facial-microagulhamento.php">Detalhes</a>
                                     </div>
                                 </div>

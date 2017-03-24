@@ -1,22 +1,20 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <!-- Basic Page Needs
-        ================================================== -->
+        <!-- Basic Page Needs ================================================== -->
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Botox Clínica Haut</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
-        <!-- Mobile Specific Metas
-        ================================================== -->
+        <title>Botox | Clínica de Estética | Clínica Haut | Estética</title>
+        <meta name="description" content="Botox é utilizada para amenizar rugas da testa, pés de galinha, marcas de expressão e mudar o desenho das sobrancelhas.">
+        <meta name="keywords" content=" botox, marcas de expressão, radiofrequência, toxina botulínica, celulite, rugas, Rejuvenescimento facial, Tratamento da acne, Acne, Estetica, Clinica de Estetica, Peeling Químico, Peeling de diamante, Radifrequência, Clinica, Limpeza De Pele, Clínica de Estética, Clínica Haut, Estética, Pele, Procedimento Estético">
+        <meta name="author" content="Clínica Haut">
+        <meta name="robots" content="index, follow">
+        <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <!-- Template CSS Files
-        ================================================== -->
+        <!-- Template CSS Files ================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- Ionicons Fonts Css -->
@@ -34,8 +32,7 @@
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
         
-        <!-- Template Javascript Files
-        ================================================== -->
+        <!-- Template Javascript Files ================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
@@ -54,13 +51,11 @@
         <script src="js/main.js"></script>
     </head>
     <body>
-        <!--
-        ==================================================
+        <!-- ==================================================
         Header Section Start
         ================================================== -->
         <?php include_once './header.php';?>
-        <!--
-        ==================================================
+        <!-- ==================================================
         Global Page Section Start
         ================================================== -->
         <section class="global-page-header">
@@ -68,40 +63,40 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Toxina Botulínica (Botox)</h2>
+                            <h2>Toxina Botulínica - Botox </h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="estetica_facial.php">Estética Facial</a></li>
-                                <li class="active">Toxina Botulínica (Botox)</li>
+                                <li><a href="estetica-facial.php">Estética Facial</a></li>
+                                <li class="active">Toxina Botulínica - Botox</li>
                             </ol>
                         </div>
                     </div>
                 </div>
             </div>
-            </section><!--/#Page header-->
+            </section>
 
             <section class="portfolio-single">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="" src="images/portfolio/post-1.jpg">
+                                <img class="img-responsive" alt="Botox Facial" src="images/portfolio/facia_botox">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-content" style="padding: 0px;">
-                                <h3>Toxina Botulínica (Botox)</h3>
+                                <h3>Toxina Botulínica - Botox</h3>
                                 <p>
-                                    A toxina botulínica popularmente conhecida como botox é utilizada para amenizar rugas dinâmicas, marcas de expressão e para mudar o desenho das sobrancelhas (arqueamento). Entre as linhas tratadas estão as rugas da testa, a glabela (espaço entre as sobrancelhas) e os pés de galinha, rugas que se formam na região dos olhos. A toxina é aplicada no músculo e provoca o relaxamento da região, contribuindo assim para o rejuvenescimento facial.
+                                    A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para <strong>amenizar rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o <strong>desenho das sobrancelhas (arqueamento)</strong>. Entre as linhas tratadas estão as <strong>rugas da testa, a glabela (espaço entre as sobrancelhas) e os pés de galinha, rugas que se formam na região dos olhos </strong>. A toxina é aplicada no músculo e provoca o relaxamento da região, contribuindo assim para o <strong>rejuvenescimento facial</strong>.
                                 </p>
                                 <p> 
                                     O benefício se dá de duas maneiras: 
                                 </p>
                                 <p>
-                                    - De forma preventiva: como a contração muscular é paralisada não haverá a formação de rugas pela movimentação muscular na área em que foi aplicada a toxina.
+                                    - De forma preventiva: como a contração muscular é paralisada <strong>não haverá a formação de rugas</strong> pela movimentação muscular na área em que foi aplicada a toxina.
                                 </p>
                                 <p>
-                                    - De forma reparadora: como o botox tira a tensão da musculatura, as rugas causadas por esses músculos são amenizadas.
+                                    - De forma reparadora: como o <strong>botox</strong> tira a tensão da musculatura, as rugas causadas por esses músculos são amenizadas.
                                 </p>
                             </div>
                          
@@ -113,93 +108,89 @@
             <section class="works works-fit">
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
-                    <p class="subtitle-des">
-                        Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
-                    </p>
+                <p class="subtitle-des">
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Radiofrequência</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
+                </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="botox.php">Mais Detalhes</a>
+                                            <a href="facial-microagulhamento.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="#">
-                                    Preenchimento com Ácido Hialurônico
+                                    <a href="facial-microagulhamento.php">
+                                    Microagulhamento - Dermaroler
                                 </a>
                                 </h4>
                                 <p>
-                                    O preenchimento cutâneo é uma técnica utilizada para a correção de sulcos, rugas e cicatrizes. Consiste na injeção de substâncias ...
+                                    O <strong> microagulhamento ou dermaroler</strong> é um <strong>tratamento estético</strong> realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na <strong>pele</strong> ...
                                 </p>
                                 </figcaption>
                             </figure>
                         </div>
                         <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
+                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="fotodepilacao.php">Mais Detalhes</a>
+                                            <a href="facial-radiofrequencia.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="#">
-                                    Carboxiterapia
-                                </a>
-                                </h4>
-                                <p>
-                                   A carboxiterapia é um tratamento estético realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele...
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
-                                <div class="img-wrapper">
-                                    <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
-                                    <div class="overlay">
-                                        <div class="overlay">
-                                        <div class="buttons" style="left: 30%">
-                                             <!--<a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>-->
-                                            <a  href="facial_radiofrequencia.php">Mais Detalhes</a>
-                                        </div>
-                                    </div>
-                                    </div>
-                                </div>
-                                <figcaption>
-                                <h4>
-                                <a href="facial_radiofrequencia.php">
+                                    <a href="facial-radiofrequencia.php">
                                     Radiofrequência
                                 </a>
                                 </h4>
                                 <p>
-                                   A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para amenizar rugas ...
+                                    A <strong>radiofrequência</strong> é um <strong>tratamento estético</strong> utilizado no combate à <strong>flacidez</strong> do rosto ou do corpo, sendo muito eficaz para amenizar <strong>rugas</strong>, <strong>linhas de expressão</strong> e até mesmo a <strong>celulite</strong> ...
                                 </p>
                                 </figcaption>
                             </figure>
                         </div>
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
+                                <div class="img-wrapper">
+                                    <img src="images/portfolio/facial-preenchimento.jpg" class="img-responsive" alt="Preenchimento com Ácido Hialurônico" >
+                                    <div class="overlay">
+                                        <div class="overlay">
+                                            <div class="buttons" style="left: 30%">
+                                                <a  href="facial-preenchimento-acido-hialuronico.php">Mais Detalhes</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <figcaption>
+                                    <h4>
+                                        <a href="facial-preenchimento-acido-hialuronico.php">
+                                            Preenchimento com Ácido Hialurônico 
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        O <strong>preenchimento</strong> cutâneo é uma técnica utilizada para a <strong>correção de sulcos, rugas e cicatrizes</strong>. Consiste na injeção de substâncias sob a área da <strong>pele</strong> a ser tratada elevando-a ...
+                                    </p>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-
-                   
-
                 </div>
             </div>
         </section>
         
-            <!--==================================================
+            <!-- ==================================================
             Call To Action Section Start
             ================================================== -->
             <?php include_once './contato_footer.php';?>
-            <!--==================================================
+            <!-- ==================================================
             Footer Section Start
             ================================================== -->
             <?php include_once './footer.php';?>

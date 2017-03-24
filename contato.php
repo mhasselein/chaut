@@ -136,7 +136,7 @@
                     <div class="col-md-3">
                         <div class="email wow fadeInLeft" data-wow-duration="500ms" data-wosw-delay=".7s">
                             <i class="ion-ios-email-outline"></i>
-                            <h5>Clinicahaut@hotmail.com<br>&nbsp</h5>
+                            <h5>clinicahaut@hotmail.com<br>&nbsp</h5>
                         </div>
                     </div>
                     <div class="col-md-3">

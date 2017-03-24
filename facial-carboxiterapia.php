@@ -5,10 +5,12 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Carboxiterapia</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <title>Carboxiterapia | Clínica de Estética | Clínica Haut | Estética</title>
+        <meta name="description" content="A Carboxiterapia funciona melhorando a circulação celular e a oxigenação dos tecidos, quando aplicado no rosto, aumenta a produção de colágeno.">
+        <meta name="keywords" content="Carboxiterapia, Clínica de Estética, Clínica Haut, Estética, Estética Facial, clinica, tratamento estético, pele, rosto, Microagulhamento, Dermaroler,peeling químico, peeling de diamante  ">
+        <meta name="author" content="Clínica Haut">
+        <meta name="robots" content="index, follow">
+        
         <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -63,7 +65,7 @@
                             <h2>Carboxiterapia</h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="estetica_facial.php">Estética Facial</a></li>
+                                <li><a href="estetica-facial.php">Estética Facial</a></li>
                                 <li class="active">Carboxiterapia</li>
                             </ol>
                         </div>
@@ -77,17 +79,17 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="" src="images/portfolio/post-1.jpg">
+                                <img class="img-responsive" alt="" src="images/portfolio/facial-carboxiterapia.jpg">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-content" style="padding: 0px;">
                                 <h3>Carboxiterapia</h3>
                                 <p>
-                                    A carboxiterapia é um tratamento estético realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele.
+                                    A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>.
                                 </p>
                                 <p> 
-                                    O gás da carboxiterapia funciona melhorando a circulação celular e a oxigenação dos tecidos. A sua aplicação é ampla, e quando aplicado no rosto, aumenta a produção de colágeno.
+                                    O gás da <strong>carboxiterapia</strong> funciona melhorando a circulação celular e a oxigenação dos tecidos. A sua aplicação é ampla, e quando aplicado no <strong>rosto</strong>, aumenta a produção de colágeno.
                                 </p>
                                 
                             </div>
@@ -101,28 +103,28 @@
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
                     <p class="subtitle-des">
-                        Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                        Os cliente da <strong>Clínica Haut</strong> que procuraram o tratamento com <strong>carboxiterapia</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
                     </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="botox.php">Mais Detalhes</a>
+                                            <a href="facial-microagulhamento.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="#">
-                                    Preenchimento com Ácido Hialurônico
+                                    <a href="facial-microagulhamento.php">
+                                    Microagulhamento - Dermaroler
                                 </a>
                                 </h4>
                                 <p>
-                                    O preenchimento cutâneo é uma técnica utilizada para a correção de sulcos, rugas e cicatrizes. Consiste na injeção de substâncias ...
+                                    O <strong> microagulhamento ou dermaroler</strong> é um <strong>tratamento estético</strong> realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na <strong>pele</strong> ...
                                 </p>
                                 </figcaption>
                             </figure>
@@ -130,21 +132,21 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/facial-peeling_quimico.jpg" class="img-responsive" alt="Peeling Químico" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="fotodepilacao.php">Mais Detalhes</a>
+                                            <a href="facial-peeling-quimico.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="#">
-                                    Carboxiterapia
+                                    <a href="facial-peeling-quimico.php">
+                                    Peeling Químico
                                 </a>
                                 </h4>
                                 <p>
-                                   A carboxiterapia é um tratamento estético realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele...
+                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a <strong>pele</strong>, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento ...
                                 </p>
                                 </figcaption>
                             </figure>
@@ -152,24 +154,23 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
+                                    <img src="images/portfolio/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
                                     <div class="overlay">
                                         <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                             <!--<a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>-->
-                                            <a  href="facial_radiofrequencia.php">Mais Detalhes</a>
+                                            <a  href="facial-peeling-diamante.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                 <h4>
-                                <a href="facial_radiofrequencia.php">
-                                    Radiofrequência
+                                    <a href="facial-peeling-diamante.php">
+                                    Peeling de Diamante
                                 </a>
                                 </h4>
                                 <p>
-                                   A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para amenizar rugas ...
+                                   O <strong>peeling de diamante</strong> é um <strong>peeling físico</strong>, ou seja, utiliza um equipamento próprio para esse fim que promove uma microesfoliação da <strong>pele</strong>. Entre os principais objetivos do procedimento ...
                                 </p>
                                 </figcaption>
                             </figure>
