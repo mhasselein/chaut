@@ -190,7 +190,7 @@
                             <figcaption>
                                 <h4>
                                     <a href="facial-botox.php">
-                                        Toxina Botulínica (Botox)        
+                                        Toxina Botulínica - Botox        
                                     </a>
                                 </h4>
                                 <p>

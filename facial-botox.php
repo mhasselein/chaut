@@ -13,7 +13,7 @@
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <!-- Template CSS Files ================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -31,7 +31,7 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-        
+
         <!-- Template Javascript Files ================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
@@ -54,7 +54,7 @@
         <!-- ==================================================
         Header Section Start
         ================================================== -->
-        <?php include_once './header.php';?>
+        <?php include_once './header.php'; ?>
         <!-- ==================================================
         Global Page Section Start
         ================================================== -->
@@ -73,39 +73,39 @@
                     </div>
                 </div>
             </div>
-            </section>
+        </section>
 
-            <section class="portfolio-single">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="Botox Facial" src="images/portfolio/facia_botox">
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-content" style="padding: 0px;">
-                                <h3>Toxina Botulínica - Botox</h3>
-                                <p>
-                                    A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para <strong>amenizar rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o <strong>desenho das sobrancelhas (arqueamento)</strong>. Entre as linhas tratadas estão as <strong>rugas da testa, a glabela (espaço entre as sobrancelhas) e os pés de galinha, rugas que se formam na região dos olhos </strong>. A toxina é aplicada no músculo e provoca o relaxamento da região, contribuindo assim para o <strong>rejuvenescimento facial</strong>.
-                                </p>
-                                <p> 
-                                    O benefício se dá de duas maneiras: 
-                                </p>
-                                <p>
-                                    - De forma preventiva: como a contração muscular é paralisada <strong>não haverá a formação de rugas</strong> pela movimentação muscular na área em que foi aplicada a toxina.
-                                </p>
-                                <p>
-                                    - De forma reparadora: como o <strong>botox</strong> tira a tensão da musculatura, as rugas causadas por esses músculos são amenizadas.
-                                </p>
-                            </div>
-                         
+        <section class="portfolio-single">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="portfolio-single-img">
+                            <img class="img-responsive" alt="Botox Facial" src="images/portfolio/facia_botox">
                         </div>
                     </div>
-                </div>
-            </section>
+                    <div class="col-md-6">
+                        <div class="portfolio-content" style="padding: 0px;">
+                            <h3>Toxina Botulínica - Botox</h3>
+                            <p>
+                                A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para <strong>amenizar rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o <strong>desenho das sobrancelhas (arqueamento)</strong>. Entre as linhas tratadas estão as <strong>rugas da testa, a glabela (espaço entre as sobrancelhas) e os pés de galinha, rugas que se formam na região dos olhos </strong>. A toxina é aplicada no músculo e provoca o relaxamento da região, contribuindo assim para o <strong>rejuvenescimento facial</strong>.
+                            </p>
+                            <p> 
+                                O benefício se dá de duas maneiras: 
+                            </p>
+                            <p>
+                                - De forma preventiva: como a contração muscular é paralisada <strong>não haverá a formação de rugas</strong> pela movimentação muscular na área em que foi aplicada a toxina.
+                            </p>
+                            <p>
+                                - De forma reparadora: como o <strong>botox</strong> tira a tensão da musculatura, as rugas causadas por esses músculos são amenizadas.
+                            </p>
+                        </div>
 
-            <section class="works works-fit">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="works works-fit">
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
                 <p class="subtitle-des">
@@ -124,14 +124,14 @@
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                    <a href="facial-microagulhamento.php">
-                                    Microagulhamento - Dermaroler
-                                </a>
-                                </h4>
-                                <p>
-                                    O <strong> microagulhamento ou dermaroler</strong> é um <strong>tratamento estético</strong> realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na <strong>pele</strong> ...
-                                </p>
+                                    <h4>
+                                        <a href="facial-microagulhamento.php">
+                                            Microagulhamento - Dermaroler
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        O <strong> microagulhamento ou dermaroler</strong> é um <strong>tratamento estético</strong> realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na <strong>pele</strong> ...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
@@ -146,14 +146,14 @@
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                    <a href="facial-radiofrequencia.php">
-                                    Radiofrequência
-                                </a>
-                                </h4>
-                                <p>
-                                    A <strong>radiofrequência</strong> é um <strong>tratamento estético</strong> utilizado no combate à <strong>flacidez</strong> do rosto ou do corpo, sendo muito eficaz para amenizar <strong>rugas</strong>, <strong>linhas de expressão</strong> e até mesmo a <strong>celulite</strong> ...
-                                </p>
+                                    <h4>
+                                        <a href="facial-radiofrequencia.php">
+                                            Radiofrequência
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        A <strong>radiofrequência</strong> é um <strong>tratamento estético</strong> utilizado no combate à <strong>flacidez</strong> do rosto ou do corpo, sendo muito eficaz para amenizar <strong>rugas</strong>, <strong>linhas de expressão</strong> e até mesmo a <strong>celulite</strong> ...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
@@ -185,16 +185,16 @@
                 </div>
             </div>
         </section>
-        
-            <!-- ==================================================
-            Call To Action Section Start
-            ================================================== -->
-            <?php include_once './contato_footer.php';?>
-            <!-- ==================================================
-            Footer Section Start
-            ================================================== -->
-            <?php include_once './footer.php';?>
-                
-            </body>
-        </html>
-    </html>
+
+        <!-- ==================================================
+        Call To Action Section Start
+        ================================================== -->
+        <?php include_once './contato_footer.php'; ?>
+        <!-- ==================================================
+        Footer Section Start
+        ================================================== -->
+        <?php include_once './footer.php'; ?>
+
+    </body>
+</html>
+</html>
