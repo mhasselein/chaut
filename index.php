@@ -12,6 +12,7 @@
         <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow"> 
+        <meta name="google-site-verification" content="8z7CvL3Rp1I0ADPIDYLO4E12ZwjdbjB4pohwdkDTiZU" />
         
         <!-- Mobile Specific Metas
         ================================================== -->
@@ -59,6 +60,7 @@
         <script src="js/jquery.fancybox.js"></script>
         <!-- template main js -->
         <script src="js/main.js"></script>
+        
     </head>
     <body>
         <?php include_once("./php/analyticstracking.php") ?>
