@@ -5,9 +5,9 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Carboxiterapia - Clínica de Estética - Clínica Haut</title>
-        <meta name="description" content="A carboxiterapia estimula a produção de colágeno, acelera o metabolismo local, favorece a queima de gordura e desfaz os nódulos de celulite.">
-        <meta name="keywords" content="Radiofrequência, Endermologia, Drenagem linfática Manual, Carboxiterapia, Clínica de Estética, Clínica Haut,tratamento de estrias, celulite, flacidez, gordura localizada, olheiras, estrias, Clinica,">
+        <title>Drenagem linfática - Clínica de Estética - Clínica Haut </title>
+        <meta name="description" content="Principais benefícios: redução da retenção de líquido, ativação da circulação sanguínea e combate à celulite. Também é indicada pós cirurgia plástica e durante a gestação.">
+        <meta name="keywords" content="Carboxiterapia, Mesoterapia, Lipocavitação, drenagem linfática, clinica, Drenagem linfática, Clínica de Estética, Clínica Haut, circulação sanguínea, celulite, gestação ">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
@@ -63,37 +63,31 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Carboxiterapia </h2>
+                            <h2>Drenagem Linfática Manual</h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
                                 <li><a href="estetica-corporal.php">Estética Corporal</a></li>
-                                <li class="active">Carboxiterapia </li>
+                                <li class="active">Drenagem Linfática Manual</li>
                             </ol>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </section><!--/#Page header-->
 
         <section class="portfolio-single">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="Carboxiterapia" src="images/portfolio/corporal-carboxiterapia.jpg">
+                            <img class="img-responsive" alt="" src="images/portfolio/corporal-drenagem-linfática-manual.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="portfolio-content" style="padding: 0px;">
-                            <h3>Carboxiterapia</h3>
+                            <h3>Drenagem Linfática Manual</h3>
                             <p>
-                                A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele, promovendo uma melhor oxigenação, aumento da circulação sanguínea e o estímulo do metabolismo celular, sem agredir o organismo. Esta técnica é indicada para o <strong>tratamento de estrias, celulite, flacidez, gordura localizada e olheiras</strong>.
-                            </p>
-                            <p>
-                                Além de tratar todos os itens citados acima, a <strong>carboxiterapia</strong> também <strong>estimula a produção de colágeno, acelera o metabolismo local, favorece a queima de gordura e desfaz os nódulos de celulite</strong>.
-                            </p>
-                            <p>
-                                Vale lembrar que o CO2 está presente no metabolismo celular. O gás utilizado possui alto grau de pureza (99,9%), é inodoro, incolor e atóxico. Devido ao seu alto poder de difusão, é rapidamente absorvido e eliminado. Efeitos adversos são raros e incluem geralmente eritema local e equimoses.
+                                A <strong>drenagem linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método estão a <strong>>redução da retenção de líquido, ativação da circulação sanguínea, combate à celulite e relaxamento corporal</strong>. Também é indicada para acelerar o processo de <strong>reparação tecidual pós cirurgia plástica</strong> e durante a gestação para eliminar os inchaços e ajudar a mamãe a relaxar. 
                             </p>
                         </div>
 
@@ -106,28 +100,28 @@
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
                 <p class="subtitle-des">
-                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Carboxiterapia</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Drenagem Linfática</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
                 </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-drenagem-linfatica-manual.jpg" class="img-responsive" alt="Drenagem linfática Manual" >
+                                    <img src="images/portfolio/corporal-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="corporal-drenagem-linfatica-manual.php">Mais Detalhes</a>
+                                            <a href="corporal-carboxiterapia.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="corporal-drenagem-linfatica-manual.php">
-                                            Drenagem linfática Manual
+                                        <a href="corporal-carboxiterapia.php">
+                                            Carboxiterapia
                                         </a>
                                     </h4>
                                     <p>
-                                        A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método...
+                                        A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação, aumento da ...
                                     </p>
                                 </figcaption>
                             </figure>
@@ -135,21 +129,21 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-endermologia.jpg" class="img-responsive" alt="Endermologia" >
+                                    <img src="images/portfolio/corporal-lipocavitacao.jpg" class="img-responsive" alt="Lipocavitação" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="corporal-endermologia.php">Mais Detalhes</a>
+                                            <a href="corporal-lipocavitacao.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="corporal-endermologia.php">
-                                            Endermologia
+                                        <a href="corporal-lipocavitacao.php">
+                                            Lipocavitação
                                         </a>
                                     </h4>
                                     <p>
-                                        A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho ...
+                                        A <strong>lipocavitação</strong> é um <strong>procedimento estético</strong> realizado através de um aparelho de ultrassom focado que serve para eliminar <strong>gordura acumulada na barriga, coxas, flancos, costas e braços</strong>...
                                     </p>
                                 </figcaption>
                             </figure>
@@ -157,23 +151,23 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
+                                    <img src="images/portfolio/corporal-mesoterapia.jpg" class="img-responsive" alt="Mesoterapia" >
                                     <div class="overlay">
                                         <div class="overlay">
                                             <div class="buttons" style="left: 30%">
-                                                <a  href="corporal-radiofrequencia.php">Mais Detalhes</a>
+                                                <a  href="corporal-mesoterapia.php">Mais Detalhes</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="corporal-radiofrequencia.php">
-                                            Radiofrequência
+                                        <a href="corporal-mesoterapia.php">
+                                            Mesoterapia
                                         </a>
                                     </h4>
                                     <p>
-                                        <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a ...
+                                        A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se tratar...
                                     </p>
                                 </figcaption>
                             </figure>

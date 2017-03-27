@@ -6,15 +6,16 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Botox Clínica Haut</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <title>Mesoterapia - Clínica de Estética - Clínica Haut</title>
+        <meta name="description" content="Capaz de promover a queima de gordura localizada, combate à celulite, indução na formação de colágeno e no combate à flacidez e queda de cabelo.">
+        <meta name="keywords" content=" Endermologia, massagem, Mesoterapia, celulite, estrias, gordura localizada, Lipocavitação, Clínica de Estética, Clínica Haut">
+        <meta name="author" content="Clinica Haut">
+        <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas
         ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <!-- Template CSS Files
         ================================================== -->
         <!-- Twitter Bootstrs CSS -->
@@ -33,7 +34,7 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-        
+
         <!-- Template Javascript Files
         ================================================== -->
         <!-- modernizr js -->
@@ -54,13 +55,11 @@
         <script src="js/main.js"></script>
     </head>
     <body>
-        <!--
-        ==================================================
+        <!-- ==================================================
         Header Section Start
         ================================================== -->
-        <?php include_once './header.php';?>
-        <!--
-        ==================================================
+        <?php include_once './header.php'; ?>
+        <!-- ==================================================
         Global Page Section Start
         ================================================== -->
         <section class="global-page-header">
@@ -71,135 +70,128 @@
                             <h2>Mesoterapia</h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="estetica_corporal.php">Estética Corporal</a></li>
+                                <li><a href="estetica-corporal.php">Estética Corporal</a></li>
                                 <li class="active">Mesoterapia</li>
                             </ol>
                         </div>
                     </div>
                 </div>
             </div>
-            </section><!--/#Page header-->
+        </section>
 
-            <section class="portfolio-single">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="" src="images/portfolio/post-1.jpg">
-                            </div>
+        <section class="portfolio-single">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="portfolio-single-img">
+                            <img class="img-responsive" alt="Mesoterapia" src="images/portfolio/corporal-mesoterapia.jpg">
                         </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-content" style="padding: 0px;">
-                                <h3>Mesoterapia</h3>
-                                <p>
-                                    A Mesoterapia (aplicação de enzimas e outras medicações), chamada também de Intradermoterapia é uma técnica de origem francesa amplamente utilizada na estética por se tratar de um procedimento minimamente invasivo, capaz de promover a queima de gordura localizada, combate à celulite, indução na formação de colágeno e no combate à flacidez e queda de cabelo.
-                                </p>
-                                <p>
-                                    A técnica baseia-se na aplicação direta de alguma mescla (diferentes classes de enzimas para fins específicos) na camada dérmica da pele (logo abaixo da epiderme) ou no tecido adiposo (abaixo da pele) diretamente na região em que se deseja tratar. Seu principal benefício é atuar diretamente em uma determinada região, sem que outros órgãos sejam afetados e seu efeito seja disperso pelo corpo todo no geral.
-                                </p>
-                                
-                               
-                            </div>
-                         
+                    </div>
+                    <div class="col-md-6">
+                        <div class="portfolio-content" style="padding: 0px;">
+                            <h3>Mesoterapia</h3>
+                            <p>
+                                A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente <strong>utilizada na estética por se tratar de um procedimento minimamente invasivo</strong>, capaz de promover a <strong>queima de gordura localizada, combate à celulite, indução na formação de colágeno e no combate à flacidez e queda de cabelo</strong>.
+                            </p>
+                            <p>
+                                A técnica baseia-se na aplicação direta de alguma mescla (diferentes classes de enzimas para fins específicos) na camada dérmica da pele (logo abaixo da epiderme) ou no tecido adiposo (abaixo da pele) diretamente na região em que se deseja tratar. Seu principal benefício é atuar diretamente em uma determinada região, sem que outros órgãos sejam afetados e seu efeito seja disperso pelo corpo todo no geral.
+                            </p>
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </section>
 
-            <section class="works works-fit">
+        <section class="works works-fit">
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
-                    <p class="subtitle-des">
-                        Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
-                    </p>
+                <p class="subtitle-des">
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Mesoterapia</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
+                </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/corporal-drenagem-linfatica-manual.jpg" class="img-responsive" alt="Drenagem linfática Manual" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="botox.php">Mais Detalhes</a>
+                                            <a href="corporal-drenagem-linfatica-manual.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                <a href="#">
-                                    Preenchimento com Ácido Hialurônico
-                                </a>
-                                </h4>
-                                <p>
-                                    O preenchimento cutâneo é uma técnica utilizada para a correção de sulcos, rugas e cicatrizes. Consiste na injeção de substâncias ...
-                                </p>
+                                    <h4>
+                                        <a href="corporal-drenagem-linfatica-manual.php">
+                                            Drenagem linfática Manual
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                    <img src="images/portfolio/corporal-endermologia.jpg" class="img-responsive" alt="Endermologia" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="fotodepilacao.php">Mais Detalhes</a>
+                                            <a href="corporal-endermologia.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                <a href="#">
-                                    Carboxiterapia
-                                </a>
-                                </h4>
-                                <p>
-                                   A carboxiterapia é um tratamento estético realizado através da infusão de gás carbônico medicinal em diferentes camadas da pele...
-                                </p>
+                                    <h4>
+                                        <a href="corporal-endermologia.php">
+                                            Endermologia
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho ...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
+                                    <img src="images/portfolio/corporal-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                     <div class="overlay">
                                         <div class="overlay">
-                                        <div class="buttons" style="left: 30%">
-                                             <!--<a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>-->
-                                            <a  href="radiofrequencia.php">Mais Detalhes</a>
+                                            <div class="buttons" style="left: 30%">
+                                                <a  href="corporal-radiofrequencia.php">Mais Detalhes</a>
+                                            </div>
                                         </div>
-                                    </div>
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4>
-                                <a href="radiofrequencia.php">
-                                    Radiofrequência
-                                </a>
-                                </h4>
-                                <p>
-                                   A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para amenizar rugas...
-                                </p>
+                                    <h4>
+                                        <a href="corporal-radiofrequencia.php">
+                                            Radiofrequência
+                                        </a>
+                                    </h4>
+                                    <p>
+                                        <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a ...
+                                    </p>
                                 </figcaption>
                             </figure>
                         </div>
                     </div>
-
-                   
-
                 </div>
             </div>
         </section>
-        
-            <!--==================================================
-            Call To Action Section Start
-            ================================================== -->
-            <?php include_once './contato_footer.php';?>
-            <!--==================================================
-            Footer Section Start
-            ================================================== -->
-            <?php include_once './footer.php';?>
-                
-            </body>
-        </html>
-    </html>
+
+        <!--==================================================
+        Call To Action Section Start
+        ================================================== -->
+        <?php include_once './contato_footer.php'; ?>
+        <!--==================================================
+        Footer Section Start
+        ================================================== -->
+        <?php include_once './footer.php'; ?>
+
+    </body>
+</html>
+</html>
