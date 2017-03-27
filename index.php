@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js">
+    
     <head>
         <!-- Basic Page Needs
         ================================================== -->
@@ -171,7 +172,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="" >
+                                    <img src="images/portfolio/microagulhamento_capilar.jpg" class="img-responsive" alt="" >
                                     <div class="overlay">
                                         <div class="overlay">
                                         <div class="buttons" style="left: 30%">
