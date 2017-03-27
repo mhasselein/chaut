@@ -6,9 +6,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
         <title>Clínica Haut - Contatos</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
+        <meta name="description" content="Clínica Haut, Rua Treze de Maio, 877 Sala 108, Shopping L’América. Fone:(54)99912-8848 - email:clinicahaut@hotmail.com">
+        <meta name="keywords" content="Shopping L’América, Cĺinica haut, clinica haut, clinica, Clínica de Estética, Bento Gonçalves RS">
+        <meta name="author" content="Clinica Haut">
+        <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -70,7 +71,7 @@
                         <div class="block">
                             <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contato</h2>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                                Você pode contactar a Clínica Haut através de email, telefone ou WhatsApp, de onde estiver, do seu jeito.
+                                Você pode contactar a <strong>Clínica Haut</strong> através de email, telefone ou WhatsApp, de onde estiver, do seu jeito.
                                 Ou pode fazer-nos uma visita, será um prazer. Estamos aguardando o seu contato.
                             </p>
                             <div id="msg" class="hidden">

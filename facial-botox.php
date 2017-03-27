@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Botox | Clínica de Estética | Clínica Haut | Estética</title>
+        <title>Botox - Clínica de Estética - Clínica Haut - Estética</title>
         <meta name="description" content="Botox é utilizada para amenizar rugas da testa, pés de galinha, marcas de expressão e mudar o desenho das sobrancelhas.">
         <meta name="keywords" content=" botox, marcas de expressão, radiofrequência, toxina botulínica, celulite, rugas, Rejuvenescimento facial, Tratamento da acne, Acne, Estetica, Clinica de Estetica, Peeling Químico, Peeling de diamante, Radifrequência, Clinica, Limpeza De Pele, Clínica de Estética, Clínica Haut, Estética, Pele, Procedimento Estético">
-        <meta name="author" content="Clínica Haut">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">

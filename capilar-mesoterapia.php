@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Mesoterapia | Clínica de Estética | Clínica Haut | Queda de Cabelo</title>
+        <title>Mesoterapia - Clínica de Estética - Clínica Haut - Queda de Cabelo</title>
         <meta name="description" content="Mesoterapia para queda de cabelo traz resultados mais rápidos que os métodos tradicionais por meio de comprimidos. Faça uma avaliação gratuita (54)99912-8848.">
         <meta name="keywords" content="Microagulhamento, Dermaroler, Clínica de Estética, Clínica Haut, Carboxiterapia, Led Capilar,Mesoterapia, Queda de Cabelo, Couro Cabeludo, Pele, Tratamento Estético, Calvície, Crescimento de Cabelo">
         <meta name="author" content="Clínica Haut">

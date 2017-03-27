@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Radiofrêquencia | Clínica de Estética | Clínica Haut | Estética</title>
+        <title>Radiofrêquencia - Clínica de Estética - Clínica Haut - Estética</title>
         <meta name="description" content="Radiofrequência é utilizado no combate à flacidez do rosto ou do corpo, muito eficaz para amenizar rugas, linhas de expressão e celulite, com efeitos duradouros.">
         <meta name="keywords" content=" radiofrequência, rosto, celulite, rugas, estrias, Carboxiterapia, Rejuvenescimento facial, Tratamento da acne, Acne, Estetica, Clinica de Estetica, Peeling Químico, Peeling de diamante, Radifrequência, Clinica, Limpeza De Pele, Clínica de Estética, Clínica Haut, Estética, Pele, Procedimento Estético">
-        <meta name="author" content="Clínica Haut">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">

@@ -6,10 +6,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Clínica Haut | Clínica de Estética | Bento Gonçalves RS</title>
-        <meta name="description" content="Clínica Estética localizada em Bento Gonçalves. Tratamentos para celulite, estrias, flacidez, gordura localizada, acne, olheiras, pelos indesejados e muito mais.">
+        <title>Clínica Haut - Clínica de Estética - Bento Gonçalves RS</title>
+        <meta name="description" content="Clínica Estética localizada em Bento Gonçalves. Tratamentos para celulite, estrias, flacidez, gordura localizada, acne, olheiras, pelos indesejados.">
         <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação">
-        <meta name="author" content="Mateus Hasselein">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow"> 
         
         <!-- Mobile Specific Metas

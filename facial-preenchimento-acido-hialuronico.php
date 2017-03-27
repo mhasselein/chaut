@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Preenchimento com Ácido Hialurônico | Clínica Haut | Clínica Espética </title>
+        <title>Preenchimento com Ácido Hialurônico - Clínica Haut - Clínica Espética </title>
         <meta name="description" content="Preenchimento é usado para aumento labial, reposição volumétrica em áreas da face onde ocorre perda de gordura com o envelhecimento e correção de olheiras.">
         <meta name="keywords" content="Carboxiterapia, Clínica de Estética, Clínica Haut, Estética, aumento labial, olheiras, Estética Facial, clinica, tratamento estético, pele, rosto, Microagulhamento, gordura , envelhecimento,Dermaroler,peeling químico, peeling de diamante  ">
-        <meta name="author" content="Clínica Haut">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">

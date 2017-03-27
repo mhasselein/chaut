@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Peeling de Diamante | Clínica de Estética | Clínica Haut | Estética </title>
+        <title>Peeling de Diamante - Clínica de Estética - Clínica Haut - Estética </title>
         <meta name="description" content="O <strong>peeling de diamante está indicado para tratar manchas superficiais, cicatrizes de acne, rugas finas, poros dilatados e estrias. Contato (54)99912-8848">
         <meta name="keywords" content=" rugas, estrias, Carboxiterapia, Rejuvenescimento facial, Tratamento da acne, Acne, Estetica, Clinica de Estetica, Peeling Químico, Peeling de diamante, Radifrequência, Clinica, Limpeza De Pele, Clínica de Estética, Clínica Haut, Estética, Pele, Procedimento Estético">
-        <meta name="author" content="Clínica Haut">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">

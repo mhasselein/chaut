@@ -6,10 +6,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Microagulhamento | Clínica de Estética | Clínica Haut |Queda de Cabelo</title>
+        <title>Microagulhamento - Clínica de Estética - Clínica Haut - Queda de Cabelo</title>
         <meta name="description" content="A Clínica Haut é uma Clínica de Estética com profissionais especializados em aplicação de microagulhamento. Venha nos visitar e faça uma avaliação gratuita.">
         <meta name="keywords" content="Microagulhamento, Dermaroler, Clínica de Estética, Clínica Haut, Carboxiterapia, Led Capilar,Mesoterapia, Queda de Cabelo, Couro Cabeludo, Pele, Tratamento Estético, Calvície, Crescimento de Cabelo">
-        <meta name="author" content="Mateus Hasselein">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas
         ================================================== -->

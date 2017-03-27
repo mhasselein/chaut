@@ -6,10 +6,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Estética Capilar | Clínica de Estética | Clínica Haut</title>
-        <meta name="description" content="Calvície ou queda de cabelos é multifatorial, mas a base dela é genética. Temos o melhor tratamento para você, venha nos visitar e faça uma avaliação gratuita.">
-        <meta name="keywords" content="Estética Capilar, Clínica de Estética, Clínica Haut,  Calvicie, Queda de Cabelos, Microagulhamento Capilar, Dermaroler, Mesoterapia, Pele, Carboxiterapia, Capilar, Couro Cabeludo, Led ">
-        <meta name="author" content="Mateus Hasselein">
+        <title>Estética Capilar - Clínica de Estética - Clínica Haut</title>
+        <meta name="description" content="A queda de cabelos é multifatorial, mas a base dela é genética. Temos o melhor tratamento para você, venha nos visitar e faça uma avaliação gratuita.">
+        <meta name="keywords" content="Clinica, Estética Capilar, Clínica de Estética, Clínica Haut,  Calvicie, Queda de Cabelos, Microagulhamento Capilar, Dermaroler, Mesoterapia, Pele, Carboxiterapia, Capilar, Couro Cabeludo, Led ">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas
         ================================================== -->

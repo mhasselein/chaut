@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Microagulhamento | Dermaroler | Clínica Haut | Clínica Espética</title>
+        <title>Microagulhamento - Dermaroler - Clínica Haut - Clínica Espética</title>
         <meta name="description" content="O microagulhamento pode ser usado para diversos problemas de pele, como envelhecimento, flacidez, cicatrizes de acne ou queimaduras, estrias e manchas na pele.">
         <meta name="keywords" content="envelhecimento, flacidez, cicatrizes de acne , queimaduras, estrias , manchas na pele, Clínica de Estética, Clínica Haut, Estética, aumento labial, olheiras, Estética Facial, clinica, tratamento estético, pele, rosto, Microagulhamento, gordura ,Dermaroler">
-        <meta name="author" content="Clínica Haut">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">

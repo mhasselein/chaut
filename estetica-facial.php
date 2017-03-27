@@ -4,10 +4,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Estética Facial | Clínica de Estética | Clínica Haut</title>
+        <title>Estética Facial - Clínica de Estética - Clínica Haut</title>
         <meta name="description" content="Clínica de estética com os melhores tratamentos estéticos faciais. Limpeza de pele, peeling, dermaroler, botox, preenchimento e outros mais, venha conferir.">
-        <meta name="keywords" content="Clínica Haut, estética facial, clínica estética, limpeza de pele,procedimento estético,pele, cravos,peeling químico, peeling de diamante,peeling físico,microesfoliação da pele,radiofrequência,flacidez,rugas,celulite,linhas de expressão, toxina botulínica,botox,preenchimento,marcas de expressão,cicatrizes,Preenchimento com Ácido Hialurônico,carboxiterapia,microagulhamento, dermaroler">
-        <meta name="author" content="Clínica Haut">
+        <meta name="keywords" content="clinica, Clínica Haut, estética facial, clínica estética, limpeza de pele,procedimento estético,pele, cravos,peeling químico, peeling de diamante,peeling físico,microesfoliação da pele,radiofrequência,flacidez,rugas,celulite,linhas de expressão, toxina botulínica,botox,preenchimento,marcas de expressão,cicatrizes,Preenchimento com Ácido Hialurônico,carboxiterapia,microagulhamento, dermaroler">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow"> 
         <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">

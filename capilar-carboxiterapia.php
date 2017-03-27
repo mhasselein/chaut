@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Carboxiterapia | Clínica de Estética | Clínica Haut | Queda de Cabelo</title>
+        <title>Carboxiterapia - Clínica de Estética - Clínica Haut - Queda de Cabelo</title>
         <meta name="description" content="Carboxiterapia para queda de cabelos é um tratamento extremamente eficaz na prevenção da calvície. Clínica Haut (54)99912-8848.">
         <meta name="keywords" content="Microagulhamento, Dermaroler, Clínica de Estética, Clínica Haut, Carboxiterapia, Led Capilar,Mesoterapia, Queda de Cabelo, Couro Cabeludo, Pele, Tratamento Estético, Calvície, Crescimento de Cabelo">
-        <meta name="author" content="Mateus hasselein">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">

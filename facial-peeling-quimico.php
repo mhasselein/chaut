@@ -6,10 +6,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Peeling Químico | Clínica de Estética | Clínica Haut | Estética </title>
+        <title>Peeling Químico - Clínica de Estética - Clínica Haut - Estética </title>
         <meta name="description" content="O peeling químico é indicado para homens e mulheres que desejam um rejuvenescimento facial, trata rugas e aumenta a elasticidade da pele. Contato (54)99912-8848.">
         <meta name="keywords" content="melasma, carboxiterapia,rejuvenescimento facial,tratamento da acne, acne, Estetica, clinica de estetica, Peeling Químico, Peeling de diamante, radifrequência, Clinica, Limpeza De Pele, Clínica de Estética, Clínica Haut, Estética, pele, procedimento estético">
-        <meta name="author" content="Clínica Haut">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas
         ================================================== -->

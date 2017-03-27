@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Estética Corporal | Clínica de Estética | Clínica Haut</title>
-        <meta name="description" content="Clínica Haut oferece o que existe de melhor em estética corporal da atualidade. Lipocavitação, Radiofrequência, Drenagem linfática, Carboxiterapia e muito mais.">
-        <meta name="keywords" content="Estética Corporal, Clínica de Estética, Clínica Haut, Lipocavitação, Gordura, Mesoterapia, Estética, Carboxiterapia, Radiofrequência, tratamento estético, Endermologia, celulite, Drenagem Linfática ">
-        <meta name="author" content="Mateus Hasselein">
+        <title>Estética Corporal - Clínica de Estética - Clínica Haut</title>
+        <meta name="description" content="Clínica Haut oferece o que existe de melhor em estética corporal da atualidade. Lipocavitação, Radiofrequência, Drenagem linfática, Carboxiterapia.">
+        <meta name="keywords" content="clinica, Estética Corporal, Clínica de Estética, Clínica Haut, Lipocavitação, Gordura, Mesoterapia, Estética, Carboxiterapia, Radiofrequência, tratamento estético, Endermologia, celulite, Drenagem Linfática ">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">

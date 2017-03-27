@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Carboxiterapia | Clínica de Estética | Clínica Haut | Estética</title>
+        <title>Carboxiterapia - Clínica de Estética - Clínica Haut - Estética</title>
         <meta name="description" content="A Carboxiterapia funciona melhorando a circulação celular e a oxigenação dos tecidos, quando aplicado no rosto, aumenta a produção de colágeno.">
         <meta name="keywords" content="Carboxiterapia, Clínica de Estética, Clínica Haut, Estética, Estética Facial, clinica, tratamento estético, pele, rosto, Microagulhamento, Dermaroler,peeling químico, peeling de diamante  ">
-        <meta name="author" content="Clínica Haut">
+        <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         
         <!-- Mobile Specific Metas================================================== -->

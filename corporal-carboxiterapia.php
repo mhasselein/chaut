@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <!-- Basic Page Needs
-        ================================================== -->
+        <!-- Basic Page Needs ================================================== -->
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Botox Clínica Haut</title>
+        <title>Carboxiterapia - Clínica de Estética - Clínica Haut</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="author" content="">
-        <!-- Mobile Specific Metas
-        ================================================== -->
+        <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <!-- Template CSS Files
-        ================================================== -->
+        <!-- Template CSS Files ================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- Ionicons Fonts Css -->
@@ -34,8 +31,7 @@
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
         
-        <!-- Template Javascript Files
-        ================================================== -->
+        <!-- Template Javascript Files ================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
@@ -54,13 +50,11 @@
         <script src="js/main.js"></script>
     </head>
     <body>
-        <!--
-        ==================================================
+        <!-- ==================================================
         Header Section Start
         ================================================== -->
         <?php include_once './header.php';?>
-        <!--
-        ==================================================
+        <!-- ==================================================
         Global Page Section Start
         ================================================== -->
         <section class="global-page-header">
@@ -71,14 +65,14 @@
                             <h2>Carboxiterapia </h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="estetica_corporal.php">Estética Corporal</a></li>
+                                <li><a href="estetica-corporal.php">Estética Corporal</a></li>
                                 <li class="active">Carboxiterapia </li>
                             </ol>
                         </div>
                     </div>
                 </div>
             </div>
-            </section><!--/#Page header-->
+            </section>
 
             <section class="portfolio-single">
                 <div class="container">
