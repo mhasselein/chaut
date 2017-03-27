@@ -215,13 +215,13 @@
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
-                                        <a  href="corporal-drenagem_linfatica-manual.php">Detalhes</a>
+                                        <a  href="corporal-drenagem-linfatica-manual.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal-drenagem_linfatica-manual.php">
+                                    <a href="corporal-drenagem-linfatica-manual.php">
                                         Drenagem linfática manual        
                                     </a>
                                 </h4>
