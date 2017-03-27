@@ -51,10 +51,12 @@
         <script src="js/main.js"></script>
     </head>
     <body>
+        <?php include_once("./php/analyticstracking.php") ?>
         <!--==================================================
         Header 
         ================================================== -->
         <?php include_once 'header.php'; ?>
+        
         <!--================================================== 
             Global Page Section Start
         ================================================== -->

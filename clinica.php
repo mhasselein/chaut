@@ -48,6 +48,7 @@
         <script src="js/main.js"></script>
     </head>
     <body>
+        <?php include_once("./php/analyticstracking.php") ?>
         <!--==================================================
         Header Section Start
         ================================================== -->

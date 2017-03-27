@@ -61,6 +61,7 @@
         <script src="js/main.js"></script>
     </head>
     <body>
+        <?php include_once("./php/analyticstracking.php") ?>
        <?php include_once 'header.php';?>
         <!--==================================================
         Slider Section Start
