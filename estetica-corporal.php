@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html class="no-js">
     <head>
         <!-- Basic Page Needs ================================================== -->
@@ -93,10 +93,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-1.jpg" class="img-responsive" alt="this is a title" >
+                                <img src="images/portfolio/corporal-lipocavitacao.jpg" class="img-responsive" alt="Lipocavitação" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-1.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal-lipocavitacao.jpg">Slide</a>        
                                         <a  href="corporal-lipocavitacao.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -108,7 +108,7 @@
                                     </a>
                                 </h4>
                                 <p >
-                                    A <strong>lipocavitação</strong> é um <strong>procedimento estético</strong> realizado através de um aparelho de ultrassom focado que serve para eliminar <strong>gordura acumulada na barriga, coxas, flancos, costas e braços</strong>...
+                                    A <strong>lipocavitação</strong> é um <strong>procedimento estético</strong> realizado através de um aparelho de ultrassom focado que serve para eliminar <strong>gordura acumulada na barriga, coxas, flancos</strong>...
                                 </p>
                             </figcaption>
                         </figure>
@@ -117,10 +117,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="this is a title" >
+                                <img src="images/portfolio/corporal-mesoterapia.jpg" class="img-responsive" alt="Mesoterapia" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal-mesoterapia.jpg">Slide</a>        
                                         <a  href="corporal-mesoterapia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -132,7 +132,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se tratar...
+                                    A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -141,10 +141,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/corporal-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal-carboxiterapia.jpg">Slide</a>        
                                         <a  href="corporal-carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -165,10 +165,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/corporal-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal-radiofrequencia.jpg">Slide</a>        
                                         <a  href="corporal-radiofrequencia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -180,7 +180,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a ...
+                                    <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -188,10 +188,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/corporal-endermologia.jpg" class="img-responsive" alt="Endermologia" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal-endermologia.jpg">Slide</a>        
                                         <a  href="corporal-endermologia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -211,10 +211,10 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
+                                <img src="images/portfolio/corporal-drenagem-linfatica-manual.jpg" class="img-responsive" alt="Drenagem Linfática Manual " >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/item-4.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal-drenagem-linfatica-manual.jpg">Slide</a>        
                                         <a  href="corporal-drenagem-linfatica-manual.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -222,7 +222,7 @@
                             <figcaption>
                                 <h4>
                                     <a href="corporal-drenagem-linfatica-manual.php">
-                                        Drenagem linfática manual        
+                                        Drenagem Linfática Manual        
                                     </a>
                                 </h4>
                                 <p>

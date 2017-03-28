@@ -153,7 +153,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/item-2.jpg" class="img-responsive" alt="Fotodepilação" >
+                                    <img src="images/portfolio/corporal-lipocavitacao.jpg" class="img-responsive" alt="Estética Corporal" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="estetica-corporal.php">Mais Detalhes</a>
