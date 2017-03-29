@@ -90,7 +90,11 @@
                         <div class="block">
                             <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">Por que somos diferentes</h3>
                             <p  class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">
-                                <!--Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.-->
+                                A Clínica Haut trabalha com profissionais especializados
+                                e altamente qualificados para promover a saúde e a beleza 
+                                de seus clientes. Oferecendo conforto e bem estar em um 
+                                ambiente aconchegante, seguro e com estacionamento gratuito.
+                               
                             </p>
                             <p  class="wow fadeInUp" data-wow-delay=".7s" data-wow-duration="500ms">
                                 <!--Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.-->
@@ -146,11 +150,12 @@
                             <div class="team-img">
                                 <img src="images/team/team-2.jpg" class="team-pic" alt="">
                             </div>
-                            <h3 class="team_name">Letícia Bortolotto</h3>
-<!--                            <p class="team_designation">CEO, Project Manager</p>
-                            <p class="team_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore </p>-->
+                            <h3 class="team_name">Letícia Machado Bortolotto</h3>
+                            <p class="team_designation">CRBM-5: 2896</p>
+                            <p class="team_text">Biomédica Esteta e Tecnologa em Estética e Cosmética </p>
+                            <p class="team_text"></p>
                             <p class="social-icons">
-                                <a href="http://www.facebook.com/leticiabortolotto" class="facebook" target="_blank"><i class="ion-social-facebook-outline"></i></a>
+                                <a href="https://www.facebook.com/leticia.bortolotto1" class="facebook" target="_blank"><i class="ion-social-facebook-outline"></i></a>
 <!--                                <a href="#" target="_blank"><i class="ion-social-twitter-outline"></i></a>
                                 <a href="#" target="_blank"><i class="ion-social-linkedin-outline"></i></a>
                                 <a href="#" target="_blank"><i class="ion-social-googleplus-outline"></i></a>-->

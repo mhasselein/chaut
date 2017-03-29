@@ -75,14 +75,14 @@
                     <div class="col-md-12 text-center">
                         <div class="slider-wrapper theme-default">
                             <div id="slider" class="nivoSlider">
-                                <img src="images/b3.jpg" data-thumb="images/toystory.jpg" alt="" data-transition="boxRainReverse" />
+                                <img src="images/b1.jpg" data-thumb="images/b1.jpg" alt="Fotodepilação" data-transition="boxRainReverse" />
                 <!--                <a href="http://dev7studios.com"><img src="images/up.jpg" data-thumb="images/up.jpg" alt="" title="This is an example of a caption" /></a>-->
-                                <img src="images/b3.jpg" data-thumb="images/walle.jpg" alt="" data-transition="boxRainReverse" />
-                                <img src="images/b3.jpg" data-thumb="images/nemo.jpg" alt="" title="#htmlcaption" data-transition="boxRainReverse" />
+                                <img src="images/b2.jpg" data-thumb="images/b2.jpg" alt="Botox" data-transition="boxRainReverse" />
+                                <img src="images/b3.jpg" data-thumb="images/b3.jpg" alt="Estética Facial" title="#htmlcaption" data-transition="boxRainReverse" />
                             </div>
-                            <div id="htmlcaption" class="nivo-html-caption">
+<!--                            <div id="htmlcaption" class="nivo-html-caption">
                                 <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
-                            </div>
+                            </div>-->
                         </div>
                         </div>
                     </div>

@@ -83,7 +83,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="" src="images/portfolio/post-1.jpg">
+                                <img class="img-responsive" alt="Fotodepilação" src="images/portfolio/fotodepilacao.jpg">
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -105,7 +105,7 @@
                 </div>
             </section>
 
-            <section class="works works-fit">
+<!--            <section class="works works-fit">
             <div class="container">
                 <h2 class="subtitle">Some Of Our Features Works</h2>
                     <p class="subtitle-des">
@@ -212,15 +212,13 @@
 
                 </div>
             </div>
-        </section>
+        </section>-->
         
-            <!--
-            ==================================================
+            <!-- ==================================================
             Call To Action Section Start
             ================================================== -->
             <?php include_once './contato_footer.php';?>
-            <!--
-            ==================================================
+            <!-- ==================================================
             Footer Section Start
             ================================================== -->
             <?php include_once './footer.php';?>

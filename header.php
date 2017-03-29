@@ -28,7 +28,7 @@
                             <li>
                                 <a href="index.php" >Home</a>
                             </li>
-                            <li><a href="clinica.php">A Clínica</a></li>
+<!--                            <li><a href="clinica.php">A Clínica</a></li>-->
 <!--                            <li><a href="service.php">Procedimentos</a></li>-->
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tratamentos <span class="caret"></span></a>
@@ -38,7 +38,7 @@
                                         <li><a href="estetica-facial.php">Estética Facial</a></li>
                                         <li><a href="estetica-capilar.php">Estética Capilar</a></li>
                                         <li><a href="fotodepilacao.php">Fotodepilação</a></li>
-                                        <li><a href="nutricao.php">Nutrição</a></li>
+<!--                                        <li><a href="nutricao.php">Nutrição</a></li>-->
                                         
                                     </ul>
                                 </div>
