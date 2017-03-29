@@ -156,7 +156,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação, aumento da ...
+                                    A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação...
                                 </p>
                             </figcaption>
                         </figure>
