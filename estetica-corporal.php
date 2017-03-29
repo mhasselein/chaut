@@ -87,7 +87,7 @@
             <div class="container">
                 <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos Estéticos Corporais</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
-                    A <strong>Clínica Haut</strong> é uma <strong>clínida de estética</strong> que oferece um ambiente para que você sinta-se à vontade para relaxar e cuidar de sua beleza, <br>deixe-se envolver pela suavidade de nosso ambiente totalmente preparado para o seu conforto.
+                    A <strong>Clínica Haut</strong> é uma <strong>clínica de estética</strong> que oferece um ambiente para que você sinta-se à vontade para relaxar e cuidar de sua beleza, <br>deixe-se envolver pela suavidade de nosso ambiente totalmente preparado para o seu conforto.
                 </p>
                 <div class="row">
                     <div class="col-sm-3">
