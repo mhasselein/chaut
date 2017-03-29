@@ -180,7 +180,7 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-botox" class="img-responsive" alt="Botox" >
+                                <img src="images/portfolio/facial-botox.jpg" class="img-responsive" alt="Botox" >
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/facial-botox">Slide</a>        

@@ -137,7 +137,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial-botox" class="img-responsive" alt="Toxina Botulínica - Botox " >
+                                    <img src="images/portfolio/facial-botox.jpg" class="img-responsive" alt="Toxina Botulínica - Botox " >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-botox.php">Mais Detalhes</a>

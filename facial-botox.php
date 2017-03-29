@@ -81,7 +81,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="Botox Facial" src="images/portfolio/facia_botox">
+                            <img class="img-responsive" alt="Botox Facial" src="images/portfolio/facial-botox.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">

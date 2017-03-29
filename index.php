@@ -7,9 +7,9 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Clínica Haut - Clínica de Estética - Bento Gonçalves RS</title>
+        <title>Clínica Haut - Clinica de Estetica - Bento Gonçalves RS</title>
         <meta name="description" content="Clínica Estética localizada em Bento Gonçalves. Tratamentos para celulite, estrias, flacidez, gordura localizada, acne, olheiras, pelos indesejados.">
-        <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação">
+        <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação, Clinica de estetica">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow"> 
         <meta name="google-site-verification" content="8z7CvL3Rp1I0ADPIDYLO4E12ZwjdbjB4pohwdkDTiZU" />
@@ -78,7 +78,7 @@
                                 <img src="images/b1.jpg" data-thumb="images/b1.jpg" alt="Fotodepilação" data-transition="boxRainReverse" />
                 <!--                <a href="http://dev7studios.com"><img src="images/up.jpg" data-thumb="images/up.jpg" alt="" title="This is an example of a caption" /></a>-->
                                 <img src="images/b2.jpg" data-thumb="images/b2.jpg" alt="Botox" data-transition="boxRainReverse" />
-                                <img src="images/b3.jpg" data-thumb="images/b3.jpg" alt="Estética Facial" title="#htmlcaption" data-transition="boxRainReverse" />
+                                <img src="images/b3.jpg" data-thumb="images/b3.jpg" alt="Estética Facial"  data-transition="boxRainReverse" />
                             </div>
 <!--                            <div id="htmlcaption" class="nivo-html-caption">
                                 <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
@@ -124,7 +124,7 @@
                     <div class="section-heading">
                         <h1 class="title wow fadeInDown" data-wow-delay=".3s">Tratamentos Estéticos</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            A <strong>clínica Haut</strong> possui o que existe de melhor em tecnologia e profissionais qualificados. Está habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, olheiras, calvicie, manchas na pele, flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos</strong> e muito mais... 
+                            A <strong>Clínica Haut</strong> possui o que existe de melhor em tecnologia e profissionais qualificados. Está habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, olheiras, calvicie, manchas na pele, flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos</strong> e muito mais... 
                         </p>
                     </div>
                     <div class="row">
