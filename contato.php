@@ -114,7 +114,7 @@
                          <div class="map-area">
                             <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Onde estamos:</h2>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                                Rua Treze de Maio, 877 Sala 108, Shopping L’América
+                                Rua Treze de Maio, 877 Sala 108, Shopping L’América.(54)3452-5967 - (54)99912-8848
                             </p>
                             <div class="map">
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3483.7819146720003!2d-51.51431044923072!3d-29.171098198077807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951c234b9c054401%3A0xbeeb473b8e1cb8ab!2sL%E2%80%99Am%C3%A9rica+Shopping+Center!5e0!3m2!1spt-BR!2sbr!4v1489081265134" width="550" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>                                
