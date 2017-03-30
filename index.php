@@ -110,7 +110,7 @@
                         </div>
                         <div class="col-md-5 col-sm-5" >
                             <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                                <img src="images/about/about.jpg" alt="Clínica Haut">
+                                <img src="images/about/about.png" alt="Clínica Haut">
                             </div>
                         </div>
                     </div>
