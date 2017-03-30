@@ -556,6 +556,10 @@ pointer-events:none;
   font-size: 22px;
   color: #D8AF71;
 }
+#footer .social li i {
+  font-size: 25px;
+  color: #D8AF71;
+}
 .cd-headline.slide .cd-words-wrapper {
   color: #D8AF71;
 }

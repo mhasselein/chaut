@@ -226,5 +226,7 @@
                 $('#slider').nivoSlider();
             });
             </script>
+
         </body>
+        
     </html>
