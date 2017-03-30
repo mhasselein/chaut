@@ -81,7 +81,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="Limpesa de Pele" src="images/portfolio/facial-limpeza_pele.jpg">
+                                <img class="img-responsive" alt="Limpeza de Pele" src="images/portfolio/facial-limpeza_pele.jpg">
                             </div>
                         </div>
                         <div class="col-md-6">

@@ -145,7 +145,7 @@
                                 </a>
                                 </h4>
                                 <p>
-                                    <a href="facial-limpeza-pele.php">Limpesa de Pele</strong></a>, <a href="facial-peeling-quimico.php.php">Peeling Químico</a>, <a href="facial-peeling-diamante.php">Peeling de Diamante</a>, <a href="facial-radiofrequencia.php">Radiofrequência</a>, <a href="facial-botox.php">Botox</a>, <a href="facial-preenchimento-acido-hialuronico.php">Preenchimento com Ácido Hialurônico</a>,<a href="facial-carboxiterapia.php"> Carboxiterapia</a> e <a href="facial-microagulhamento.php">Microagulhamento</a>.
+                                    <a href="facial-limpeza-pele.php">Limpeza de Pele</strong></a>, <a href="facial-peeling-quimico.php.php">Peeling Químico</a>, <a href="facial-peeling-diamante.php">Peeling de Diamante</a>, <a href="facial-radiofrequencia.php">Radiofrequência</a>, <a href="facial-botox.php">Botox</a>, <a href="facial-preenchimento-acido-hialuronico.php">Preenchimento com Ácido Hialurônico</a>,<a href="facial-carboxiterapia.php"> Carboxiterapia</a> e <a href="facial-microagulhamento.php">Microagulhamento</a>.
                                 </p>
                                 </figcaption>
                             </figure>
