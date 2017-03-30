@@ -28,7 +28,7 @@
                     <div class="fb-like" data-href="https://www.facebook.com/clinicahaut" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
                 </li>
                 <li>
-                    <div class="fb-share-button" data-href="https://www.clinicahaut.com.br" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clinicahaut.com.br%2F&amp;src=sdkpreparse">Compartilhar</a></div>
+                    <div class="fb-share-button" data-href="http://www.clinicahaut.com.br" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clinicahaut.com.br%2F&amp;src=sdkpreparse">Compartilhar</a></div>
                 </li>
                 <li>
                     <div class="fb-follow" data-href="https://www.facebook.com/clinicahaut" data-layout="button_count" data-size="small" data-show-faces="true"></div>
