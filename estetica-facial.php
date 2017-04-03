@@ -103,7 +103,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>limpeza de pele</strong> é um <strong>procedimento estético</strong> que tem como objetivo remover <strong>cravos e impurezas da pele</strong>. É indicada, principalmente, para remoção de <strong>cravos</strong> abertos (pontos pretos) ou fechados (pontos brancos)...
+                                    A <strong>limpeza de pele</strong> é um <strong>procedimento estético</strong> que tem como objetivo remover <strong>cravos e impurezas da pele</strong>. É indicada, principalmente, para remoção de <strong>cravos</strong> abertos ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -126,7 +126,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e a promover o crescimento de uma camada...
+                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -149,7 +149,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    O <strong>peeling de diamante</strong> é um <strong>peeling físico</strong>, ou seja, utiliza um equipamento próprio para esse fim que promove uma <strong>microesfoliação da pele</strong>. Entre os principais objetivos do procedimento estão a remoção...
+                                    O <strong>peeling de diamante</strong> é um <strong>peeling físico</strong>, ou seja, utiliza um equipamento próprio para esse fim que promove uma <strong>microesfoliação da pele</strong>. Entre os principais objetivos ...
                                 </p>
                             </figcaption>
                         </figure>
@@ -172,7 +172,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>radiofrequência</strong> é um <strong>tratamento estético</strong> utilizado no combate à <strong>flacidez</strong> do rosto ou do corpo, sendo muito eficaz para amenizar <strong>rugas</strong>, <strong>linhas de expressão</strong> e até mesmo a <strong>celulite</strong>, sendo um método...
+                                    A <strong>radiofrequência</strong> é um <strong>tratamento estético</strong> utilizado no combate à <strong>flacidez</strong> do rosto ou do corpo, sendo muito eficaz para amenizar <strong>rugas</strong>, <strong>linhas de expressão</strong> e <strong>celulite</strong>, sendo...
                                 </p>
                             </figcaption>
                         </figure>
@@ -195,7 +195,7 @@
                                     </a>
                                 </h4>
                                 <p>
-                                    A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para amenizar <strong>rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o desenho das sobrancelhas (arqueamento). Entre as linhas tratadas estão...
+                                    A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para amenizar <strong>rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o desenho das sobrancelhas (arqueamento). Entre as linhas ...
                                 </p>
                             </figcaption>
                         </figure>
