@@ -6,8 +6,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
         <title>Clínica Haut - Contatos</title>
-        <meta name="description" content="Clínica Haut, Rua Treze de Maio, 877 Sala 108, Shopping L’América. Fone:(54)99912-8848 - email:clinicahaut@hotmail.com">
-        <meta name="keywords" content="Shopping L’América, Cĺinica haut, clinica haut, clinica, Clínica de Estética, Bento Gonçalves RS">
+        <meta name="description" content="Clínica Haut, Rua Treze de Maio, 581 Sala 601, Centro Comercial Treze de Maio. Fone:(54)99912-8848 - email:clinicahaut@hotmail.com">
+        <meta name="keywords" content="Cĺinica haut, clinica haut, clinica, Clínica de Estética, Bento Gonçalves RS">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
@@ -114,10 +114,11 @@
                          <div class="map-area">
                             <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Onde estamos:</h2>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                                Rua Treze de Maio, 877 Sala 108, <a target="_blank" href="http://www.lamericashopping.com.br/lojas?p=2">Shopping L’América</a>, Bento Gonçalves RS, CEP 95703-154. Telefones para contato: (54)3452-5967 - (54)99912-8848
+                                Rua Treze de Maio, 581 Sala 601, Centro Comercial Treze de Maio, Bento Gonçalves RS, CEP 95703-154. Telefones para contato: (54)3452-5967 - (54)99912-8848
                             </p>
                             <div class="map">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3483.7819146720003!2d-51.51431044923072!3d-29.171098198077807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951c234b9c054401%3A0xbeeb473b8e1cb8ab!2sL%E2%80%99Am%C3%A9rica+Shopping+Center!5e0!3m2!1spt-BR!2sbr!4v1489081265134" width="550" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>                                
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d870.9683968046974!2d-51.51311541190636!3d-29.16839719888262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951c2352ee21b363%3A0x9a41e1c46234a684!2sCondom%C3%ADnio+Edif%C3%ADcio+Centro+Comercial+13+de+Maio+-+R.+13+De+Maio%2C+581+-+Centro%2C+Bento+Gon%C3%A7alves+-+RS%2C+95700-000!5e0!3m2!1spt-BR!2sbr!4v1509965819176" width="550" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+<!--                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3483.7819146720003!2d-51.51431044923072!3d-29.171098198077807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951c234b9c054401%3A0xbeeb473b8e1cb8ab!2sL%E2%80%99Am%C3%A9rica+Shopping+Center!5e0!3m2!1spt-BR!2sbr!4v1489081265134" width="550" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>                                -->
                             </div>
                         </div>
                     </div>
