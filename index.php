@@ -20,9 +20,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- banner -->
         <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />
-        <link rel="stylesheet" href="themes/light/light.css" type="text/css" media="screen" />
+<!--        <link rel="stylesheet" href="themes/light/light.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="themes/dark/dark.css" type="text/css" media="screen" />
-        <link rel="stylesheet" href="themes/bar/bar.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="themes/bar/bar.css" type="text/css" media="screen" />-->
         <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
 
         <!-- Template CSS Files
