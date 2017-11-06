@@ -81,7 +81,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="" src="images/portfolio/post-1.jpg">
+                            <img class="img-responsive" alt="" src="images/portfolio/facial-peeleng_diamante.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">

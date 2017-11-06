@@ -81,7 +81,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="" src="images/portfolio/corporal-drenagem-linfática-manual.jpg">
+                            <img class="img-responsive" alt="" src="images/portfolio/corporal-drenagem-linfatica-manual.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">
