@@ -1,6 +1,4 @@
-<!--==================================================
-        Header Section Start
-        ================================================== -->
+<!--==========================Header Section Start================================================== -->
         <header id="top-bar" class="navbar-fixed-top animated-header">
             <div class="container">
                 <div class="navbar-header">
@@ -12,7 +10,6 @@
                     <span class="icon-bar"></span>
                     </button>
                     <!-- /responsive nav button -->
-                    
                     <!-- logo -->
                     <div class="navbar-brand">
                         <a href="index.php" >
@@ -38,8 +35,6 @@
                                         <li><a href="estetica-facial.php">Estética Facial</a></li>
                                         <li><a href="estetica-capilar.php">Estética Capilar</a></li>
                                         <li><a href="fotodepilacao.php">Fotodepilação</a></li>
-<!--                                        <li><a href="nutricao.php">Nutrição</a></li>-->
-                                        
                                     </ul>
                                 </div>
                             </li>
@@ -69,4 +64,3 @@
                 <!-- /main nav -->
             </div>
         </header>
-

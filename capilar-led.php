@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <!-- Basic Page Needs
-        ================================================== -->
+        <!-- Basic Page Needs================================================== -->
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
@@ -14,7 +13,6 @@
         <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <!-- Template CSS Files================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -32,7 +30,6 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-
         <!-- Template Javascript Files================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
@@ -41,7 +38,6 @@
         <!-- owl carouserl js -->
         <script src="js/owl.carousel.min.js"></script>
         <!-- bootstrap js -->
-
         <script src="js/bootstrap.min.js"></script>
         <!-- wow js -->
         <script src="js/wow.min.js"></script>
@@ -53,9 +49,7 @@
     </head>
     <body>
         <?php include_once("./php/analyticstracking.php") ?>
-        <!--==================================================
-        Header Section Start
-        ================================================== -->
+        <!--========Header Section Start================================================== -->
         <?php include_once './header.php'; ?>
         <!--==================================================
         Global Page Section Start
@@ -76,7 +70,6 @@
                 </div>
             </div>
         </section><!--/#Page header-->
-
         <section class="portfolio-single">
             <div class="container">
                 <div class="row">
@@ -94,14 +87,12 @@
                             <p> 
                                 O tratamento da <strong>queda dos cabelos</strong> com <strong>LED </strong>é totalmente indolor, atóxico, não  invasivo e sem qualquer tipo de efeito colateral. Fazendo o tratamento correto, os pacientes podem ter cabelos mais grossos, com mais volume, mais brilho e mais saudáveis.
                             </p>
-
                         </div>
 
                     </div>
                 </div>
             </div>
         </section>
-
         <section class="works works-fit">
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>

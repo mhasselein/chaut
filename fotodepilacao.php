@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <!-- Basic Page Needs
-        ================================================== -->
+        <!-- Basic Page Needs================================================== -->
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
@@ -10,13 +9,10 @@
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="author" content="">
-        <!-- Mobile Specific Metas
-        ================================================== -->
+        <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <!-- Template CSS Files
-        ================================================== -->
+        <!-- Template CSS Files ================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- Ionicons Fonts Css -->
@@ -33,9 +29,7 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-        
-        <!-- Template Javascript Files
-        ================================================== -->
+        <!-- Template Javascript Files================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
@@ -43,7 +37,6 @@
         <!-- owl carouserl js -->
         <script src="js/owl.carousel.min.js"></script>
         <!-- bootstrap js -->
-
         <script src="js/bootstrap.min.js"></script>
         <!-- wow js -->
         <script src="js/wow.min.js"></script>
@@ -77,7 +70,6 @@
                 </div>
             </div>
             </section><!--/#Page header-->
-
             <section class="portfolio-single">
                 <div class="container">
                     <div class="row">
@@ -99,21 +91,14 @@
                                     A <strong>fotodepilação é unissex</strong> e está indicada em casos de foliculite pilosa (pelos encravados) e para pelos indesejados em qualquer região do corpo. A pele ideal para a realização da fotodepilação é a pele clara com pelos escuros e grossos. No entanto, ela pode ser usada para qualquer fototipo (tonalidade da pele), isso porque é possível realizar uma graduação que se adapte ao fototipo do paciente, o que possibilita o tratamento das peles mais claras às mais escuras.
                                 </p>
                             </div>
-                         
                         </div>
                     </div>
                 </div>
             </section>
-
-            <!-- ==================================================
-            Call To Action Section Start
-            ================================================== -->
+            <!-- ================Call To Action Section Start================================================== -->
             <?php include_once './contato_footer.php';?>
-            <!-- ==================================================
-            Footer Section Start
-            ================================================== -->
-            <?php include_once './footer.php';?>
-                
+            <!-- =====================Footer Section Start================================================== -->
+            <?php include_once './footer.php';?>  
             </body>
         </html>
     </html>

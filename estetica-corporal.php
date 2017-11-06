@@ -13,7 +13,6 @@
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <!-- Template CSS Files ================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -31,7 +30,6 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-
         <!-- Template Javascript Files================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
@@ -40,7 +38,6 @@
         <!-- owl carouserl js -->
         <script src="js/owl.carousel.min.js"></script>
         <!-- bootstrap js -->
-
         <script src="js/bootstrap.min.js"></script>
         <!-- wow js -->
         <script src="js/wow.min.js"></script>
@@ -52,14 +49,9 @@
     </head>
     <body>
         <?php include_once("./php/analyticstracking.php") ?>
-        <!--==================================================
-        Header 
-        ================================================== -->
+        <!--====Header ================================================= -->
         <?php include_once 'header.php'; ?>
-        
-        <!--================================================== 
-            Global Page Section Start
-        ================================================== -->
+        <!--====Global Page Section Start================================================= -->
         <section class="global-page-header">
             <div class="container">
                 <div class="row">
@@ -80,9 +72,7 @@
                 </div>
             </div>   
         </section>
-        <!-- ================================================== 
-            Works Section Start
-        ================================================== -->
+        <!-- ============Works Section Start================================================== -->
         <section class="works service-page">
             <div class="container">
                 <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos Estéticos Corporais</h2>
@@ -113,7 +103,6 @@
                             </figcaption>
                         </figure>
                     </div>
-
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
@@ -137,7 +126,6 @@
                             </figcaption>
                         </figure>
                     </div>
-
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
@@ -161,7 +149,6 @@
                             </figcaption>
                         </figure>
                     </div>
-
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
@@ -234,13 +221,9 @@
                 </div>
             </div>
         </section>
-        <!-- ================================================== 
-           Contato Footer
-        ================================================== -->
+        <!-- ========Contato Footer================================================== -->
         <?php include_once 'contato_footer.php'; ?>
-        <!-- ================================================== 
-            Footer Section Start
-        ================================================== -->
+        <!-- ============Footer Section Start================================================== -->
         <?php include_once 'footer.php' ?>
     </body>
 </html>

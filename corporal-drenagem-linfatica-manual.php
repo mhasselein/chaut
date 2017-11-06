@@ -13,7 +13,6 @@
         <!-- Mobile Specific Metas ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <!-- Template CSS Files ================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -31,7 +30,6 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-
         <!-- Template Javascript Files ================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
@@ -40,7 +38,6 @@
         <!-- owl carouserl js -->
         <script src="js/owl.carousel.min.js"></script>
         <!-- bootstrap js -->
-
         <script src="js/bootstrap.min.js"></script>
         <!-- wow js -->
         <script src="js/wow.min.js"></script>
@@ -52,13 +49,9 @@
     </head>
     <body>
         <?php include_once("./php/analyticstracking.php") ?>
-        <!-- ==================================================
-        Header Section Start
-        ================================================== -->
+        <!-- ====Header Section Start================================================== -->
         <?php include_once './header.php'; ?>
-        <!-- ==================================================
-        Global Page Section Start
-        ================================================== -->
+        <!-- =======Global Page Section Start================================================== -->
         <section class="global-page-header">
             <div class="container">
                 <div class="row">
@@ -75,7 +68,6 @@
                 </div>
             </div>
         </section><!--/#Page header-->
-
         <section class="portfolio-single">
             <div class="container">
                 <div class="row">
@@ -91,12 +83,10 @@
                                 A <strong>drenagem linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método estão a <strong>>redução da retenção de líquido, ativação da circulação sanguínea, combate à celulite e relaxamento corporal</strong>. Também é indicada para acelerar o processo de <strong>reparação tecidual pós cirurgia plástica</strong> e durante a gestação para eliminar os inchaços e ajudar a mamãe a relaxar. 
                             </p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </section>
-
         <section class="works works-fit">
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
@@ -177,16 +167,10 @@
                 </div>
             </div>
         </section>
-
-        <!--==================================================
-        Call To Action Section Start
-        ================================================== -->
+        <!--======== Call To Action Section Start================================================== -->
         <?php include_once './contato_footer.php'; ?>
-        <!--==================================================
-        Footer Section Start
-        ================================================== -->
+        <!--===Footer Section Start================================================== -->
         <?php include_once './footer.php'; ?>
-
     </body>
 </html>
 </html>

@@ -29,19 +29,13 @@
         <!-- template main css file -->
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
-        <link rel="stylesheet" href="css/responsive.css">
-        
+        <link rel="stylesheet" href="css/responsive.css">        
     </head>
     <body>
         <?php include_once("./php/analyticstracking.php") ?>
-        <!--==================================================
-        Header Section Start
-        ================================================== -->
+        <!--===Header Section Start================================================== -->
         <?php include_once 'header.php';?>
-
-        <!-- ================================================== 
-            Global Page Section Start
-        ================================================== -->
+        <!-- =Global Page Section Start================================================== -->
         <section class="global-page-header">
             <div class="container">
                 <div class="row">
@@ -62,9 +56,7 @@
                 </div>
             </div>   
         </section>
-        <!-- ================================================== 
-            Contact Section Start
-        ================================================== -->
+        <!-- ===========Contact Section Start================================================== -->
         <section id="contact-section">
             <div class="container">
                 <div class="row">
@@ -75,37 +67,28 @@
                                 Você pode contactar a <strong>Clínica Haut</strong> através de email, telefone ou WhatsApp, de onde estiver, do seu jeito.
                                 Ou pode fazer-nos uma visita, será um prazer. Estamos aguardando o seu contato.
                             </p>
-                            <div id="msg" class="hidden">
-                                
+                            <div id="msg" class="hidden">                
                             </div>
                             <div class="contact-form">
                                 <form id="contact-form" method="post" action="#" role="form">
-                        
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
                                         <input type="text" placeholder="* Seu Nome" class="form-control" name="nome" id="nome">
                                     </div>
-                                    
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
                                         <input type="email" placeholder="* Seu Email" class="form-control" name="email" id="email" >
                                     </div>
-                                    
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
                                         <input type="text" placeholder="* Telefone para Contato" class="form-control" name="fone" id="fone" >
                                     </div>
-                                    
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
                                         <input type="text" placeholder="* Assunto" class="form-control" name="assunto" id="assunto">
                                     </div>
-                                    
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
                                         <textarea rows="6" placeholder="* Mensagem" class="form-control" name="mensagem" id="mensagem"></textarea>    
                                     </div>
-                                    
-                                    
                                     <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
                                         <input type="button" id="contact-submit"  class="btn btn-default btn-send" value="Enviar">
                                     </div>                      
-                                    
                                 </form>
                             </div>
                         </div>
@@ -118,7 +101,6 @@
                             </p>
                             <div class="map">
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d870.9683968046974!2d-51.51311541190636!3d-29.16839719888262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951c2352ee21b363%3A0x9a41e1c46234a684!2sCondom%C3%ADnio+Edif%C3%ADcio+Centro+Comercial+13+de+Maio+-+R.+13+De+Maio%2C+581+-+Centro%2C+Bento+Gon%C3%A7alves+-+RS%2C+95700-000!5e0!3m2!1spt-BR!2sbr!4v1509965819176" width="550" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
-<!--                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3483.7819146720003!2d-51.51431044923072!3d-29.171098198077807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951c234b9c054401%3A0xbeeb473b8e1cb8ab!2sL%E2%80%99Am%C3%A9rica+Shopping+Center!5e0!3m2!1spt-BR!2sbr!4v1489081265134" width="550" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>                                -->
                             </div>
                         </div>
                     </div>
@@ -152,10 +134,7 @@
             </div>
         </section>
         <hr>
-        <!-- 
-        ================================================== 
-            Footer Section Start
-        ================================================== -->
+        <!-- ==========Footer Section Start================================================== -->
         <?php include_once './footer.php';?>
         <!-- Template Javascript Files================================================== -->
         <!-- modernizr js -->
@@ -173,7 +152,6 @@
         <script src="js/jquery.fancybox.js"></script>
         <!-- template main js -->
         <script src="js/main.js"></script>
-    
     </body>
 </html>
 

@@ -48,13 +48,9 @@
     </head>
     <body>
         <?php include_once("./php/analyticstracking.php") ?>
-        <!--==================================================
-        Header Section Start
-        ================================================== -->
+        <!--=========Header Section Start================================================== -->
         <?php include_once 'header.php'; ?>
-        <!--================================================== 
-            Global Page Section Start
-        ================================================== -->
+        <!--=========Global Page Section Start================================================== -->
         <section class="global-page-header">
             <div class="container">
                 <div class="row">
@@ -75,9 +71,7 @@
                 </div>
             </div>   
         </section>
-        <!--================================================== 
-            Works Section Start
-        ================================================== -->
+        <!--=========Works Section Start================================================== -->
         <section class="works service-page">
             <div class="container">
                 <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos Estéticos Faciais</h2>
@@ -269,17 +263,12 @@
                             </figcaption>
                         </figure>
                     </div>
-                    
                 </div>
             </div>
         </section>
-        <!-- ================================================== 
-           Contato Footer
-        ================================================== -->
+        <!-- ============Contato Footer================================================== -->
         <?php include_once 'contato_footer.php';?>
-        <!-- ================================================== 
-            Footer Section Start
-        ================================================== -->
+        <!-- ============Footer Section Start================================================== -->
         <?php include_once 'footer.php';?>
     </body>
 </html>
