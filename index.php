@@ -61,9 +61,9 @@
                     <div class="col-md-12 text-center">
                         <div class="slider-wrapper theme-default">
                             <div id="slider" class="nivoSlider">
-                                <img src="images/b1.jpg" data-thumb="images/b1.jpg" alt="Fotodepilação" data-transition="boxRainReverse" />
-                                <img src="images/b2.jpg" data-thumb="images/b2.jpg" alt="Botox" data-transition="boxRainReverse" />
                                 <img src="images/b3.jpg" data-thumb="images/b3.jpg" alt="Estética Facial"  data-transition="boxRainReverse" />
+                                <img src="images/b1.jpg" data-thumb="images/b1.jpg" alt="Fotodepilação" data-transition="boxRainReverse" />
+                                <img src="images/b2.jpg" data-thumb="images/b2.jpg" alt="Pós Operatório" data-transition="boxRainReverse" />
                             </div>
                         </div>
                         </div>
@@ -99,7 +99,7 @@
                         </p>
                     </div>
                     <div class="row">
-                        <div class="col-sm-4 col-xs-12">
+                        <div class="col-sm-3 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Estética Facial" >
@@ -117,7 +117,26 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-4 col-xs-12">
+                        <div class="col-sm-3 col-xs-12">
+                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
+                                <div class="img-wrapper">
+                                    <img src="images/portfolio/pos_home.gif" class="img-responsive" alt="Pós Operatório" >
+                                    <div class="overlay">
+                                        <div class="buttons" style="left: 30%">
+                                            <a href="pos_operatorio.php">Mais Detalhes</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <figcaption>
+                                <h4><a href="pos_operatorio.php">Pós Operatório</a></h4>
+                                <p align="justify">
+                                    <a href="pos_operatorio.php">A eficiência de um procedimento cirúrgico não depende apenas da cirurgia em si. 
+                                        É necessário a atenção também nos cuidados  pré e pós-operatórios .</a>
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-sm-3 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/corporal-lipocavitacao.jpg" class="img-responsive" alt="Estética Corporal" >
@@ -137,7 +156,7 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-4 col-xs-12">
+                        <div class="col-sm-3 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/microagulhamento_capilar.jpg" class="img-responsive" alt="" >
@@ -154,7 +173,10 @@
                                 <a href="estetica-capilar.php">Estética Capilar</a>
                                 </h4>
                                 <p>
-                                    <a href="capilar-microagulhamento.php">Microagulhamento Capilar (Dermaroler)</a>, <a href="capilar-mesoterapia.php">Mesoterapia</a>, <a href="capilar-carboxiterapia.php">Carboxiterapia Capilar</a>, <a href="capilar-led.php">Led Capilar</a> &nbsp<br> &nbsp<br> &nbsp
+                                    <a href="capilar-microagulhamento.php">Microagulhamento Capilar (Dermaroler)</a>, 
+                                    <a href="capilar-mesoterapia.php">Mesoterapia</a>, 
+                                    <a href="capilar-carboxiterapia.php">Carboxiterapia Capilar</a>, 
+                                    <a href="capilar-led.php">Led Capilar</a> &nbsp<br> &nbsp<br>
                                 </p>
                                 </figcaption>
                             </figure>
