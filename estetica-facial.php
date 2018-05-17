@@ -59,7 +59,7 @@
                             <h2>Estética Facial</h2>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="index.html">
+                                    <a href="index.php">
                                         <i class="ion-ios-home"></i>
                                         Home
                                     </a>
@@ -96,7 +96,7 @@
                                         Limpeza de Pele        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>limpeza de pele</strong> é um <strong>procedimento estético</strong> que tem como objetivo remover <strong>cravos e impurezas da pele</strong>. É indicada, principalmente, para remoção de <strong>cravos</strong> abertos ...
                                 </p>
                             </figcaption>
@@ -119,7 +119,7 @@
                                          Peeling Químico      
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e ...
                                 </p>
                             </figcaption>
@@ -142,7 +142,7 @@
                                         Peeling de Diamante        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     O <strong>peeling de diamante</strong> é um <strong>peeling físico</strong>, ou seja, utiliza um equipamento próprio para esse fim que promove uma <strong>microesfoliação da pele</strong>. Entre os principais objetivos ...
                                 </p>
                             </figcaption>
@@ -165,7 +165,7 @@
                                         Radiofrequência        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>radiofrequência</strong> é um <strong>tratamento estético</strong> utilizado no combate à <strong>flacidez</strong> do rosto ou do corpo, sendo muito eficaz para amenizar <strong>rugas</strong>, <strong>linhas de expressão</strong> e <strong>celulite</strong>, sendo...
                                 </p>
                             </figcaption>
@@ -188,7 +188,7 @@
                                         Toxina Botulínica - Botox        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para amenizar <strong>rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o desenho das sobrancelhas (arqueamento). Entre as linhas ...
                                 </p>
                             </figcaption>
@@ -211,7 +211,7 @@
                                         Preenchimento com Ácido Hialurônico       
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     O <strong>preenchimento</strong> cutâneo é uma técnica utilizada para a <strong>correção de sulcos, rugas e cicatrizes</strong>. Consiste na injeção de substâncias sob a área da <strong>pele</strong> a ser tratada elevando-a ...
                                 </p>
                             </figcaption>
@@ -234,7 +234,7 @@
                                         Carboxiterapia        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>.O gás da <strong>carboxiterapia</strong> funciona melhorando a circulação celular ...
                                 </p>
                             </figcaption>
@@ -257,7 +257,7 @@
                                         Microagulhamento (Dermaroler)       
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     O <strong> microagulhamento ou dermaroler</strong> é um tratamento estético realizado através de dispositivos compostos por pequenas agulhas que causam microperfurações na <strong>pele</strong>...
                                 </p>
                             </figcaption>

@@ -97,7 +97,7 @@
                                         Lipocavitação        
                                     </a>
                                 </h4>
-                                <p >
+                                <p align="justify">
                                     A <strong>lipocavitação</strong> é um <strong>procedimento estético</strong> realizado através de um aparelho de ultrassom focado que serve para eliminar <strong>gordura acumulada na barriga, coxas, flancos</strong>...
                                 </p>
                             </figcaption>
@@ -120,7 +120,7 @@
                                         Mesoterapia        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se ...
                                 </p>
                             </figcaption>
@@ -143,7 +143,7 @@
                                         Carboxiterapia        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação...
                                 </p>
                             </figcaption>
@@ -166,12 +166,14 @@
                                         Radiofrequência        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido ...
                                 </p>
                             </figcaption>
                         </figure>
                     </div>
+                </div>
+                <div class="row">
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
@@ -189,7 +191,7 @@
                                         Endermologia        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho ...
                                 </p>
                             </figcaption>
@@ -212,8 +214,32 @@
                                         Drenagem Linfática Manual        
                                     </a>
                                 </h4>
-                                <p>
+                                <p align="justify">
                                     A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método...
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div class="col-sm-3">
+                        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/corporal/peim.jpg" class="img-responsive" alt="PEIM" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal/peim.jpg">Slide</a>        
+                                        <a  href="corporal-peim.php">Detalhes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="corporal-peim.php">
+                                        PEIM       
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                     O <strong>Procedimento estético injetável para microvasos (PEIM)</strong> é um tratamento realizado com o 
+                                    objetivo de eliminar os vasinhos que aparecem nas pernas e se tornam um incomodo <strong>estético</strong> para as mulheres. 
                                 </p>
                             </figcaption>
                         </figure>

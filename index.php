@@ -5,9 +5,9 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Clínica Haut - Clinica de Estetica - Bento Gonçalves RS</title>
+        <title>Clínica Haut - Clínica de Estética - Bento Gonçalves RS</title>
         <meta name="description" content="Clínica Estética localizada em Bento Gonçalves. Tratamentos para celulite, estrias, flacidez, gordura localizada, acne, olheiras e pelos indesejados.">
-        <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação, Clinica de estetica">
+        <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação, Clinica de estetica, Remoção de Tatuagem, PEIM, Pós Operatório">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow"> 
         <meta name="google-site-verification" content="8z7CvL3Rp1I0ADPIDYLO4E12ZwjdbjB4pohwdkDTiZU" />
@@ -95,11 +95,13 @@
                     <div class="section-heading">
                         <h1 class="title wow fadeInDown" data-wow-delay=".3s">Tratamentos Estéticos</h1>
                         <p class="wow fadeInDown" data-wow-delay=".5s">
-                            A <strong>Clínica Haut</strong> possui o que existe de melhor em tecnologia e profissionais qualificados. Está habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, olheiras, calvicie, manchas na pele, flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos</strong> e muito mais... 
+                            A <strong>Clínica Haut</strong> possui o que existe de melhor em tecnologia e profissionais qualificados. 
+                            Está habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, olheiras, calvicie, manchas na pele, 
+                            flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos, pós operatórios, remoção de tatuagens</strong> e muito mais... 
                         </p>
                     </div>
                     <div class="row">
-                        <div class="col-sm-3 col-xs-12">
+                        <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Estética Facial" >
@@ -112,31 +114,19 @@
                                 <figcaption>
                                 <h4><a href="estetica-facial.php">Estética Facial</a></h4>
                                 <p>
-                                    <a href="facial-limpeza-pele.php">Limpeza de Pele</strong></a>, <a href="facial-peeling-quimico.php.php">Peeling Químico</a>, <a href="facial-peeling-diamante.php">Peeling de Diamante</a>, <a href="facial-radiofrequencia.php">Radiofrequência</a>, <a href="facial-botox.php">Botox</a>, <a href="facial-preenchimento-acido-hialuronico.php">Preenchimento com Ácido Hialurônico</a>,<a href="facial-carboxiterapia.php"> Carboxiterapia</a> e <a href="facial-microagulhamento.php">Microagulhamento</a>.
+                                    <a href="facial-limpeza-pele.php">Limpeza de Pele</strong></a>, 
+                                    <a href="facial-peeling-quimico.php">Peeling Químico</a>, 
+                                    <a href="facial-peeling-diamante.php">Peeling de Diamante</a>, 
+                                    <a href="facial-radiofrequencia.php">Radiofrequência</a>, 
+                                    <a href="facial-botox.php">Botox</a>, 
+                                    <a href="facial-preenchimento-acido-hialuronico.php">Preenchimento com Ácido Hialurônico</a>,
+                                    <a href="facial-carboxiterapia.php"> Carboxiterapia</a> e 
+                                    <a href="facial-microagulhamento.php">Microagulhamento</a>.
                                 </p>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-3 col-xs-12">
-                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
-                                <div class="img-wrapper">
-                                    <img src="images/portfolio/pos_home.gif" class="img-responsive" alt="Pós Operatório" >
-                                    <div class="overlay">
-                                        <div class="buttons" style="left: 30%">
-                                            <a href="pos_operatorio.php">Mais Detalhes</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <figcaption>
-                                <h4><a href="pos_operatorio.php">Pós Operatório</a></h4>
-                                <p align="justify">
-                                    <a href="pos_operatorio.php">A eficiência de um procedimento cirúrgico não depende apenas da cirurgia em si. 
-                                        É necessário a atenção também nos cuidados  pré e pós-operatórios .</a>
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-sm-3 col-xs-12">
+                        <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/corporal-lipocavitacao.jpg" class="img-responsive" alt="Estética Corporal" >
@@ -151,12 +141,19 @@
                                     <a href="estetica-corporal.php">Estética Corporal</a>
                                 </h4>
                                 <p>
-                                    <a href="corporal-lipocavitacao.php">Lipocavitação</a>, <a href="corporal-carboxiterapia.php">Carboxiterapia</a>, <a href="corporal-drenagem-linfatica_manual.php">Drenagem Linfática Manual</a>, <a href="corporal-endermologia.php">Endermologia</a>, <a href="corporal-mesoterapia.php">Mesoterapia</a>, <a href="corporal-radiofrequencia.php">Radiofrequência</a>, <a href="fotodepilacao.php.php">Fotodepilação.</a><br>&nbsp
+                                    <a href="corporal-lipocavitacao.php">Lipocavitação</a>, 
+                                    <a href="corporal-carboxiterapia.php">Carboxiterapia</a>, 
+                                    <a href="corporal-drenagem-linfatica_manual.php">Drenagem Linfática Manual</a>, 
+                                    <a href="corporal-endermologia.php">Endermologia</a>, 
+                                    <a href="corporal-mesoterapia.php">Mesoterapia</a>, 
+                                    <a href="corporal-radiofrequencia.php">Radiofrequência</a>, 
+                                    <a href="fotodepilacao.php">Fotodepilação</a>,
+                                    <a href="corporal-peim.php">PEIM.</a><br>&nbsp
                                 </p>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-3 col-xs-12">
+                        <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/microagulhamento_capilar.jpg" class="img-responsive" alt="" >
@@ -176,7 +173,66 @@
                                     <a href="capilar-microagulhamento.php">Microagulhamento Capilar (Dermaroler)</a>, 
                                     <a href="capilar-mesoterapia.php">Mesoterapia</a>, 
                                     <a href="capilar-carboxiterapia.php">Carboxiterapia Capilar</a>, 
-                                    <a href="capilar-led.php">Led Capilar</a> &nbsp<br> &nbsp<br>
+                                    <a href="capilar-led.php">Led Capilar</a> &nbsp<br> &nbsp<br>&nbsp<br>
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
+                                <div class="img-wrapper">
+                                    <img src="images/portfolio/pos_home.gif" class="img-responsive" alt="Pós Operatório" >
+                                    <div class="overlay">
+                                        <div class="buttons" style="left: 30%">
+                                            <a href="pos_operatorio.php">Mais Detalhes</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <figcaption>
+                                <h4><a href="pos_operatorio.php">Pós Operatório</a></h4>
+                                <p align="justify">
+                                    A eficiência de um procedimento cirúrgico não depende apenas da cirurgia em si. 
+                                        É necessário a atenção também nos cuidados  pré e pós-operatórios .&nbsp<br>&nbsp<br>
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
+                                <div class="img-wrapper">
+                                    <img src="images/portfolio/remocao_tatoo/tatoo.jpg" class="img-responsive" alt="Remoção de Tatuagem" >
+                                    <div class="overlay">
+                                        <div class="buttons" style="left: 30%">
+                                            <a href="remocao_tatuagem.php">Mais Detalhes</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <figcaption>
+                                    <h4><a href="remocao_tatuagem.php">Remoção de Tatuagem</a></h4>
+                                <p align="justify">
+                                    O processo de remoção de tatuagem é realizado por um laser que deve trabalhar na frequência exata.
+                                        O sucessodo procedimentodependerá das características da tatuagem e da pessoa individualmente.  
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
+                                <div class="img-wrapper">
+                                    <img src="images/portfolio/corporal/peim.jpg" class="img-responsive" alt="PEIM" >
+                                    <div class="overlay">
+                                        <div class="buttons" style="left: 30%">
+                                            <a href="corporal-peim.php">Mais Detalhes</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <figcaption>
+                                    <h4><a href="corporal-peim.php">PEIM</a></h4>
+                                <p align="justify">
+                                   O Procedimento estético injetável para microvasos (PEIM) é um tratamento realizado 
+                                   com o objetivo de eliminar os vasinhos que aparecem nas pernas e se tornam um incomodo estético para as mulheres. 
                                 </p>
                                 </figcaption>
                             </figure>
