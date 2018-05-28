@@ -1,5 +1,4 @@
 http://www.clinicahaut.com.br/index.php
-http://www.clinicahaut.com.br/clinica.php
 http://www.clinicahaut.com.br/estetica-corporal.php
 http://www.clinicahaut.com.br/corporal-lipocavitacao.php
 http://www.clinicahaut.com.br/corporal-mesoterapia.php
@@ -22,6 +21,5 @@ http://www.clinicahaut.com.br/capilar-mesoterapia.php
 http://www.clinicahaut.com.br/capilar-carboxiterapia.php
 http://www.clinicahaut.com.br/capilar-led.php
 http://www.clinicahaut.com.br/fotodepilacao.php
-http://www.clinicahaut.com.br/nutricao.php
 http://www.clinicahaut.com.br/contato.php
 
