@@ -7,8 +7,8 @@ $assunto = $_POST['assunto'];
 $mensagem = $_POST['mensagem'];
 $fone = $_POST['fone'];
 
-    // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "haut@clinicahaut.com.br";
+    // EDIT THE 2 LINES BELOW AS REQUIRED //clinicahaut@hotmail.com
+    $email_to = "mateushass82@gmail.com";
     $email_subject = "Perguntas a Clínica Haut";
 
     // validation expected data exists
