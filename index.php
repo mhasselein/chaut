@@ -7,7 +7,7 @@
         <link rel="icon" type="image/png" href="images/favicon.png">
         <title>Clínica Haut - Clínica de Estética - Bento Gonçalves RS</title>
         <meta name="description" content="Clínica Estética localizada em Bento Gonçalves. Tratamentos para celulite, estrias, flacidez, gordura localizada, acne, olheiras e pelos indesejados.">
-        <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação, Clinica de estetica, Remoção de Tatuagem, PEIM, Pós Operatório">
+        <meta name="keywords" content="Rugas, Clínica Haut, Estética, Biomedicina, Queda de Cabelo, Calvicie, Estética Corporal, Estética Facial, Acne, Celulite, Bento Gonçalves, Depilação, Fotodepilação, Clinica de estetica, PEIM, Pós Operatório">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow"> 
         <meta name="google-site-verification" content="8z7CvL3Rp1I0ADPIDYLO4E12ZwjdbjB4pohwdkDTiZU" />
@@ -97,7 +97,7 @@
                         <p class="wow fadeInDown" data-wow-delay=".5s">
                             A <strong>Clínica Haut</strong> possui o que existe de melhor em tecnologia e profissionais qualificados. 
                             Está habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, olheiras, calvicie, manchas na pele, 
-                            flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos, pós operatórios, remoção de tatuagens</strong> e muito mais... 
+                            flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos, pós operatórios</strong> e muito mais... 
                         </p>
                     </div>
                     <div class="row">
@@ -199,25 +199,7 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
-                                <div class="img-wrapper">
-                                    <img src="images/portfolio/remocao_tatoo/tatoo.jpg" class="img-responsive" alt="Remoção de Tatuagem" >
-                                    <div class="overlay">
-                                        <div class="buttons" style="left: 30%">
-                                            <a href="remocao_tatuagem.php">Mais Detalhes</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <figcaption>
-                                    <h4><a href="remocao_tatuagem.php">Remoção de Tatuagem</a></h4>
-                                <p align="justify">
-                                    O processo de remoção de tatuagem é realizado por um laser que deve trabalhar na frequência exata.
-                                        O sucessodo procedimentodependerá das características da tatuagem e da pessoa individualmente.  
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
+                       
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">

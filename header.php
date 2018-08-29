@@ -36,7 +36,6 @@
                                         <li><a href="estetica-capilar.php">Estética Capilar</a></li>
                                         <li><a href="fotodepilacao.php">Fotodepilação</a></li>
                                         <li><a href="pos_operatorio.php">Pós Operatório</a></li>
-                                        <li><a href="remocao_tatuagem.php">Remoção de Tatuagem</a></li>
                                     </ul>
                                 </div>
                             </li>
