@@ -120,7 +120,7 @@
                             <h3 class="team_name">Letícia M. Bortolotto</h3>
                             <p class="team_designation">CRBM-5: 2896</p>
                             <p class="team_text">Sócia-proprietária, Biomédica Esteta e Estetocosmetóloga na Clínica Haut, 
-                                a Dra. Letícia possui um currículo repleto de especializações e cursos, entre elas:</p>
+                                a Dra. Letícia possui um currículo repleto de especializações e cursos, entre eles:</p>
                             <p class="team_text">- Estética e Cosmética pela ULBRA- SM 2009;</p>
                             <p class="team_text">- Biomedicina pelo CNEC-BG 2016;</p>
                             <p class="team_text">Habilitação em Biomedicina estética pelo Conselho Regional de Biomedicina 5a região (CRBM-5).</p>
