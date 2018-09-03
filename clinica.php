@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Clínica Haut - Clínica de Estética</title>
+        <title>A Clínica - Clínica de Estética - Profissionais</title>
         <meta name="description" content="A Clínica Haut é uma clínica de estética localizada no Shopping Lamérica em Bento Gonçalves-RS e oferece uma gama de tratamentos.">
         <meta name="keywords" content="Clínica Haut, Clínica de Estética, Estética, Tratamentos Estéticos, Clinica">
         <meta name="author" content="Clinica Haut">
