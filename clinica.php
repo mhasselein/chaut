@@ -131,22 +131,6 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
-                            <div class="team-img">
-                                <img src="images/team/bruna.jpg" class="team-pic" alt="">
-                            </div>
-                            <h3 class="team_name">Bruna L. Zaccaron</h3>
-                            <p class="team_designation">CRBM-5: 2577</p>
-
-                            <p class="team_text">Sócia-proprietária a Dra. Bruna L. Zaccaron, graduada em Biomedicina com habilitação em Patologia Clínica pela Universidade Feevale (2016). </p>
-                            <p class="team_text"> Pós- graduada em Biomedicina Estética pelo Instituto de Saúde Esportiva estética e clínica (ISEEC).</p> 
-                            <p class="team_text">Habilitação em Biomedicina estética pelo Conselho Regional de Biomedicina 5a região (CRBM-5).</p>
-
-                            <p class="team_text">Com mais de 3 anos de experiência na área estética, está em constante atualização em cursos e congressos</p>
-                            
-                        </div>
-                    </div>
-                    <div class="col-md-4">
                         <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <div class="team-img">
                                 <img src="images/team/nutri.jpg" class="team-pic" alt="">
