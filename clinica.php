@@ -125,7 +125,7 @@
                             <p class="team_text">- Biomedicina pelo CNEC-BG 2016;</p>
                             <p class="team_text">Habilitação em Biomedicina estética pelo Conselho Regional de Biomedicina 5a região (CRBM-5).</p>
                             <p class="team_text">- Formação Internacional em Procedimentos Pré e Pós Operatórios de Cirurgia Plástica pelo ISEPE-RS com certificação pela Escola Internacional de Saúde Tecnológica de Lisboa- Portugal.</p>
-                            <p class="team_text">Com experiência na área estética há quase 10 anos e sempre em busca de novos olhares e conhecimentos, a Letícia é uma de nossas biomédicas na clínica. </p>
+                            <p class="team_text">Com experiência na área estética há mais de 10 anos e sempre em busca de novos olhares e conhecimentos, a Letícia é uma de nossas biomédicas na clínica. </p>
                             <p class="team_text"></p>
                             
                         </div>
@@ -137,10 +137,10 @@
                             </div>
                             <h3 class="team_name">Graziely Florzino</h3>
                             <p class="team_designation">CRN 4436</p>
-                            <p class="team_text">A mais nova integrante da equipe da Clínica Haut é a nutricionista Graziely Florzino .</p>
                             <p class="team_text"> Graduada em Nutrição pela UNISUL em 2013 e pós-graduada em Nutrição Clínica Funcional pela VP conclusão em 2016.
                                 Possui ainda em seu currículo curso de extensão em Medicina e Nutrição Esportiva pela Plenitude concluído em 2017.</p>
-                            <p class="team_text">Já exerceu atividade como Nutricionista de Unidade de Alimentação e Nutrição, possui experiência em controle de qualidade e custos. Há 4 anos atua como nutricionista em consultório.</p>
+                            <p class="team_text">Já exerceu atividade como Nutricionista de Unidade de Alimentação e Nutrição, possui experiência em controle 
+                                de qualidade e custos. Há mais de 5 anos atua como nutricionista em consultório.</p>
 
                         </div>
                     </div>

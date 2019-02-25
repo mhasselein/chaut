@@ -219,6 +219,25 @@
                                 </figcaption>
                             </figure>
                         </div>
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
+                                <div class="img-wrapper">
+                                    <img src="images/portfolio/nutricao/nutricao.jpg" class="img-responsive" alt="PEIM" >
+                                    <div class="overlay">
+                                        <div class="buttons" style="left: 30%">
+                                            <a href="nutricao.php">Mais Detalhes</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <figcaption>
+                                    <h4><a href="corporal-peim.php">Nutrição</a></h4>
+                                <p align="justify">
+                                   Na Haut você encontra pacotes que unem nutrição e estética, afim de melhorar os seus resultados
+                                   e facilitar o processo de perda de peso. Fizemos um trabalho personalisado, de acordo com suas necessidades e objetivos.
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
                 </div>
             </section> 
