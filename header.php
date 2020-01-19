@@ -23,7 +23,7 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <a href="index.php" >Home</a>
+                                <a href="" >Home</a>
                             </li>
                             <li><a href="clinica.php">A Clínica</a></li>
 <!--                            <li><a href="service.php">Procedimentos</a></li>-->
