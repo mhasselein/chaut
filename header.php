@@ -12,7 +12,7 @@
                     <!-- /responsive nav button -->
                     <!-- logo -->
                     <div class="navbar-brand">
-                        <a href="" >
+                        <a href="index.php" >
                             <img src="images/logo_haut.png" alt="">
                         </a>
                     </div>
@@ -23,7 +23,7 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <a href="" >Home</a>
+                                <a href="index.php" >Home</a>
                             </li>
                             <li><a href="clinica.php">A Clínica</a></li>
 <!--                            <li><a href="service.php">Procedimentos</a></li>-->

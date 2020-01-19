@@ -66,7 +66,7 @@
                         <div class="block">
                             <h2>Peeling químico</h2>
                             <ol class="breadcrumb">
-                                <li><a href=""><i class="ion-ios-home"></i>Home</a></li>
+                                <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
                                 <li><a href="estetica-facial.php">Estética Facial</a></li>
                                 <li class="active">Peeling químico</li>
                             </ol>
