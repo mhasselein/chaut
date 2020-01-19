@@ -12,7 +12,7 @@
                     <!-- /responsive nav button -->
                     <!-- logo -->
                     <div class="navbar-brand">
-                        <a href="index.php" >
+                        <a href="" >
                             <img src="images/logo_haut.png" alt="">
                         </a>
                     </div>

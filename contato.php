@@ -44,7 +44,7 @@
                             <h2>Contatos</h2>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="index.php">
+                                    <a href="">
                                         <i class="ion-ios-home"></i>
                                         Home
                                     </a>

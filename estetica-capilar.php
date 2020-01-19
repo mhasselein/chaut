@@ -60,7 +60,7 @@
                             <h2>Estética Capilar</h2>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="index.php">
+                                    <a href="">
                                         <i class="ion-ios-home"></i>
                                         Home
                                     </a>

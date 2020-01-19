@@ -71,7 +71,7 @@
                             <h2>Gallery</h2>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="index.html">
+                                    <a href="">
                                         <i class="ion-ios-home"></i>
                                         Home
                                     </a>
