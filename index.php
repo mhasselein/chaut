@@ -230,7 +230,7 @@
                                     </div>
                                 </div>
                                 <figcaption>
-                                    <h4><a href="corporal-peim.php">Nutrição</a></h4>
+                                    <h4><a href="nutricao.php">Nutrição</a></h4>
                                 <p align="justify">
                                    Na Haut você encontra pacotes que unem nutrição e estética, afim de melhorar os seus resultados
                                    e facilitar o processo de perda de peso. Fizemos um trabalho personalisado, de acordo com suas necessidades e objetivos.
