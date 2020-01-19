@@ -65,7 +65,7 @@
                             <h2>A Clínica</h2>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="index.php">
+                                    <a href="home.php">
                                         <i class="ion-ios-home"></i>
                                         Home
                                     </a>

@@ -62,7 +62,7 @@
                         <div class="block">
                             <h2>Nutrição</h2>
                             <ol class="breadcrumb">
-                                <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
+                                <li><a href="home.php"><i class="ion-ios-home"></i>Home</a></li>
                                 <li class="active">Nutrição</li>
                             </ol>
                         </div>

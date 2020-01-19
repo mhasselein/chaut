@@ -59,7 +59,7 @@
                             <h2>Estética Facial</h2>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="index.php">
+                                    <a href="home.php">
                                         <i class="ion-ios-home"></i>
                                         Home
                                     </a>

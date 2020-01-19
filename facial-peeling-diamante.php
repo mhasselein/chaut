@@ -59,7 +59,7 @@
                         <div class="block">
                             <h2>Peeling de diamante</h2>
                             <ol class="breadcrumb">
-                                <li><a href="index.php"><i class="ion-ios-home"></i>Home</a></li>
+                                <li><a href="home.php"><i class="ion-ios-home"></i>Home</a></li>
                                 <li><a href="estetica-facial.php">Estética Facial</a></li>
                                 <li class="active">Peeling de Diamante</li>
                             </ol>
