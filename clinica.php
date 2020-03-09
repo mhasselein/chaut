@@ -126,7 +126,7 @@
                             <p class="team_text">Habilitação em Biomedicina estética pelo Conselho Regional de Biomedicina 5a região (CRBM-5).</p>
                             <p class="team_text">- Formação Internacional em Procedimentos Pré e Pós Operatórios de Cirurgia Plástica pelo ISEPE-RS com certificação pela Escola Internacional de Saúde Tecnológica de Lisboa- Portugal.</p>
                             <p class="team_text">- Master Experience em <b>Harmonização Facial</b> com fresh frozen cadavers.</p>
-                            <p class="team_text">Com experiência na área estética há mais de 10 anos e sempre em busca de novos olhares e conhecimentos, a Letícia é uma de nossas biomédicas na clínica. </p>
+                            <p class="team_text">Com experiência na área estética há mais de 10 anos e sempre em busca de novos olhares e conhecimentos. </p>
                             <p class="team_text"></p>
                             
                         </div>
