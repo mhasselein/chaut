@@ -244,6 +244,30 @@
                             </figcaption>
                         </figure>
                     </div>
+                    <div class="col-sm-3">
+                        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/corporal/estetica-corporal-corrente_russa.gif" class="img-responsive" alt="PEIM" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal/estetica-corporal-corrente_russa.gif">Slide</a>        
+                                        <a  href="corporal-corrente-russa.php">Detalhes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="corporal-corrente-russa.php">
+                                        Corrente Russa       
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                    O método é usado para promover maior tonicidade muscular corporal, melhora da flacidez e contorno corporal, 
+                                    sendo assim uma ótima opção para homens e mulheres que desejam conseguir esses benefícios.
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </div>
                 </div>
             </div>
         </section>

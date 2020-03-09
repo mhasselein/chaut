@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <!-- Basic Page Needs ================================================== -->
+        <!-- Basic Page Needs================================================== -->
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Drenagem linfática - Clínica de Estética - Clínica Haut </title>
-        <meta name="description" content="Principais benefícios: redução da retenção de líquido, ativação da circulação sanguínea e combate à celulite. Também é indicada pós cirurgia plástica e durante a gestação.">
-        <meta name="keywords" content="Carboxiterapia, Mesoterapia, Lipocavitação, drenagem linfática, clinica, Drenagem linfática, Clínica de Estética, Clínica Haut, circulação sanguínea, celulite, gestação ">
+        <title>Taping - Clínica de Estética - Clínica Haut</title>
+        <meta name="description" content="Capaz de promover a queima de gordura localizada, combate à celulite, indução na formação de colágeno e no combate à flacidez e queda de cabelo.">
+        <meta name="keywords" content=" Endermologia, massagem, Mesoterapia, celulite, estrias, gordura localizada, Lipocavitação, Clínica de Estética, Clínica Haut">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
-        <!-- Mobile Specific Metas ================================================== -->
+        <!-- Mobile Specific Metas================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Template CSS Files ================================================== -->
+        <!-- Template CSS Files================================================== -->
         <!-- Twitter Bootstrs CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- Ionicons Fonts Css -->
@@ -30,7 +30,7 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-        <!-- Template Javascript Files ================================================== -->
+        <!-- Template Javascript Files================================================== -->
         <!-- modernizr js -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <!-- jquery -->
@@ -49,40 +49,60 @@
     </head>
     <body>
         <?php include_once("./php/analyticstracking.php") ?>
-        <!-- ====Header Section Start================================================== -->
+        <!-- =======Header Section Start================================================== -->
         <?php include_once './header.php'; ?>
-        <!-- =======Global Page Section Start================================================== -->
+        <!-- =============Global Page Section Start================================================== -->
         <section class="global-page-header">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Drenagem Linfática Manual</h2>
+                            <h2>Taping</h2>
                             <ol class="breadcrumb">
                                 <li><a href="home.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="estetica-corporal.php">Estética Corporal</a></li>
-                                <li class="active">Drenagem Linfática Manual</li>
+                                <li><a href="pos_operatorio.php">Pós Operatório</a></li>
+                                <li class="active">Taping</li>
                             </ol>
                         </div>
                     </div>
                 </div>
             </div>
-        </section><!--/#Page header-->
+        </section>
         <section class="portfolio-single">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="" src="images/portfolio/corporal-drenagem-linfatica-manual.jpg">
+                            <img class="img-responsive" alt="Mesoterapia" src="images/portfolio/pos/estetica-pos-operatorio-taping.gif">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="portfolio-content" style="padding: 0px;">
-                            <h3>Drenagem Linfática Manual</h3>
+                            <h3>Taping</h3>
                             <p>
-                                A <strong>drenagem linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o 
-                                sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método estão a 
-                                <strong>redução da retenção de líquido, ativação da circulação sanguínea, combate à celulite e relaxamento corporal</strong>. Também é indicada para acelerar o processo de <strong>reparação tecidual pós cirurgia plástica</strong> e durante a gestação para eliminar os inchaços e ajudar a mamãe a relaxar. 
+                                É uma técnica de aplicação de <strong>bandagens funcionais</strong>, desenvolvida pelo japonês Kenzo 
+                                Kase (1973), cujos efeitos fisiológicos, teoricamente, derivam dos estímulos táteis gerados pelo tensionamento 
+                                da bandagem sobre a pele.
+                            </p>
+                            <p>
+                                O <strong>linfotaping ou taping linfático</strong> é uma das formas de aplicação das <strong>bandagens elásticas</strong>
+                                neurofuncionais específica para 
+                                desordens do sistema circulatório e linfático. A técnica utiliza uma fita adesiva (bandagem) de material, 
+                                textura e elasticidade semelhante a da pele. Através da colocação dessas bandagens a pele é “elevada” e desta 
+                                forma os filamentos de ancoragem (que abrem os vasos linfáticos iniciais) são tracionados, permitindo a drenagem 
+                                de substâncias, até então congestionadas no interstício (espaço entre os tecidos abaixo da pele). 
+                                Assim o taping estimula a movimentação destas substâncias através de todo o sistema linfático, 
+                                favorecendo a sua absorção.
+                            </p>
+                            <p>
+                                Este método possui ação neuromuscular e têm como principais funções dar suporte muscular, ajudar na <strong>drenagem 
+                                    vascular e linfática</strong>, ativar o sistema analgésico endógeno, auxiliar na circulação do sangue por todo o 
+                                corpo e promover a regeneração tecidual.
+                            </p>
+                            <p>
+                                Sua aplicação reduz a dor e o edema, melhora da atividade muscular e mobilização do tecido cicatricial, 
+                                isto ocorre porque a dor causada pela pressão exercida nos receptores, sensoriais e neurológicos, 
+                                é aliviada através das ondulações que a bandagem promove, elevando a pele.
                             </p>
                         </div>
                     </div>
@@ -93,28 +113,28 @@
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
                 <p class="subtitle-des">
-                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Drenagem Linfática</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Mesoterapia</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
                 </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
+                                    <img src="images/portfolio/corporal-drenagem-linfatica-manual.jpg" class="img-responsive" alt="Drenagem linfática Manual" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="corporal-carboxiterapia.php">Mais Detalhes</a>
+                                            <a href="corporal-drenagem-linfatica-manual.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="corporal-carboxiterapia.php">
-                                            Carboxiterapia
+                                        <a href="corporal-drenagem-linfatica-manual.php">
+                                            Drenagem linfática Manual
                                         </a>
                                     </h4>
                                     <p>
-                                        A <strong>carboxiterapia</strong> é um <strong>tratamento estético</strong> realizado através da infusão de gás carbônico medicinal em diferentes camadas da <strong>pele</strong>, promovendo uma melhor oxigenação, aumento da ...
+                                        A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método...
                                     </p>
                                 </figcaption>
                             </figure>
@@ -122,21 +142,21 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-lipocavitacao.jpg" class="img-responsive" alt="Lipocavitação" >
+                                    <img src="images/portfolio/corporal-endermologia.jpg" class="img-responsive" alt="Endermologia" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="corporal-lipocavitacao.php">Mais Detalhes</a>
+                                            <a href="corporal-endermologia.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="corporal-lipocavitacao.php">
-                                            Lipocavitação
+                                        <a href="corporal-endermologia.php">
+                                            Endermologia
                                         </a>
                                     </h4>
                                     <p>
-                                        A <strong>lipocavitação</strong> é um <strong>procedimento estético</strong> realizado através de um aparelho de ultrassom focado que serve para eliminar <strong>gordura acumulada na barriga, coxas, flancos, costas e braços</strong>...
+                                        A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho ...
                                     </p>
                                 </figcaption>
                             </figure>
@@ -144,23 +164,23 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-mesoterapia.jpg" class="img-responsive" alt="Mesoterapia" >
+                                    <img src="images/portfolio/corporal-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                     <div class="overlay">
                                         <div class="overlay">
                                             <div class="buttons" style="left: 30%">
-                                                <a  href="corporal-mesoterapia.php">Mais Detalhes</a>
+                                                <a  href="corporal-radiofrequencia.php">Mais Detalhes</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="corporal-mesoterapia.php">
-                                            Mesoterapia
+                                        <a href="corporal-radiofrequencia.php">
+                                            Radiofrequência
                                         </a>
                                     </h4>
                                     <p>
-                                        A <strong>Mesoterapia</strong> (aplicação de enzimas e outras medicações), chamada também de <strong>Intradermoterapia</strong> é uma técnica de origem francesa amplamente utilizada na <strong>estética</strong> por se tratar...
+                                        <strong>Radiofrequência</strong> tem como objetivo aumentar a temperatura do tecido, a fim de alcançar cerca de 40°C, desencadeando uma sequência de reações fisiológicas. O aquecimento do tecido o induz a aumentar a ...
                                     </p>
                                 </figcaption>
                             </figure>
@@ -169,9 +189,13 @@
                 </div>
             </div>
         </section>
-        <!--======== Call To Action Section Start================================================== -->
+        <!--==================================================
+        Call To Action Section Start
+        ================================================== -->
         <?php include_once './contato_footer.php'; ?>
-        <!--===Footer Section Start================================================== -->
+        <!--==================================================
+        Footer Section Start
+        ================================================== -->
         <?php include_once './footer.php'; ?>
     </body>
 </html>

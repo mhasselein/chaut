@@ -36,6 +36,7 @@
                                         <li><a href="estetica-capilar.php">Estética Capilar</a></li>
                                         <li><a href="fotodepilacao.php">Fotodepilação</a></li>
                                         <li><a href="pos_operatorio.php">Pós Operatório</a></li>
+                                        <li><a href="gestacao.php">Gestação</a></li>
                                         <li><a href="nutricao.php">Nutrição</a></li>
                                     </ul>
                                 </div>
