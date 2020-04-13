@@ -186,12 +186,12 @@
                                     <img src="images/portfolio/pos_home.gif" class="img-responsive" alt="Pós Operatório" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="pos_operatorio.php">Mais Detalhes</a>
+                                            <a href="pos-operatorio.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
-                                <h4><a href="pos_operatorio.php">Pós Operatório</a></h4>
+                                <h4><a href="pos-operatorio.php">Pós Operatório</a></h4>
                                 <p align="justify">
                                     A eficiência de um procedimento cirúrgico não depende apenas da cirurgia em si. 
                                         É necessário a atenção também nos cuidados  pré e pós-operatórios .&nbsp<br>&nbsp<br>

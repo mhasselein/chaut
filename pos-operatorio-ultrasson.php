@@ -5,9 +5,9 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Taping - Clínica de Estética - Clínica Haut</title>
+        <title>Ultrasson - Clínica de Estética - Clínica Haut</title>
         <meta name="description" content="Capaz de promover a queima de gordura localizada, combate à celulite, indução na formação de colágeno e no combate à flacidez e queda de cabelo.">
-        <meta name="keywords" content=" Endermologia, massagem, Mesoterapia, celulite, estrias, gordura localizada, Lipocavitação, Clínica de Estética, Clínica Haut">
+        <meta name="keywords" content=" Endermologia, massagem, Mesoterapia, celulite, estrias, ultrasson, gordura localizada, Lipocavitação, Clínica de Estética, Clínica Haut, pós-operatório">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas================================================== -->
@@ -57,11 +57,11 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Taping</h2>
+                            <h2>Ultrasson</h2>
                             <ol class="breadcrumb">
                                 <li><a href="home.php"><i class="ion-ios-home"></i>Home</a></li>
-                                <li><a href="pos_operatorio.php">Pós Operatório</a></li>
-                                <li class="active">Taping</li>
+                                <li><a href="pos-operatorio.php">Pós-Operatório</a></li>
+                                <li class="active">Ultrasson</li>
                             </ol>
                         </div>
                     </div>
@@ -73,36 +73,24 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="Mesoterapia" src="images/portfolio/pos/estetica-pos-operatorio-taping.gif">
+                            <img class="img-responsive" alt="Mesoterapia" src="images/portfolio/pos/ultrasson-pos-operatorio.gif">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="portfolio-content" style="padding: 0px;">
-                            <h3>Taping</h3>
+                            <h3>Ultrasson</h3>
                             <p>
-                                É uma técnica de aplicação de <strong>bandagens funcionais</strong>, desenvolvida pelo japonês Kenzo 
-                                Kase (1973), cujos efeitos fisiológicos, teoricamente, derivam dos estímulos táteis gerados pelo tensionamento 
-                                da bandagem sobre a pele.
+                                O uso do ultrassom na estética pode trazer diversos benefícios, principalmente no <strong>pós operatório</strong>, 
+                                para os pacientes que acabaram de fazer uma cirurgia.
                             </p>
                             <p>
-                                O <strong>linfotaping ou taping linfático</strong> é uma das formas de aplicação das <strong>bandagens elásticas</strong>
-                                neurofuncionais específica para 
-                                desordens do sistema circulatório e linfático. A técnica utiliza uma fita adesiva (bandagem) de material, 
-                                textura e elasticidade semelhante a da pele. Através da colocação dessas bandagens a pele é “elevada” e desta 
-                                forma os filamentos de ancoragem (que abrem os vasos linfáticos iniciais) são tracionados, permitindo a drenagem 
-                                de substâncias, até então congestionadas no interstício (espaço entre os tecidos abaixo da pele). 
-                                Assim o taping estimula a movimentação destas substâncias através de todo o sistema linfático, 
-                                favorecendo a sua absorção.
+                                O ultrassom pode e deve ser usado nas diferentes fases de <strong>reparo tecidual</strong> por apresentar inúmeros benefícios ao paciente 
+                                no pós-cirúrgico. 
                             </p>
                             <p>
-                                Este método possui ação neuromuscular e têm como principais funções dar suporte muscular, ajudar na <strong>drenagem 
-                                    vascular e linfática</strong>, ativar o sistema analgésico endógeno, auxiliar na circulação do sangue por todo o 
-                                corpo e promover a regeneração tecidual.
-                            </p>
-                            <p>
-                                Sua aplicação reduz a dor e o edema, melhora da atividade muscular e mobilização do tecido cicatricial, 
-                                isto ocorre porque a dor causada pela pressão exercida nos receptores, sensoriais e neurológicos, 
-                                é aliviada através das ondulações que a bandagem promove, elevando a pele.
+                               O ultrassom de 3mHz é indicado no processo de reparo tecidual  por acelerar o metabolismo da área afetada pela cirurgia, agilizando o processo 
+                               de cicatrização. Contribui também para a <strong>redução do edema (inchaço)</strong>, dos hematomas, melhora a circulação sanguínea, aumenta a elasticidade da 
+                               pele, ajuda a diminuir a dor e a prevenir o surgimento de cicatrizes hipertróficas e <strong>fibroses nodulares</strong>.
                             </p>
                         </div>
                     </div>
@@ -113,53 +101,57 @@
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
                 <p class="subtitle-des">
-                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Mesoterapia</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Ultrasson</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
                 </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-drenagem-linfatica-manual.jpg" class="img-responsive" alt="Drenagem linfática Manual" >
+                                    <img src="images/portfolio/pos/estetica-pos-operatorio-taping.gif" class="img-responsive" alt="Pós-operatório taping" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
-                                            <a href="corporal-drenagem-linfatica-manual.php">Mais Detalhes</a>
+                                            <a href="pos-operatorio-taping.php">Mais Detalhes</a>
                                         </div>
                                     </div>
                                 </div>
                                 <figcaption>
                                     <h4>
-                                        <a href="corporal-drenagem-linfatica-manual.php">
-                                            Drenagem linfática Manual
+                                        <a href="pos-operatorio-taping.php">
+                                            Taping
                                         </a>
                                     </h4>
                                     <p>
-                                        A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método...
+                                        Este método possui ação neuromuscular e têm como principais funções dar suporte muscular, ajudar na <strong>drenagem 
+                                        vascular e linfática</strong>, ativar o sistema analgésico endógeno ...
                                     </p>
                                 </figcaption>
                             </figure>
                         </div>
+                        
                         <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
-                                <div class="img-wrapper">
-                                    <img src="images/portfolio/corporal-endermologia.jpg" class="img-responsive" alt="Endermologia" >
-                                    <div class="overlay">
-                                        <div class="buttons" style="left: 30%">
-                                            <a href="corporal-endermologia.php">Mais Detalhes</a>
-                                        </div>
+                            <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/pos/drenagem-linfatica-pos-operatorio.gif" class="img-responsive" alt="Tratamento pós operatório Drenagem Linfática" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/pos/drenagem-linfatica-pos-operatorio.gif" alt="Tratamento pós operatório drenagem linfática">Slide</a>        
+                                        <a  href="pos-opretorio-drenagem-linfatica.php">Detalhes</a>
                                     </div>
                                 </div>
-                                <figcaption>
-                                    <h4>
-                                        <a href="corporal-endermologia.php">
-                                            Endermologia
-                                        </a>
-                                    </h4>
-                                    <p>
-                                        A <strong>Endermologia</strong> é um procedimento que associa massagem à vacuoterapia, aumenta o fluxo sanguíneo, promove o aumento da nutrição das células e desmancha os nódulos da <strong>celulite</strong>. O aparelho ...
-                                    </p>
-                                </figcaption>
-                            </figure>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="pos-opretorio-drenagem-linfatica.php">
+                                        Drenagem Linfática        
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                    Cada cirurgia plástica exige alguns cuidados específicos no pós-operatório. 
+                                    Algumas delas necessitam da realização de tratamentos estéticos complementares, como a Drenagem Linfática para ajudar ...
+                                </p>
+                            </figcaption>
+                        </figure>
                         </div>
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">

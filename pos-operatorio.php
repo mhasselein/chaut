@@ -5,9 +5,9 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Pós Operatório - Clínica de Estética - Clínica Haut</title>
+        <title>Pós-Operatório - Clínica de Estética - Clínica Haut</title>
         <meta name="description" content="Clínica Haut oferece o que existe de melhor em estética corporal da atualidade. Lipocavitação, Radiofrequência, Drenagem linfática, Carboxiterapia.">
-        <meta name="keywords" content="clinica, Estética Corporal, Clínica de Estética, Clínica Haut, Lipocavitação, Gordura, Mesoterapia, Estética, Carboxiterapia, Radiofrequência, tratamento estético, Endermologia, celulite, Drenagem Linfática ">
+        <meta name="keywords" content="clinica, Estética Corporal, Clínica de Estética, Clínica Haut, Lipocavitação, Gordura, pós-operatório,Mesoterapia, Estética, Carboxiterapia, Radiofrequência, tratamento estético, Endermologia, celulite, Drenagem Linfática ">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
@@ -57,7 +57,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Pós Operatório</h2>
+                            <h2>Pós-Operatório</h2>
                             <ol class="breadcrumb">
                                 <li>
                                     <a href="home.php">
@@ -65,7 +65,7 @@
                                         Home
                                     </a>
                                 </li>
-                                <li class="active">Pós Operatório</li>
+                                <li class="active">Pós-Operatório</li>
                             </ol>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
         <!-- ============Works Section Start================================================== -->
         <section class="works service-page">
             <div class="container">
-                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos de Pós Operatório</h2>
+                <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos de Pós-Operatório</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
                                 <p align="justify">
                                     A eficiência de um procedimento cirúrgico não depende apenas da cirurgia em si. 
@@ -84,24 +84,82 @@
                                     resultado estético ainda mais satisfatório para o paciente.
                                 </p>
                                 <p align="justify">
-                                    Dentre os <strong>tratamentos estéticos </strong> indicados durante o <strong>pós-operatório de cirurgia plástica</strong>, podemos destacar:
+                                    O pós operatório é tão importante quanto a cirurgia e, sendo mal feito, prejudicará a reabilitação do 
+                                    paciente e a reputação do seu médico, 
+                                    por isso precisa ser tratado adequadamente e por profissionais especializados em pós-operatório cirúrgico.
+                                </p>
+                                <p align="justify">
+                                    Vale destacar que o  inicio do tratamento deve acontecer alguns dias após a cirurgia plástica, 
+                                    afim de restabelecer o  bem estar e amenizar o desconforto do paciente.
+                                </p>
+                                <p align="justify">
+                                    Dentre os <strong>tratamentos estéticos </strong> indicados durante o <strong>pós-operatório de cirurgia 
+                                        plástica</strong>, podemos destacar:
                                 </p>
                 </p>
                 <div class="row">
-                    <div class="col-sm-3">
+                    <div class="col-sm-4">
+                        <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/pos/drenagem-linfatica-pos-operatorio.gif" class="img-responsive" alt="Tratamento pós operatório Drenagem Linfática" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/pos/drenagem-linfatica-pos-operatorio.gif" alt="Tratamento pós operatório drenagem linfática">Slide</a>        
+                                        <a  href="pos-opretorio-drenagem-linfatica.php">Detalhes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="pos-opretorio-drenagem-linfatica.php">
+                                        Drenagem Linfática        
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                    Cada cirurgia plástica exige alguns cuidados específicos no pós-operatório. 
+                                    Algumas delas necessitam da realização de tratamentos estéticos complementares, como a Drenagem Linfática para ajudar ...
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </div>
+  
+                    <div class="col-sm-4">
+                        <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/pos/ultrasson-pos-operatorio.gif" class="img-responsive" alt="Tratamento pós-operatório Ultrasson" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/pos/ultrasson-pos-operatorio.gif" alt="Tratamento pós-operatório Ultrasson">Slide</a>        
+                                        <a  href="pos-operatorio-ultrasson.php">Detalhes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="pos-operatorio-ultrasson.php">
+                                        Ultrasson        
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                    O ultrassom de 3mHz é indicado no processo de reparo tecidual  por acelerar o metabolismo da área afetada pela cirurgia, agilizando o processo de cicatrização ...
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div class="col-sm-4">
                         <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/pos/estetica-pos-operatorio-taping.gif" class="img-responsive" alt="Tratamento pós operatório Taping" >
                                 <div class="overlay">
                                     <div class="buttons">
                                         <a rel="gallery" class="fancybox" href="images/portfolio/pos/estetica-pos-operatorio-taping.gif" alt="Tratamento pós operatório Taping">Slide</a>        
-                                        <a  href="taping.php">Detalhes</a>
+                                        <a  href="pos-operatorio-taping.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="taping.php">
+                                    <a href="pos-operatorio-taping.php">
                                         Taping        
                                     </a>
                                 </h4>
@@ -112,8 +170,6 @@
                             </figcaption>
                         </figure>
                     </div>
-                    
-             
             </div>
         </section>
         <!-- ========Contato Footer================================================== -->
