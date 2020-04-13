@@ -78,22 +78,22 @@
                 <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Tratamentos de Pós-Operatório</h2>
                 <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">
                                 <p align="justify">
-                                    A eficiência de um procedimento cirúrgico não depende apenas da cirurgia em si. 
+                                    A eficiência de um procedimento cirúrgico não depende apenas da cirurgía em si. 
                                     É necessário a atenção também nos cuidados <strong> pré e pós-operatórios </strong>, 
                                     de maneira há prevenir complicações graves, minimizar queixas e ajudar a promover um 
                                     resultado estético ainda mais satisfatório para o paciente.
                                 </p>
                                 <p align="justify">
-                                    O pós operatório é tão importante quanto a cirurgia e, sendo mal feito, prejudicará a reabilitação do 
+                                    O pós operatório é tão importante quanto a cirurgía e, sendo mal feito, prejudicará a reabilitação do 
                                     paciente e a reputação do seu médico, 
                                     por isso precisa ser tratado adequadamente e por profissionais especializados em pós-operatório cirúrgico.
                                 </p>
                                 <p align="justify">
-                                    Vale destacar que o  inicio do tratamento deve acontecer alguns dias após a cirurgia plástica, 
+                                    Vale destacar que o  início do tratamento deve acontecer alguns dias após a cirurgía plástica, 
                                     afim de restabelecer o  bem estar e amenizar o desconforto do paciente.
                                 </p>
                                 <p align="justify">
-                                    Dentre os <strong>tratamentos estéticos </strong> indicados durante o <strong>pós-operatório de cirurgia 
+                                    Dentre os <strong>tratamentos estéticos </strong> indicados durante o <strong>pós-operatório de cirurgía 
                                         plástica</strong>, podemos destacar:
                                 </p>
                 </p>
@@ -116,7 +116,7 @@
                                     </a>
                                 </h4>
                                 <p align="justify">
-                                    Cada cirurgia plástica exige alguns cuidados específicos no pós-operatório. 
+                                    Cada cirurgía plástica exige alguns cuidados específicos no pós-operatório. 
                                     Algumas delas necessitam da realização de tratamentos estéticos complementares, como a Drenagem Linfática para ajudar ...
                                 </p>
                             </figcaption>
@@ -141,7 +141,7 @@
                                     </a>
                                 </h4>
                                 <p align="justify">
-                                    O ultrassom de 3mHz é indicado no processo de reparo tecidual  por acelerar o metabolismo da área afetada pela cirurgia, agilizando o processo de cicatrização ...
+                                    O ultrassom de 3mHz é indicado no processo de reparo tecidual  por acelerar o metabolismo da área afetada pela cirurgía, agilizando o processo de cicatrização ...
                                 </p>
                             </figcaption>
                         </figure>
