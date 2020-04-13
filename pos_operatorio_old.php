@@ -80,15 +80,15 @@
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-content" style="padding: 0px;">
-                                <h3>Pós Operatório de Cirurgia Plástica</h3>
+                                <h3>Pós Operatório de Cirurgía Plástica</h3>
                                 <p align="justify">
-                                    A eficiência de um procedimento cirúrgico não depende apenas da cirurgia em si. 
+                                    A eficiência de um procedimento cirúrgico não depende apenas da cirurgía em si. 
                                     É necessário a atenção também nos cuidados <strong> pré e pós-operatórios </strong>, 
                                     de maneira há prevenir complicações graves, minimizar queixas e ajudar a promover um 
                                     resultado estético ainda mais satisfatório para o paciente.
                                 </p>
                                 <p align="justify">
-                                    Dentre os <strong>tratamentos estéticos </strong> indicados durante o <strong>pós-operatório de cirurgia plástica</strong>, podemos destacar:
+                                    Dentre os <strong>tratamentos estéticos </strong> indicados durante o <strong>pós-operatório de cirurgía plástica</strong>, podemos destacar:
                                 </p>
                                 <p align="justify">
                                     <strong>Drenagem linfática manual pós operatória </strong>- é uma massagem específica realizada 
@@ -99,22 +99,22 @@
                                     e redução da dor.
                                 </p>
                                 <p align="justify">
-                                    O tratamento inicia-se na fase aguda, pois a <strong>drenagem linfática</strong> é um recurso para tratar as 
+                              i     O tratamento inicia-se na fase aguda, pois a <strong>drenagem linfática</strong> é um recurso para tratar as 
                                     consequências das alterações vasculares características da fase inicial (edema). 
                                     Porém, devemos levar em conta que a cicatrização ainda está recente, e a aplicação da técnica deve ser o mais
                                     suave possível, evitando deslizamentos e trações no tecido em cicatrização.
                                 </p>
                                 <p align="justify">
-                                    A <strong>drenagem</strong> não oferece risco algum para o paciente em <strong>pós-operatório de cirurgias plásticas</strong>, 
+                                    A <strong>drenagem</strong> não oferece risco algum para o paciente em <strong>pós-operatório de cirurgías plásticas</strong>, 
                                     somente se for mal aplicada, empregando muita força, rapidez excessiva, ou direção errada.
                                 </p>
                                 <p align="justify">
                                     <strong>Ultrassom</strong>- o ultrassom de 3mHz é indicado no processo de reparo tecidual  por acelerar o metabolismo 
-                                    da área afetada pela cirurgia, agilizando o processo de cicatrização. Contribui também para a redução do edema (inchaço), 
+                                    da área afetada pela cirurgía, agilizando o processo de cicatrização. Contribui também para a redução do edema (inchaço), 
                                     dos hematomas e previne a formação de fibroses nodulares.
                                 </p>
                                 <p align="justify">
-                                <strong>Vale destacar  que o início desses tratamentos deve acontecer alguns dias após a cirurgia plástica, afim de restabelecer o 
+                                <strong>Vale destacar  que o início desses tratamentos deve acontecer alguns dias após a cirurgía plástica, afim de restabelecer o 
                                     bem estar e amenizar o desconforto do paciente.</strong>
                                 </p>
                             </div>
