@@ -79,13 +79,37 @@
                     A cada dia que passa a <strong>Clínica Haut</strong> fica mais segura sobre a importância da <strong>estética facial</strong> na vida das pessoas <br>pois a primeira forma de nos comunicarmos é através de nossas <strong>expressões faciais</strong>.
                 </p>
                 <div class="row" id="tratamentos_faciais">
-                    <div class="col-sm-3">
-                        <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
+                    <div class="col-sm-4">
+                        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-limpeza_pele.jpg" class="img-responsive" alt="Limpeza de Pele" >
+                                <img src="images/portfolio/facial/facial-jato-de-plasma.jpg" class="img-responsive" alt="Jato de Plasma" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-limpeza_pele.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-jato-de-plasma.jpg">Slide</a>        
+                                        <a  href="facial-jato-de-plasma.php">Detalhes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="facial-jato-de-plasma.php">
+                                         Jato de Plasma      
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                    Esta técnica tem uma <strong>recuperação super rápida</strong>, assim como seus resultados.
+                                    Os efeitos positivos do tratamento poderão ser <strong>evidentes após a primeira sessão</strong> ...
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div class="col-sm-4">
+                        <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/facial/facial-limpeza_pele.jpg" class="img-responsive" alt="Limpeza de Pele" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-limpeza_pele.jpg">Slide</a>        
                                         <a href="facial-limpeza-pele.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -102,36 +126,14 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-3">
+                    
+                    <div class="col-sm-4">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-peeling_quimico.jpg" class="img-responsive" alt="Peeling Químico" >
+                                <img src="images/portfolio/facial/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-peeling_quimico.jpg">Slide</a>        
-                                        <a  href="facial-peeling-quimico.php">Detalhes</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <figcaption>
-                                <h4>
-                                    <a href="facial-peeling-quimico.php">
-                                         Peeling Químico      
-                                    </a>
-                                </h4>
-                                <p align="justify">
-                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e ...
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </div>
-                    <div class="col-sm-3">
-                        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <div class="img-wrapper">
-                                <img src="images/portfolio/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
-                                <div class="overlay">
-                                    <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-peeleng_diamante.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-peeleng_diamante.jpg">Slide</a>        
                                         <a  href="facial-peeling-diamante.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -148,13 +150,13 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-4">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
+                                <img src="images/portfolio/facial/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-radiofrequencia.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-radiofrequencia.jpg">Slide</a>        
                                         <a  href="facial-radiofrequencia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -171,13 +173,13 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-4">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-botox.jpg" class="img-responsive" alt="Botox" >
+                                <img src="images/portfolio/facial/facial-botox.jpg" class="img-responsive" alt="Botox" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-botox">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-botox.jpg">Slide</a> 
                                         <a  href="facial-botox.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -189,18 +191,20 @@
                                     </a>
                                 </h4>
                                 <p align="justify">
-                                    A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para amenizar <strong>rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o desenho das sobrancelhas (arqueamento). Entre as linhas ...
+                                    A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para 
+                                    amenizar <strong>rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o 
+                                    desenho das sobrancelhas (arqueamento)...
                                 </p>
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-4">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-preenchimento.jpg" class="img-responsive" alt="Preenchimento com Ácido Hialurônico" >
+                                <img src="images/portfolio/facial/facial-preenchimento.jpg" class="img-responsive" alt="Preenchimento com Ácido Hialurônico" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-preenchimento.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-preenchimento.jpg">Slide</a>        
                                         <a  href="facial-preenchimento-acido-hialuronico.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -217,13 +221,13 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-4">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
+                                <img src="images/portfolio/facial/facial-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-carboxiterapia.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-carboxiterapia.jpg">Slide</a>        
                                         <a  href="facial-carboxiterapia.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -240,13 +244,13 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-4">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
+                                <img src="images/portfolio/facial/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial-microagulhamento.jpg">Slide</a>        
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-microagulhamento.jpg">Slide</a>        
                                         <a  href="facial-microagulhamento.php">Detalhes</a>
                                     </div>
                                 </div>
@@ -263,8 +267,34 @@
                             </figcaption>
                         </figure>
                     </div>
+                    <div class="col-sm-4">
+                        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/facial/facial-peeling_quimico.jpg" class="img-responsive" alt="Peeling Químico" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-peeling_quimico.jpg">Slide</a>        
+                                        <a  href="facial-peeling-quimico.php">Detalhes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="facial-peeling-quimico.php">
+                                         Peeling Químico      
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                    O <strong>peeling químico</strong> é um <strong>tratamento estético</strong> onde são aplicados ácidos sobre a pele, que ajudam a retirar as camadas danificadas por meio da descamação e ...
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </div>
+                    
                 </div>
-            </div>
+       
+                </div>
+                    
         </section>
         <!-- ============Contato Footer================================================== -->
         <?php include_once 'contato_footer.php';?>

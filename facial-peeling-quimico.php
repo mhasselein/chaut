@@ -80,7 +80,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="" src="images/portfolio/facial-peeling_quimico.jpg">
+                            <img class="img-responsive" alt="" src="images/portfolio/facial/facial-peeling_quimico.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -107,7 +107,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial-limpeza_pele.jpg" class="img-responsive" alt="Limpeza de Pele" >
+                                    <img src="images/portfolio/facial/facial-limpeza_pele.jpg" class="img-responsive" alt="Limpeza de Pele" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-limpeza-pele.php">Mais Detalhes</a>
@@ -129,7 +129,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
+                                    <img src="images/portfolio/facial/facial-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-carboxiterapia.php">Mais Detalhes</a>
@@ -151,7 +151,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
+                                    <img src="images/portfolio/facial/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
                                     <div class="overlay">
                                         <div class="overlay">
                                             <div class="buttons" style="left: 30%">

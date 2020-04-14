@@ -77,7 +77,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="Preenchimento com Ácido Hialurônico" src="images/portfolio/facial-preenchimento.jpg">
+                            <img class="img-responsive" alt="Preenchimento com Ácido Hialurônico" src="images/portfolio/facial/facial-preenchimento.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -108,7 +108,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
+                                    <img src="images/portfolio/facial/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-microagulhamento.php">Mais Detalhes</a>
@@ -130,7 +130,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial-botox.jpg" class="img-responsive" alt="Toxina Botulínica - Botox " >
+                                    <img src="images/portfolio/facial/facial-botox.jpg" class="img-responsive" alt="Toxina Botulínica - Botox " >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-botox.php">Mais Detalhes</a>
@@ -152,7 +152,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
+                                    <img src="images/portfolio/facial/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-radiofrequencia.php">Mais Detalhes</a>

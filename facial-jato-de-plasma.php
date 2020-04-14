@@ -5,9 +5,11 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="icon" type="image/png" href="images/favicon.png">
-        <title>Botox - Clínica de Estética - Clínica Haut - Estética</title>
+        <title>Jato de Plasma - Clínica de Estética - Clínica Haut - Estética</title>
         <meta name="description" content="Botox é utilizada para amenizar rugas da testa, pés de galinha, marcas de expressão e mudar o desenho das sobrancelhas.">
-        <meta name="keywords" content=" botox, marcas de expressão, radiofrequência, toxina botulínica, celulite, rugas, Rejuvenescimento facial, Tratamento da acne, Acne, Estetica, Clinica de Estetica, Peeling Químico, Peeling de diamante, Radifrequência, Clinica, Limpeza De Pele, Clínica de Estética, Clínica Haut, Estética, Pele, Procedimento Estético">
+        <meta name="keywords" content=" botox, marcas de expressão, radiofrequência, toxina botulínica, celulite, rugas, Rejuvenescimento, facial, Tratamento da acne, Acne, 
+              Estetica, Clinica de Estetica, Peeling Químico, Peeling de diamante, Radifrequência, Clinica, Limpeza De Pele, jato de plasma,
+              Clínica de Estética, Clínica Haut, Estética, Pele, Procedimento Estético">
         <meta name="author" content="Clinica Haut">
         <meta name="robots" content="index, follow">
         <!-- Mobile Specific Metas ================================================== -->
@@ -57,11 +59,11 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Toxina Botulínica - Botox </h2>
+                            <h2>Jato de Plasma </h2>
                             <ol class="breadcrumb">
                                 <li><a href="home.php"><i class="ion-ios-home"></i>Home</a></li>
                                 <li><a href="estetica-facial.php">Estética Facial</a></li>
-                                <li class="active">Toxina Botulínica - Botox</li>
+                                <li class="active">Jato de Plasma</li>
                             </ol>
                         </div>
                     </div>
@@ -73,24 +75,53 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-single-img">
-                            <img class="img-responsive" alt="Botox Facial" src="images/portfolio/facial/facial-botox.jpg">
+                            <img class="img-responsive" alt="Jato de Plasma" src="images/portfolio/facial/facial-jato-de-plasma.jpg">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="portfolio-content" style="padding: 0px;">
-                            <h3>Toxina Botulínica - Botox</h3>
+                            <h3>Jato de Plasma</h3>
                             <p>
-                                A <strong>toxina botulínica</strong> popularmente conhecida como <strong>botox</strong> é utilizada para <strong>amenizar rugas</strong> dinâmicas, <strong>marcas de expressão</strong> e para mudar o <strong>desenho das sobrancelhas (arqueamento)</strong>. Entre as linhas tratadas estão as <strong>rugas da testa, a glabela (espaço entre as sobrancelhas) e os pés de galinha, rugas que se formam na região dos olhos </strong>. A toxina é aplicada no músculo e provoca o relaxamento da região, contribuindo assim para o <strong>rejuvenescimento facial</strong>.
+                                O plasma é considerado o quarto estado da matéria (tem também sólido, líquido e gasoso), 
+                                onde os elétrons se separam dos átomos, produzindo um gás ionizado.
                             </p>
                             <p> 
-                                O benefício se dá de duas maneiras: 
+                               A descarga deste gás faz com que a pele seja reduzida e com que seja ativado um processo de 
+                               regeneração, cicatrização, estímulo do sistema imunológico, proliferação e remodelação de colágeno, 
+                               obtendo assim o resultado dérmico desejado. 
                             </p>
                             <p>
-                                - De forma preventiva: como a contração muscular é paralisada <strong>não haverá a formação de rugas</strong> pela movimentação muscular na área em que foi aplicada a toxina.
+                                O jato de plasma aumenta a produção de colágeno e fibras elásticas, promovendo instantaneamente, 
+                                após a primeira sessão, o rejuvenescimento da pele  e o combate a flacidez, facilitando também a 
+                                entrada de ativos na pele.
                             </p>
                             <p>
-                                - De forma reparadora: como o <strong>botox</strong> tira a tensão da musculatura, as rugas causadas por esses músculos são amenizadas.
+                                Esta técnica tem uma recuperação super rápida, assim como seus resultados.
+                                Os efeitos positivos do tratamento poderão ser evidentes após a primeira sessão. 
+                                Porém, melhores resultados serão observados após três semanas.
+
                             </p>
+                            <p>
+                                O Jato Plasma ainda possui a vantagem de permitir um resultado duradouro e até permanente.
+                            </p>
+                            <p>
+                                Suas principais indicações são:
+                            </p>
+                            <p>
+                                •	Excesso de pele nas pálpebras (blefaroplastia sem cortes);<br>
+                                •	Rugas e linhas de expressão;<br>
+                                •	Manchas senis e solares;<br>
+                                •	Sardas;<br>
+                                •	Cicatrizes de acne;<br>
+                                •	Olheiras; <br>
+                                •	Clareamento de tatuagens e micropigmentação;<br>
+                                •	Remoção de verrugas <br>
+                                •	Em todo rosto, com o objetivo de obter um efeito lifting;<br>
+                                •	Colo e pescoço, para rejuvenescer a pele;<br>
+                                •	Estrias brancas ou vermelhas;<br>
+                                •	Rugas no buço (“código de barras”)<br>
+                            </p>
+
                         </div>
 
                     </div>
@@ -101,14 +132,14 @@
             <div class="container">
                 <h2 class="subtitle">Tratamentos que você pode ter interesse.</h2>
                 <p class="subtitle-des">
-                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Radiofrequência</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
+                    Os cliente da <strong>Clínica Haut</strong> que procuraram por <strong>Jato de Plasma</strong>,<br> também procuraram pelos <strong>tratamentos estéticos</strong> citados abaixo.
                 </p>
                 <div class="row">
                     <div class="row">
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
+                                    <img src="images/portfolio/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-microagulhamento.php">Mais Detalhes</a>
@@ -130,7 +161,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
+                                    <img src="images/portfolio/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                     <div class="overlay">
                                         <div class="buttons" style="left: 30%">
                                             <a href="facial-radiofrequencia.php">Mais Detalhes</a>
@@ -152,7 +183,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
-                                    <img src="images/portfolio/facial/facial-preenchimento.jpg" class="img-responsive" alt="Preenchimento com Ácido Hialurônico" >
+                                    <img src="images/portfolio/facial-preenchimento.jpg" class="img-responsive" alt="Preenchimento com Ácido Hialurônico" >
                                     <div class="overlay">
                                         <div class="overlay">
                                             <div class="buttons" style="left: 30%">
