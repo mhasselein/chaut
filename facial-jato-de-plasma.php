@@ -92,23 +92,23 @@
                             </p>
                             <p>
                                 O jato de plasma aumenta a produção de colágeno e fibras elásticas, promovendo instantaneamente, 
-                                após a primeira sessão, o rejuvenescimento da pele  e o combate a flacidez, facilitando também a 
+                                após a primeira sessão, o <strong>rejuvenescimento da pele  e o combate a flacidez</strong>, facilitando também a 
                                 entrada de ativos na pele.
                             </p>
                             <p>
-                                Esta técnica tem uma recuperação super rápida, assim como seus resultados.
+                                Esta técnica tem uma <strong>recuperação super rápida</strong>, assim como seus resultados.
                                 Os efeitos positivos do tratamento poderão ser evidentes após a primeira sessão. 
                                 Porém, melhores resultados serão observados após três semanas.
 
                             </p>
                             <p>
-                                O Jato Plasma ainda possui a vantagem de permitir um resultado duradouro e até permanente.
+                                O Jato Plasma ainda possui a vantagem de permitir um <strong>resultado duradouro e até permanente</strong>.
                             </p>
                             <p>
                                 Suas principais indicações são:
                             </p>
                             <p>
-                                •	Excesso de pele nas pálpebras (blefaroplastia sem cortes);<br>
+                                •	<strong>Excesso de pele nas pálpebras (blefaroplastia sem cortes)</strong>;<br>
                                 •	Rugas e linhas de expressão;<br>
                                 •	Manchas senis e solares;<br>
                                 •	Sardas;<br>
