@@ -121,7 +121,9 @@
                                     </a>
                                 </h4>
                                 <p align="justify">
-                                    A <strong>limpeza de pele</strong> é um <strong>procedimento estético</strong> que tem como objetivo remover <strong>cravos e impurezas da pele</strong>. É indicada, principalmente, para remoção de <strong>cravos</strong> abertos ...
+                                    A <strong>limpeza de pele</strong> é um <strong>procedimento estético</strong> que tem como objetivo remover 
+                                    <strong>cravos e impurezas da pele</strong>. É indicada, principalmente, para remoção de 
+                                    <strong>cravos</strong>...
                                 </p>
                             </figcaption>
                         </figure>
@@ -216,7 +218,9 @@
                                     </a>
                                 </h4>
                                 <p align="justify">
-                                    O <strong>preenchimento</strong> cutâneo é uma técnica utilizada para a <strong>correção de sulcos, rugas e cicatrizes</strong>. Consiste na injeção de substâncias sob a área da <strong>pele</strong> a ser tratada elevando-a ...
+                                    O <strong>preenchimento</strong> cutâneo é uma técnica utilizada para a <strong>correção de sulcos, rugas e 
+                                        cicatrizes</strong>. Consiste na injeção de substâncias sob a área da <strong>pele</strong> a ser 
+                                        tratada elevando-a ...
                                 </p>
                             </figcaption>
                         </figure>
