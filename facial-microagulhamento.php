@@ -73,7 +73,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-single-img">
-                                <img class="img-responsive" alt="" src="images/portfolio/microagulhamento.jpg">
+                                <img class="img-responsive" alt="" src="images/portfolio/facial/facial-microagulhamento.jpg">
                             </div>
                         </div>
                         <div class="col-md-6">
