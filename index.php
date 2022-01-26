@@ -97,7 +97,7 @@
                         <p class="wow fadeInDown" data-wow-delay=".5s">
                             A <strong>Clínica Haut</strong> possui o que existe de melhor em tecnologia e profissionais qualificados. 
                             Está habilitada a oferecer tratamentos  para <strong>gordura localizada, celulite, olheiras, calvicie, manchas na pele, 
-                            flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos, pós operatórios</strong> e muito mais... 
+                            flacidez, estrias, rejuvenescimento facial, acne, depilação, preenchimentos</strong> e muito mais... 
                         </p>
                     </div>
                     <div class="row">
@@ -180,7 +180,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-sm-4 col-xs-12">
+<!--                        <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/pos_home.gif" class="img-responsive" alt="Pós Operatório" >
@@ -198,7 +198,7 @@
                                 </p>
                                 </figcaption>
                             </figure>
-                        </div>
+                        </div>-->
                        
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
@@ -219,7 +219,7 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-4 col-xs-12">
+<!--                        <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="3ms">
                                 <div class="img-wrapper">
                                     <img src="images/portfolio/nutricao/nutricao.jpg" class="img-responsive" alt="PEIM" >
@@ -237,7 +237,7 @@
                                 </p>
                                 </figcaption>
                             </figure>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </section> 

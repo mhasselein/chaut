@@ -35,31 +35,9 @@
                                         <li><a href="estetica-facial.php">Estética Facial</a></li>
                                         <li><a href="estetica-capilar.php">Estética Capilar</a></li>
                                         <li><a href="fotodepilacao.php">Fotodepilação</a></li>
-                                        <li><a href="pos-operatorio.php">Pós-Operatório</a></li>
-                                        <li><a href="gestacao.php">Gestação</a></li>
-                                        <li><a href="nutricao.php">Nutrição</a></li>
                                     </ul>
                                 </div>
                             </li>
-<!--                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Promoções <span class="caret"></span></a>
-                                <div class="dropdown-menu">
-                                    <ul>
-                                        <li><a href="404.php">404 Page</a></li>
-                                        <li><a href="gallery.php">Gallery</a></li>
-                                    </ul>
-                                </div>
-                            </li>-->
-<!--                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
-                                <div class="dropdown-menu">
-                                    <ul>
-                                        <li><a href="blog-fullwidth.php">Blog Full</a></li>
-                                        <li><a href="blog-left-sidebar.php">Blog Left sidebar</a></li>
-                                        <li><a href="blog-right-sidebar.php">Blog Right sidebar</a></li>
-                                    </ul>
-                                </div>
-                            </li>-->
                             <li><a href="contato.php">Contatos</a></li>
                         </ul>
                     </div>

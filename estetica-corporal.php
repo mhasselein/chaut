@@ -200,22 +200,22 @@
                     <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
-                                <img src="images/portfolio/corporal-drenagem-linfatica-manual.jpg" class="img-responsive" alt="Drenagem Linfática Manual " >
+                                <img src="images/portfolio/corporal/corporal-hidrolipoclasia.png" class="img-responsive" alt="Hidrolipoclasia" >
                                 <div class="overlay">
                                     <div class="buttons">
-                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal-drenagem-linfatica-manual.jpg">Slide</a>        
-                                        <a  href="corporal-drenagem-linfatica-manual.php">Detalhes</a>
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/corporal/corporal-hidrolipoclasia.png">Slide</a>        
+                                        <a  href="corporal-hidrolipoclasia.php">Detalhes</a>
                                     </div>
                                 </div>
                             </div>
                             <figcaption>
                                 <h4>
-                                    <a href="corporal-drenagem-linfatica-manual.php">
-                                        Drenagem Linfática Manual        
+                                    <a href="corporal-hidrolipoclasia.php">
+                                        Hidrolipoclasia não Aspirativa       
                                     </a>
                                 </h4>
                                 <p align="justify">
-                                    A <strong>Drenagem Linfática</strong> é uma técnica de massagem muito suave que tem por objetivo estimular o sistema linfático a trabalhar de forma mais acelerada. Entre os principais benefícios do método...
+                                    A <strngo>hidrolipoclasia não aspirativa</strngo> é um procedimento onde é aplicado doses de solução hipotônica (soro fisiológico) no tecido adiposo no local em que se deseja eliminar a gordura.
                                 </p>
                             </figcaption>
                         </figure>
