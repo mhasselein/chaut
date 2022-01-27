@@ -79,7 +79,7 @@
                     A cada dia que passa a <strong>Clínica Haut</strong> fica mais segura sobre a importância da <strong>estética facial</strong> na vida das pessoas <br>pois a primeira forma de nos comunicarmos é através de nossas <strong>expressões faciais</strong>.
                 </p>
                 <div class="row" id="tratamentos_faciais">
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-jato-de-plasma.jpg" class="img-responsive" alt="Jato de Plasma" >
@@ -103,7 +103,7 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-limpeza_pele.jpg" class="img-responsive" alt="Limpeza de Pele" >
@@ -128,8 +128,7 @@
                             </figcaption>
                         </figure>
                     </div>
-                    
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-peeleng_diamante.jpg" class="img-responsive" alt="Peeling de Diamante" >
@@ -152,8 +151,8 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-4">
-                        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
+                    <div class="col-sm-3">
+                    <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-radiofrequencia.jpg" class="img-responsive" alt="Radiofrequência" >
                                 <div class="overlay">
@@ -175,7 +174,9 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-4">
+                </div>
+                 <div class="row">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-botox.jpg" class="img-responsive" alt="Botox" >
@@ -200,7 +201,7 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-preenchimento.jpg" class="img-responsive" alt="Preenchimento com Ácido Hialurônico" >
@@ -225,7 +226,7 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-carboxiterapia.jpg" class="img-responsive" alt="Carboxiterapia" >
@@ -248,7 +249,7 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-microagulhamento.jpg" class="img-responsive" alt="Microagulhamento Facial" >
@@ -271,7 +272,9 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-sm-4">
+                </div>
+                <div class="row">
+                    <div class="col-sm-3">
                         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="img-wrapper">
                                 <img src="images/portfolio/facial/facial-peeling_quimico.jpg" class="img-responsive" alt="Peeling Químico" >
@@ -294,7 +297,32 @@
                             </figcaption>
                         </figure>
                     </div>
-                    
+                    <div class="col-sm-3">
+                        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
+                            <div class="img-wrapper">
+                                <img src="images/portfolio/facial/facial-bioestimulador_colageno.png" class="img-responsive" alt="Bioestimulador de Colágeno" >
+                                <div class="overlay">
+                                    <div class="buttons">
+                                        <a rel="gallery" class="fancybox" href="images/portfolio/facial/facial-bioestimulador_colageno.png">Slide</a>        
+                                        <a  href="facial-bioestimulador_colageno.php">Detalhes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <h4>
+                                    <a href="facial-bioestimulador_colageno.php">
+                                         Bioestimulador de colágeno      
+                                    </a>
+                                </h4>
+                                <p align="justify">
+                                    Os <strong>bioestimuladores</strong> são substâncias que estimulam a produção natural e biológica de colágeno quando injetadas em 
+                                    determinadas camadas da pele. O colágeno é uma das proteínas ...
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </div>
+                
+                   
                 </div>
        
                 </div>

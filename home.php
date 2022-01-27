@@ -61,9 +61,9 @@
                     <div class="col-md-12 text-center">
                         <div class="slider-wrapper theme-default">
                             <div id="slider" class="nivoSlider">
+                                <img src="images/b2.png" data-thumb="images/b2.png" alt="Bioestimulador de Colágeno" data-transition="boxRainReverse" />
                                 <img src="images/b3.jpg" data-thumb="images/b3.jpg" alt="Estética Facial"  data-transition="boxRainReverse" />
                                 <img src="images/b1.jpg" data-thumb="images/b1.jpg" alt="Fotodepilação" data-transition="boxRainReverse" />
-                                <img src="images/b2.jpg" data-thumb="images/b2.jpg" alt="Pós Operatório" data-transition="boxRainReverse" />
                             </div>
                         </div>
                         </div>
