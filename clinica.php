@@ -75,17 +75,18 @@
                             </div>
                         </div>
                             <div class="col-md-8">
-                            <h3 class="team_name">Letícia M. Bortolotto</h3>
-                            <p class="team_designation">CRBM-5: 2896</p>
-                            <p class="team_text">Proprietária, Biomédica Esteta e Estetocosmetóloga na Clínica Haut, 
-                                a Dra. Letícia possui um currículo repleto de especializações e cursos, entre eles:</p>
-                            <p class="team_text">- Estética e Cosmética pela ULBRA- SM 2009;</p>
-                            <p class="team_text">- Biomedicina pelo CNEC-BG 2016;</p>
-                            <p class="team_text">Habilitação em Biomedicina estética pelo Conselho Regional de Biomedicina 5a região (CRBM-5).</p>
-                            <p class="team_text">- Formação Internacional em Procedimentos Pré e Pós Operatórios de Cirurgia Plástica pelo ISEPE-RS com certificação pela Escola Internacional de Saúde Tecnológica de Lisboa- Portugal.</p>
-                            <p class="team_text">- Master Experience em <b>Harmonização Facial</b> com fresh frozen cadavers.</p>
-                            <p class="team_text">Com experiência na área estética há mais de 10 anos e sempre em busca de novos olhares e conhecimentos. </p>
-                            <p class="team_text"></p>
+                                <h3 class="team_name">Letícia M. Bortolotto</h3>
+                                <p class="team_designation">CRBM-5: 2896</p>
+                                <p class="team_text">Proprietária, <b>Biomédica Esteta e Estetocosmetóloga</b> na Clínica Haut, 
+                                    a Dra. Letícia possui um currículo repleto de especializações e cursos, entre eles:</p>
+                                <p class="team_text">- Estética e Cosmética pela ULBRA- SM 2009;</p>
+                                <p class="team_text">- Biomedicina pelo CNEC-BG 2016;</p>
+                                <p class="team_text">- Habilitação em <b>Biomedicina Estética</b> pelo Conselho Regional de Biomedicina 5a região (CRBM-5).</p>
+                                <p class="team_text">- Master Experience em <b>Harmonização Facial</b> com fresh frozen cadavers.</p>
+                                <p class="team_text">- Residência clínica em <b>Harmonização Facial</b>.</p>
+                                <p class="team_text">- Formação em <b>Terapia Capilar</b> pela ABT.</p>
+                                <p class="team_text">- Formação Internacional em Procedimentos Pré e Pós Operatórios de Cirurgia Plástica pelo ISEPE-RS com certificação pela Escola Internacional de Saúde Tecnológica de Lisboa- Portugal.</p>
+                                <p class="team_text">Com experiência na área estética há mais de 10 anos e sempre em busca de novos olhares e conhecimentos. </p>
                             </div>
                     </div>
                 </div>
